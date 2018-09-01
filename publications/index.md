@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-current: home
+current: publications
 class: 'home-template'
 navigation: True
 ---

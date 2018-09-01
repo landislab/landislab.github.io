@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-current: home
+current: research
 class: 'home-template'
 navigation: True
 ---

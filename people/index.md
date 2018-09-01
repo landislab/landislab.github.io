@@ -1,7 +1,7 @@
 ---
 layout: people
-title: Research
-current: home
+title: People
+current: people
 class: 'home-template'
 navigation: True
 ---
