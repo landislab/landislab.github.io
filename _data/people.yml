@@ -1,0 +1,38 @@
+mlandis:
+  username: michael_landis
+  name: Michael Landis
+  position: Principal Investigator
+  picture: assets/people/img/mlandis.jpg
+  url: https://mlandis.github.io
+  twitter: landismj
+  email: mlandis@gmail.com
+  github: mlandis
+  bitbucket: mlandis
+  cv: assets/people/cv/mlandis_cv.pdf
+  bio: I'm interested in learning how evolutionary processes behave and how Earth's biodiversity has changed over time.
+
+postdoc:
+  username: postdoc
+  name: (open position)
+  position: Postdoctoral Researcher
+  picture: assets/people/img/postdoc.jpg
+  url: False #mlandis.github.io
+  twitter: False
+  email: False
+  github: False
+  bitbucket: False
+  cv: False
+  bio: Position available starting Summer 2019. Email <a href="mailto:mlandis@gmail">Michael</a> for details.
+
+phd_student:
+  username: phd_student
+  name: (open position)
+  position: PhD Student
+  picture: assets/people/img/phd_student.jpg
+  url: False #mlandis.github.io
+  twitter: False
+  email: False
+  github: False
+  bitbucket: False
+  cv: False
+  bio: Position available starting Summer 2019. Email <a href="mailto:mlandis@gmail.com">Michael</a> for details.

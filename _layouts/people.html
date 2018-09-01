@@ -1,0 +1,86 @@
+---
+layout: default
+current: 
+title: People
+cover: false
+class: 'author-template'
+navigation: True
+label: Another
+---
+
+<!-- < default -->
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+    <div class="inner">
+        <div class="site-header-content">
+            <h1 class="site-title">
+                {% if site.logo %}
+                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
+                {% else %}
+                    {{ site.title }}
+                {% endif %}
+            </h1>
+            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
+        </div>
+        {% include site-nav.html %}
+    </div>
+</header>
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        <!-- render the Markdown content of home/index.md the front page -->
+        {{ content }}
+        <table>
+        {% for person in site.data.people %}
+            <tr>
+                <td markdown="span">
+                    <img src="{{site.baseurl}}{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
+                </td>
+                <td markdown="span">
+                    <div id="{{ person[1].username }}">
+                    {% if person[1].name %}
+                        <b>{{ person[1].name }}</b>
+                    {% endif %}
+                    </div>
+                    <div>
+                    {% if person[1].position %}
+                        <i>{{ person[1].position }}</i>
+                    {% endif %}
+                    </div>
+                    <div>
+                        {% if person[1].url %}
+                        <a class="social-link-people" color="#000" href="{{ person[1].url }}" target="_blank" rel="noopener">{% include website.html %}</a>
+                        {% endif %}
+                        {% if person[1].email %}
+                            <a class="social-link-people" color="#000" href="mailto:{{ person[1].email }}" target="_blank" rel="noopener">{% include email.html %}</a>
+                        {% endif %}
+                        {% if person[1].twitter %}
+                            <a class="social-link-people" color="#000" href="https://twitter.com/{{ person[1].twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                        {% endif %}
+                        {% if person[1].github %}
+                            <a class="social-link-people" color="#000" href="https://github.com/{{ person[1].github }}" target="_blank" rel="noopener">{% include github.html %}</a>
+                        {% endif %}
+                        {% if person[1].bitbucket %}
+                            <a class="social-link-people" color="#000" href="https://bitbucket.com/{{ person[1].bitbucket }}" target="_blank" rel="noopener">{% include bitbucket.html %}</a>
+                        {% endif %}
+                        {% if person[1].cv %}
+                        <a class="social-link-people" color="#000" href="{{ site.baseurl}}/{{ person[1].cv }}" target="_blank" rel="noopener">{% include cv.html %}</a>
+                        {% endif %}
+                    </div>
+                    <br>
+                    <div>
+                        {% if person[1].bio %}
+                            {{ person[1].bio }}
+                        {% endif %}
+                    </div>
+                </td>
+            </tr>
+        {% endfor %}
+        </table>
+        <br>
+    </div>
+</main>
