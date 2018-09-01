@@ -38,7 +38,7 @@ into the {body} of the default.hbs template -->
         {% for person in site.data.people %}
             <tr>
                 <td markdown="span">
-                    <img src="{{site.baseurl}}{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
+                    <img src="{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
                 </td>
                 <td markdown="span">
                     <div id="{{ person[1].username }}">
@@ -68,7 +68,7 @@ into the {body} of the default.hbs template -->
                             <a class="social-link-people" color="#000" href="https://bitbucket.com/{{ person[1].bitbucket }}" target="_blank" rel="noopener">{% include bitbucket.html %}</a>
                         {% endif %}
                         {% if person[1].cv %}
-                        <a class="social-link-people" color="#000" href="{{ site.baseurl}}/{{ person[1].cv }}" target="_blank" rel="noopener">{% include cv.html %}</a>
+                        <a class="social-link-people" color="#000" href="{{ person[1].cv }}" target="_blank" rel="noopener">{% include cv.html %}</a>
                         {% endif %}
                     </div>
                     <br>
