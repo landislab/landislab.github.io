@@ -2,8 +2,8 @@
 layout: people
 title: People
 current: 
-class: 'home-template'
 navigation: True
+class: 'home-template'
 ---
 
 <br>
