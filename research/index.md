@@ -3,6 +3,7 @@ layout: default
 title: Research
 current: 
 class: 'home-template'
+navigation: True
 ---
 
 <br>

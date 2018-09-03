@@ -3,6 +3,7 @@ layout: default
 title: Publications
 current:
 class: 'home-template'
+navigation: True
 ---
 
 <br>
