@@ -9,7 +9,7 @@ url: https://landislab.github.io
 baseurl: /
 
 # Website info
-title: Test # Landis Lab @ WUSTL
+title: Landis Lab @ WUSTL
 description: Modeling evolutionary histories
 cover: assets/images/background.png
 logo: False # assets/images/ghost-logo.svg
