@@ -8,12 +8,12 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: Landis Lab @ WUSTL
+title: Test # Landis Lab @ WUSTL
 description: Modeling evolutionary histories
 cover: assets/images/background.png
 logo: False # assets/images/ghost-logo.svg
 logo_dark: False # assets/images/favicon.png
-favicon: False # assets/images/favicon.png
+favicon: assets/images/favicon.png
 production_url: https://mlandis.github.io/
 source_url: https://github.com/mlandis/
 

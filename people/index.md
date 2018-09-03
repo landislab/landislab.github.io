@@ -1,7 +1,7 @@
 ---
 layout: people
 title: People
-current: people
+current: 
 class: 'home-template'
 navigation: True
 ---
