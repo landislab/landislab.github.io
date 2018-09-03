@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 title: Publications
-current: publications
+current:
 class: 'home-template'
-navigation: True
 ---
 
 <br>

@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 title: Research
-current: research
+current: 
 class: 'home-template'
-navigation: True
 ---
 
 <br>
