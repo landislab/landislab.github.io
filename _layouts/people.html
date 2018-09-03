@@ -8,12 +8,13 @@ navigation: True
 label: Another
 ---
 
+{% include base.html %}
 <!-- < default -->
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer" style="background-image:  url( {{ site.cover }} )">
+<header class="site-header outer" style="background-image:  url( ../{{ site.cover }} )">
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">
@@ -38,7 +39,7 @@ into the {body} of the default.hbs template -->
         {% for person in site.data.people %}
             <tr>
                 <td markdown="span">
-                    <img src="{{ site.baseurl}}{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
+                    <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
                 </td>
                 <td markdown="span">
                     <div id="{{ person[1].username }}">

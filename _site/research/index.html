@@ -2,6 +2,14 @@
 <html>
 <head>
 
+    <!-- gets us the relative directory -->
+    <!-- base.html -->
+
+
+
+
+
+
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -91,6 +99,46 @@
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
 
+        <!-- base.html -->
+
+
+
+
+
+<!-- < default -->
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<header class="site-header outer" style="background-image:  url( ../assets/images/background.png )">
+    <div class="inner">
+        <div class="site-header-content">
+            <h1 class="site-title">
+                
+                    Test
+                
+            </h1>
+            <h2 class="site-description">Modeling evolutionary histories</h2>
+        </div>
+        <nav class="site-nav">
+    <div class="site-nav-left">
+        <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
+    <li class="nav-people" role="menuitem"><a href="/people/">People</a></li>
+    <li class="nav-research" role="menuitem"><a href="/research/">Research</a></li>
+    <li class="nav-pubs" role="menuitem"><a href="/publications/">Publications</a></li>
+</ul>
+
+    </div>
+</nav>
+
+    </div>
+</header>
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        <!-- render the Markdown content of home/index.md the front page -->
         <p><br /></p>
 <h1 id="research">Research</h1>
 
@@ -254,6 +302,10 @@ RevBayes achieves this by providing a flexible scripting language to describe pr
     </tr>
 </table>
 
+
+        <br>
+    </div>
+</main>
 
 
 
