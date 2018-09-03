@@ -2,7 +2,7 @@ mlandis:
   username: michael_landis
   name: Michael Landis
   position: Principal Investigator
-  picture: assets/people/img/mlandis.jpg
+  picture: /assets/people/img/mlandis.jpg
   url: https://mlandis.github.io
   twitter: landismj
   email: mlandis@gmail.com
@@ -15,7 +15,7 @@ postdoc:
   username: postdoc
   name: (open position)
   position: Postdoctoral Researcher
-  picture: assets/people/img/postdoc.jpg
+  picture: /assets/people/img/postdoc.jpg
   url: False #mlandis.github.io
   twitter: False
   email: False
@@ -28,7 +28,7 @@ phd_student:
   username: phd_student
   name: (open position)
   position: PhD Student
-  picture: assets/people/img/phd_student.jpg
+  picture: /assets/people/img/phd_student.jpg
   url: False #mlandis.github.io
   twitter: False
   email: False
