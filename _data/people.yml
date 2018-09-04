@@ -22,7 +22,7 @@ postdoc:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Summer 2019. Email <a href="mailto:mlandis@gmail">Michael</a> for details.
+  bio: Position available starting Summer 2019. Details are <a href="postdoc_job">here</a>. Contact <a href="mailto:mlandis@gmail">Michael</a> with questions.
 
 phd_student:
   username: phd_student
@@ -35,4 +35,4 @@ phd_student:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Summer 2019. Email <a href="mailto:mlandis@gmail.com">Michael</a> for details.
+  bio: Position available starting Summer 2019. Details are not yet available, but contact <a href="mailto:mlandis@gmail">Michael</a> with questions if interested.
