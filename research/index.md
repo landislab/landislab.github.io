@@ -27,7 +27,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
 
 ##### Related work
 
-<table>
+<table table-layout="fixed" style="margin: auto" width="800px">
     <tr>
         <td markdown="span" width="200px">
             <img height="100px" width="180px" src="/assets/research/img/Landis_et_al_2018_Evolution_silversword_radiation.png" style="float: left; margin:0px 10px 0px 0px" class="img-circle-5">
@@ -82,7 +82,7 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
 
 ##### Related work
 
-<table>
+<table table-layout="fixed" style="margin: auto" width="800px">
     <tr>
         <td markdown="span" width="200px">
             <img src="/assets/research/img/Landis_Schraiber_2017_PNAS_pulse_vertebrate.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="200" class="img-circle-5">
@@ -128,7 +128,7 @@ RevBayes achieves this by providing a flexible scripting language to describe pr
 
 ##### Related work
 
-<table>
+<table table-layout="fixed" style="margin: auto" width="800px">
     <tr>
         <td markdown="span" width="200px">
             <img src="/assets/research/img/Hoehna_et_al_2017_Bioinformatics_parallel_marg_like.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="200" class="img-circle-5">

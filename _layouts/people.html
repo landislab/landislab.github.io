@@ -35,7 +35,7 @@ into the {body} of the default.hbs template -->
     <div class="inner">
         <!-- render the Markdown content of home/index.md the front page -->
         {{ content }}
-        <table>
+        <table table-layout="fixed" style="margin: auto" width="900px">
         {% for person in site.data.people %}
             <tr>
                 <td markdown="span">
