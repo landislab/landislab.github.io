@@ -3,9 +3,9 @@ mlandis:
   name: Michael Landis
   position: Principal Investigator
   picture: mlandis.jpg
-  url: https://mlandis.github.io
+  url: https://landislab.github.io
   twitter: landismj
-  email: mlandis@gmail.com
+  email: michael.landis@wustl.edu
   github: mlandis
   bitbucket: mlandis
   cv: assets/people/cv/mlandis_cv.pdf
@@ -22,7 +22,7 @@ postdoc:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Summer 2019. Details are <a href="postdoc_job">here</a>. Contact <a href="mailto:mlandis@gmail">Michael</a> with questions.
+  bio: Position available starting Summer 2019. Details are <a href="postdoc_position">here</a>. Contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with questions.
 
 phd_student:
   username: phd_student
@@ -35,4 +35,4 @@ phd_student:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Summer 2019. Details are not yet available, but contact <a href="mailto:mlandis@gmail">Michael</a> with questions if interested.
+  bio: Position available starting Summer 2019. Details are not yet available, but contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with questions if interested.

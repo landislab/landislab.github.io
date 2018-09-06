@@ -22,7 +22,7 @@ subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: landismj # replace by your username
-email: mlandis@gmail.com # replace w/ email addy
+email: michael.landis@wustl.edu # replace w/ email addy
 facebook: False # replace by your username
 
 # Disqus

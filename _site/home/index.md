@@ -1,7 +1,7 @@
 <br>
 # Lab info
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Michael Landis](mailto:mlandis@gmail.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Michael Landis](mailto:michael.landis@wustl.edu)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ starting Fall 2019 ]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
@@ -19,8 +19,8 @@ To this end, we develop probabilistic models of evolution, write open source and
 
 We are seeking researchers interested in studying evolutionary biology from a quantitative perspective.
 New lab members will design statistical models, develop scientific software methods, lead projects, and publish first-author papers.
-[Postdoctoral]({{site.baseurl}}/people#postdoc) and [PhD student](people#phd_student) positions are to start in Summer 2019 (some flexibility).
-If interested, please email a brief statement of your research interests and a copy of your CV to [mlandis (at) gmail (dot) com](mailto:mlandis@gmail.com).
+[Postdoctoral](people#postdoc) and [PhD student](people#phd_student) positions are to start in Summer 2019 (some flexibility).
+If interested, please email a brief statement of your research interests and a copy of your CV to [mlandis (at) gmail (dot) com](mailto:michael.landis@wustl.edu).
 A broader invitation to apply will be published by December 1, 2018.
 Applications will be reviewed starting in January 10, 2019.
 

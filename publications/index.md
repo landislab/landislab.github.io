@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Landis Lab - Publications
 current:
 class: 'home-template'
 navigation: True
