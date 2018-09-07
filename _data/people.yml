@@ -22,11 +22,11 @@ postdoc:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Summer 2019. Details are <a href="postdoc_position">here</a>. Contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with questions.
+  bio: Position available starting Summer 2019. Details are <a href="postdoc_position">here</a>. <a href="mailto:michael.landis@wustl.edu">Contact</a> with questions if interested.
 
 phd_student:
   username: phd_student
-  name: (open position)
+  name:  (open position)
   position: PhD Student
   picture: phd_student.jpg
   url: False #mlandis.github.io
@@ -35,4 +35,4 @@ phd_student:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Summer 2019. Details are not yet available, but contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with questions if interested.
+  bio: Position available starting Fall 2019. Details are <a href="phd_student_position">here</a>. <a href="mailto:michael.landis@wustl.edu">Contact</a> with questions if interested.

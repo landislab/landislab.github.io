@@ -35,53 +35,62 @@ into the {body} of the default.hbs template -->
     <div class="inner">
         <!-- render the Markdown content of home/index.md the front page -->
         {{ content }}
-        <table table-layout="fixed" style="margin: auto" width="900px">
-        {% for person in site.data.people %}
-            <tr>
-                <td markdown="span">
-                    <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
-                </td>
-                <td markdown="span">
-                    <div id="{{ person[1].username }}">
-                    {% if person[1].name %}
-                        <b>{{ person[1].name }}</b>
-                    {% endif %}
-                    </div>
-                    <div>
-                    {% if person[1].position %}
-                        <i>{{ person[1].position }}</i>
-                    {% endif %}
-                    </div>
-                    <div>
-                        {% if person[1].url %}
-                        <a class="social-link-people" color="#000" href="{{ person[1].url }}" target="_blank" rel="noopener">{% include website.html %}</a>
+        <!--<table table-layout="fixed" style="margin: auto" width="900px">-->
+        <table>
+            <colgroup>
+                <col style="width:200px">
+                <col>
+            </colgroup>
+            {% for person in site.data.people %}
+                <tr>
+                    <td markdown="span">
+                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
+                    </td>
+                    <td markdown="span">
+                        <div id="{{ person[1].username }}">
+                        {% if person[1].name %}
+                            <b>{{ person[1].name }}</b>
                         {% endif %}
-                        {% if person[1].email %}
-                            <a class="social-link-people" color="#000" href="mailto:{{ person[1].email }}" target="_blank" rel="noopener">{% include email.html %}</a>
+                        </div>
+                        <div>
+                        {% if person[1].position %}
+                            <i>{{ person[1].position }}</i>
                         {% endif %}
-                        {% if person[1].twitter %}
-                            <a class="social-link-people" color="#000" href="https://twitter.com/{{ person[1].twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
-                        {% endif %}
-                        {% if person[1].github %}
-                            <a class="social-link-people" color="#000" href="https://github.com/{{ person[1].github }}" target="_blank" rel="noopener">{% include github.html %}</a>
-                        {% endif %}
-                        {% if person[1].bitbucket %}
-                            <a class="social-link-people" color="#000" href="https://bitbucket.com/{{ person[1].bitbucket }}" target="_blank" rel="noopener">{% include bitbucket.html %}</a>
-                        {% endif %}
-                        {% if person[1].cv %}
-                        <a class="social-link-people" color="#000" href="{{ person[1].cv }}" target="_blank" rel="noopener">{% include cv.html %}</a>
-                        {% endif %}
-                    </div>
-                    <br>
-                    <div>
-                        {% if person[1].bio %}
-                            {{ person[1].bio }}
-                        {% endif %}
-                    </div>
-                </td>
-            </tr>
-        {% endfor %}
+                        </div>
+                        <div>
+                            {% if person[1].url %}
+                            <a class="social-link-people" color="#000" href="{{ person[1].url }}" target="_blank" rel="noopener">{% include website.html %}</a>
+                            {% endif %}
+                            {% if person[1].email %}
+                                <a class="social-link-people" color="#000" href="mailto:{{ person[1].email }}" target="_blank" rel="noopener">{% include email.html %}</a>
+                            {% endif %}
+                            {% if person[1].twitter %}
+                                <a class="social-link-people" color="#000" href="https://twitter.com/{{ person[1].twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                            {% endif %}
+                            {% if person[1].github %}
+                                <a class="social-link-people" color="#000" href="https://github.com/{{ person[1].github }}" target="_blank" rel="noopener">{% include github.html %}</a>
+                            {% endif %}
+                            {% if person[1].bitbucket %}
+                                <a class="social-link-people" color="#000" href="https://bitbucket.com/{{ person[1].bitbucket }}" target="_blank" rel="noopener">{% include bitbucket.html %}</a>
+                            {% endif %}
+                            {% if person[1].cv %}
+                            <a class="social-link-people" color="#000" href="{{ person[1].cv }}" target="_blank" rel="noopener">{% include cv.html %}</a>
+                            {% endif %}
+                        </div>
+                        <br>
+                        <div>
+                            {% if person[1].bio %}
+                                {{ person[1].bio }}
+                            {% endif %}
+                        </div>
+                    </td>
+                </tr>
+            {% endfor %}
         </table>
-        <br>
     </div>
+    <div style="width:80%; margin-left:auto; margin-right:auto">
+        <h3>Interested in joining?</h3>
+        We're always looking for creative thinkers that study models of evolution. Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> directly to inquire about postdoctoral, graduate, and undergraduate research opportunities.
+    </div>
+    <br>
 </main>
