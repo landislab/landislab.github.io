@@ -15,10 +15,13 @@ The successful candidate will research macroevolutionary questions using quantit
 Candidates must hold an undegraduate degree in biology, bioinformatics, computer science, statistics, or a related field. Applicants must demonstrate interest in models or methods used in evolutionary biology or ecology. The researcher will develop within the phylogenetics modeling software, RevBayes <https://revbayes.com>, and collaborate with an international team of researchers and developers. Programming experience is desired, with preference for C/C++/Java over Python/R.
 
 ### Employment
-The position begins in the fall of 2019 with guaranteed funding for five years. It is a full-time position (40 hrs/wk) that pays a competitive salary of $30,500 anually. WashU offers outstanding benefits, including health, dental, vision, and life insurance <https://hr.wustl.edu/benefits/postdoctoral/>. St. Louis itself is both an exciting and family friendly city, with affordable housing and excellent access to food, music, art, and public spaces.
+The position begins in the fall of 2019 with guaranteed funding for five years. It is a full-time position (40 hrs/wk) that pays a competitive salary of $30,500 anually. WashU offers outstanding benefits, including health, dental, vision, and life insurance <http://dbbs.wustl.edu/curstudents/StipendBenefitsandGrants/Pages/default.aspx>. St. Louis itself is both an exciting and family friendly city, with affordable housing and excellent access to food, music, art, and public spaces.
 
 ### Application
-To apply, submit (i) your CV, (ii) a one-page cover letter that briefly states your research interests, and (iii) up to three references to TBD. The review of applications will begin on January 10th, 2019 and continue until the position is filled.
+PhD applicants are officially accepted through the Division of Biology and Biomedical Sciences (DBBS).
+Exact application requirements are listed through the DBBS PhD Admissions webpage:  <http://dbbs.wustl.edu/prospstudents/PhDAdmissions/Pages/PhD-Application-Instructions.aspx>.
+Applicants are strongly encouraged to initiate a conversation with [michael.landis@wustl.edu](mailto:michael.landis@wustl.edu) before applying.
+Deadline for Fall 2019 applications is December 1st, 2018.
 
 WashU is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity or expression, national origin, genetic information, disability, or protected veteran status.
 
