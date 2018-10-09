@@ -18,7 +18,8 @@ Candidates must hold a PhD in biology, bioinformatics, computer science, statist
 The position begins in the summer of 2019 and lasts for two years with the possibility of extension. It is a full-time position (40 hrs/wk) that pays a competitive salary starting at $48,432 per NIH guidelines <https://www.niaid.nih.gov/grants-contracts/salary-cap-stipends>. WashU offers outstanding benefits, including health, dental, vision, and life insurance <https://hr.wustl.edu/benefits/postdoctoral/>. St. Louis itself is both an exciting and family friendly city, with affordable housing and excellent access to food, music, art, and public spaces.
 
 ### Application
-To apply, submit (i) your CV, (ii) a two-page cover letter that briefly states your research interests, and (iii) three references to TBD. The review of applications will begin on December 1st, 2018 and continue until the position is filled.
+To apply, submit (i) your CV, (ii) a two-page cover letter that briefly states your research interests, and (iii) three references using the form located here ([link](
+https://jobs.wustl.edu/psc/APPLHRMS/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&REL_ACTION=Yes&SiteId=1&HRS_JO_PST_TYPE=E&HRS_JOB_OPENING_ID=41792&HRS_JO_PST_SEQ=1)). The review of applications will begin on December 1st, 2018 and continue until the position is filled.
 
 WashU is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity or expression, national origin, genetic information, disability, or protected veteran status.
 
