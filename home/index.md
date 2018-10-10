@@ -20,7 +20,7 @@ To this end, we develop probabilistic models of evolution, write open source and
 
 We are seeking researchers interested in studying evolutionary biology from a quantitative perspective.
 New lab members will design statistical models, develop scientific software methods, lead projects, and publish first-author papers.
-[Postdoctoral](people#postdoc) and [PhD student](people#phd_student) positions are to start in Summer/Fall 2019 (some flexibility).
+[Postdoctoral](people/postdoc_position) and [PhD student](people/phd_student_position) positions are to start in Summer/Fall 2019 (some flexibility).
 If interested, please email a brief statement of your research interests and a copy of your CV to [michael.landis@wustl.edu](mailto:michael.landis@wustl.edu).
 A broader invitation to apply will be published by December 1, 2018.
 <br>
