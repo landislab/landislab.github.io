@@ -9,7 +9,7 @@ navigation: True
 <br>
 # Publications
 
-Quintero, I. and **Landis, M. J.** (2019). Interdependent Phenotypic and Biogeographic Evolution Driven by Biotic Interactions. bioRxiv (submitted).<br>
+Quintero, I. and **Landis, M. J.** (2019). Interdependent phenotypic and biogeographic evolution driven by biotic interactions. bioRxiv (submitted).<br>
 [[paper](/assets/research/pdf/Quintero_Landis_2019_bioRxiv_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
 
 **Landis, M. J.**. Biogeographic dating of phylogenetic divergence times using priors and processes in The Molecular Evolutionary Clock: Theory and Practice (S. Y. W. Ho, ed.). Springer (under review).
