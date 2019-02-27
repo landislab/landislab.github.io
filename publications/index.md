@@ -9,8 +9,14 @@ navigation: True
 <br>
 # Publications
 
+Quintero, I. and **Landis, M. J.** (2019). Interdependent Phenotypic and Biogeographic Evolution Driven by Biotic Interactions. bioRxiv (submitted).<br>
+[[paper](/assets/research/pdf/Quintero_Landis_2019_bioRxiv_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
+
+Field, D. J., Berv, J. S., Hsiang, A. Y., Lanfear, R., **Landis, M. J.**, and Dornburg, A. (2019). Timing the extant avian radiation: The rise of modern birds, and the importance of modeling molecular rate variation. PeerJ, doi.org/10.7287/peerj.preprints.27521v1.<br>
+[[paper](/assets/research/pdf/Field_et_al_2019_PeerJ_avian_dating.pdf)]
+
 **Landis, M. J.**, Freyman, W. A., & Baldwin, B. G. (2018). Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution (Accepted).<br>
-[[paper](/assets/research/pdf/Landis_et_al_2018_bioRxiv_silversword_radiation)]  [[scripts](http://github.com/mlandis/biogeo_silversword)]
+[[paper](/assets/research/pdf/Landis_et_al_2018_bioRxiv_silversword_radiation.pdf)]  [[scripts](http://github.com/mlandis/biogeo_silversword)]
 
 Park, B., Sinnott-Armstrong, M., Schlutius, C., Zuluaga, J. C., Spriggs, E. L., Simpson, R. G., Benavides, E., **Landis, M. J.**, Sweeney, P. W., Eaton, D. A., Donoghue, M. J. Sterile marginal flowers increase visitation and fruit set in the hobblebush (Viburnum lantanoides, Adoxaceae) at multiple spatial scales. Annals of Botany (Accepted).
 

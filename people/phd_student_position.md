@@ -21,7 +21,7 @@ The position begins in the fall of 2019 with guaranteed funding for five years. 
 PhD applicants are officially accepted through the Division of Biology and Biomedical Sciences (DBBS).
 Exact application requirements are listed through the DBBS PhD Admissions webpage:  <http://dbbs.wustl.edu/prospstudents/PhDAdmissions>.
 Applicants are strongly encouraged to initiate a conversation with [michael.landis@wustl.edu](mailto:michael.landis@wustl.edu) before applying.
-Deadline for Fall 2019 applications is December 1st, 2018.
+Applications are typically due in early December.
 
 WashU is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity or expression, national origin, genetic information, disability, or protected veteran status.
 
