@@ -9,7 +9,10 @@ navigation: True
 <br>
 # Publications
 
-Quintero, I. and **Landis, M. J.** (2019). Interdependent phenotypic and biogeographic evolution driven by biotic interactions. bioRxiv (submitted).<br>
+Braga, M. P., **Landis, M. J.**, Nylin, S., Janz, N., & Ronquist, F. (2019). Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. bioRxiv, 675017.<br>
+[[paper](/assets/research/pdf/Braga_et_al_2019_bioRxiv_host_parasite.pdf)]
+
+Quintero, I. and **Landis, M. J.** (2019). Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology (accepted).<br>
 [[paper](/assets/research/pdf/Quintero_Landis_2019_bioRxiv_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
 
 **Landis, M. J.**. Biogeographic dating of phylogenetic divergence times using priors and processes in The Molecular Evolutionary Clock: Theory and Practice (S. Y. W. Ho, ed.). Springer (under review).

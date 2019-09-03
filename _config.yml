@@ -13,8 +13,8 @@ title: Landis Lab @ WUSTL
 description: Modeling evolutionary histories
 cover: assets/images/background.png
 favicon: False #assets/images/favicon.png
-production_url: https://mlandis.github.io/
-source_url: https://github.com/mlandis/
+production_url: https://landislab.org/
+source_url: https://github.com/landislab/
 
 # Social info
 navigation: True # show the navbar links
@@ -70,8 +70,8 @@ branch: master
 relative_source: ../landislab
 #destination: ../landislab-pages/
 destination: ./_site/
-production_url:  https://landislab.github.io/
-source_url:  https://github.com/landislab/landislab.github.io/
+#production_url:  https://landislab.org/
+#source_url:  https://github.com/landislab/landislab.github.io/
 
 exclude:
   - assets/css

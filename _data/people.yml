@@ -11,6 +11,19 @@ mlandis:
   cv: assets/people/cv/mlandis_cv.pdf
   bio: I'm interested in learning how evolutionary processes behave and how Earth's biodiversity has changed over time.
 
+mbraga:
+  username: mariana_braga
+  name: Mariana Braga
+  position: Postdoctoral Researcher
+  picture: mbraga.jpg
+  url: https://www.su.se/english/profiles/mbrag-1.219235
+  twitter: mpiresbr2
+  email: mariana.braga@zoologi.su.se
+  github: mpiresbr
+  bitbucket: False
+  cv: False
+  bio: (joining in October 2019)
+
 postdoc:
   username: postdoc
   name: (open position)
@@ -22,9 +35,7 @@ postdoc:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Summer 2019. <a href="mailto:michael.landis@wustl.edu">Contact</a> with questions if interested.
-
-  #Details are <a href="postdoc_position">here</a>. <a href="mailto:michael.landis@wustl.edu">Contact</a> with questions if interested.
+  bio: This research position will remain open until filled. A general description for the position is described <a href="postdoc_position">here</a>. Contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with questions if interested.
 
 phd_student:
   username: phd_student
@@ -37,4 +48,4 @@ phd_student:
   github: False
   bitbucket: False
   cv: False
-  bio: Position available starting Fall 2020. Details are <a href="phd_student_position">here</a>. <a href="mailto:michael.landis@wustl.edu">Contact</a> with questions if interested.
+  bio: This research position is available starting Fall 2020. Application details are <a href="phd_student_position">here</a>. Interested applicants are urged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.
