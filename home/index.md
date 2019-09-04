@@ -23,8 +23,8 @@ We are actively recruiting PhD students to join us for Fall 2020! Interested app
 *01 Aug 2019*<br>
 Just returned from the [Workshop on Molecular Evolution](https://molevol.mbl.edu/index.php/Main_Page) for 2019 at [MBL](http://mbl.edu) in beautiful ctenophorous Woods Hole, MA. Our lecture and lab materials for teaching Bayesian phylogenetics using [RevBayes](http://revbayes.com) are hosted [here](https://revbayes.github.io/workshops/woodshole2019.html) -- resources compiled by [Dr. Tracy Heath](http://phyloworks.com)!
 
-*05 Jul 2019*<br>
-Michael's presentation on modeling phylogenetic biome shifts was filmed and is hostedd [here](https://www.youtube.com/watch?v=40TwHG3EoTw). Stay tuned for the preprint.
+<!-- *05 Jul 2019*<br>
+Michael's presentation on modeling phylogenetic biome shifts was filmed and is hosted [here](https://www.youtube.com/watch?v=40TwHG3EoTw). Stay tuned for the preprint. -->
 
 *29 Aug 2018*<br>
 We are seeking researchers interested in studying evolutionary biology from a quantitative perspective.
