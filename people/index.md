@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Landis Lab - People
+title: Landis Lab @ WUSTL - People
 current: 
 navigation: True
 class: 'home-template'

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Landis Lab - Research
+title: Landis Lab @ WUSTL - Research
 current: 
 class: 'home-template'
 navigation: True
