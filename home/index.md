@@ -3,6 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Michael Landis**](mailto:michael.landis@wustl.edu)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock Hall, Room 210<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
 
@@ -16,6 +17,9 @@ We're always looking for creative thinkers that study models of evolution! Pleas
 ----
 
 # News
+
+*28 Oct 2019*<br>
+Dr. Mariana Braga has joined the lab as a postdoctoral researcher. Dr. Braga recently earned her PhD from Stockholm University, where she studied the co-evolution of plant-insect interactions. Welcome!
 
 *03 Sep 2019*<br>
 We are actively recruiting PhD students to join us for Fall 2020! Interested applicants, please contact [michael.landis@wustl.edu](mailto:michael.landis@wustl.edu) so we can learn more about you and your research interests, and so we can answer any questions you have about applying. Learn more about applications [here](http://dbbs.wustl.edu/prospstudents/PhDAdmissions/Pages/PhDAdmissions.aspx).

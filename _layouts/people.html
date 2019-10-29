@@ -47,6 +47,7 @@ into the {body} of the default.hbs template -->
                         <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
                     </td>
                     <td markdown="span">
+                        <br>
                         <div id="{{ person[1].username }}">
                         {% if person[1].name %}
                             <b>{{ person[1].name }}</b>
@@ -83,6 +84,7 @@ into the {body} of the default.hbs template -->
                                 {{ person[1].bio }}
                             {% endif %}
                         </div>
+                        <br>
                     </td>
                 </tr>
             {% endfor %}
