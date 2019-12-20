@@ -9,13 +9,15 @@ navigation: True
 <br>
 # Publications
 
-<!-- **Landis, MJ**, EJ Edwards, & MJ Donoghue. 2019. Modeling phylogenetic biome shifts on a planet with a past. bioRxiv, XXXXXX.<br>
-[[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_biome_shift.pdf)] -->
+**Landis, MJ**, EJ Edwards, & MJ Donoghue. 2019. Modeling phylogenetic biome shifts on a planet with a past. bioRxiv, 832527.<br>
+[[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_biome_shift.pdf)]
 
 **Landis, MJ**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, & MJ Donoghue. 2019. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. bioRxiv, 811067 (under review).<br>
 [[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_viburnum_phylo.pdf)]
 
-**Landis, MJ**. Biogeographic dating of phylogenetic divergence times using priors and processes in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer (under review).
+Kim, AS, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C Bullock, SL Deem, J Oppenheimer, B Shapiro, T Wang, S Cherry, CB Coyne, SA Handley, MJ Landis (+), DH Fremont (+), MS Diamond (+). An evolutionary insertion in the Mxra8 receptor binding site confers resistance to alphavirus infection and pathogenesis. Cell Host & Microbe (accepted).
+
+**Landis, MJ**. Biogeographic dating of phylogenetic divergence times using priors and processes in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer (accepted).
 
 **Braga, MP**, **MJ Landis**, S Nylin, N Janz, & F Ronquist. 2019. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology (accepted).<br>
 [[paper](/assets/research/pdf/Braga_et_al_2019_bioRxiv_host_parasite.pdf)]
@@ -61,3 +63,6 @@ Höhna, S, TA Heath, B Boussau, **MJ Landis**, F Ronquist, & JP Huelsenbeck. 201
 **Landis, MJ** (\*), JG Schraiber (\*), & M Liang. 2013. Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits. Systematic Biology, 62:193-204.<br>
 [[paper](/assets/research/pdf/Landis_et_al_2012_SystBiol_phylo_levy.pdf)]  [[software](http://github.com/mlandis/creepy-jerk)]
 
+---
+(\*) -- shared first authorship
+(+) -- shared corresponding authorship
