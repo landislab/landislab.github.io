@@ -15,7 +15,7 @@ navigation: True
 **Landis, MJ**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, & MJ Donoghue. 2019. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. bioRxiv, 811067 (under review).<br>
 [[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_viburnum_phylo.pdf)]
 
-Kim, AS, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C Bullock, SL Deem, J Oppenheimer, B Shapiro, T Wang, S Cherry, CB Coyne, SA Handley, **MJ Landis (+)**, DH Fremont (+), MS Diamond (+). 2019. An evolutionary insertion in the Mxra8 receptor binding site confers resistance to alphavirus infection and pathogenesis. Cell Host & Microbe (accepted).
+Kim, AS, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C Bullock, SL Deem, J Oppenheimer, B Shapiro, T Wang, S Cherry, CB Coyne, SA Handley, **MJ Landis (+)**, DH Fremont (+), & MS Diamond (+). 2019. An evolutionary insertion in the Mxra8 receptor binding site confers resistance to alphavirus infection and pathogenesis. Cell Host & Microbe (accepted).
 
 **Landis, MJ**. 2019. Biogeographic dating of phylogenetic divergence times using priors and processes in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer (accepted).
 
