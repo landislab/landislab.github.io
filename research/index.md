@@ -101,7 +101,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
 
 ---
 
-### The evolution of ecological interactions
+### Evolution of ecological interactions
 
 Ecological interactions are as common as they are varied across species, suggesting that those interactions evolved in response to the changing conditions any lineage experienced.
 Although we can directly observe and measure ecological interactions for living species, ancestral interactions are only rarely preserved in the fossil record.
