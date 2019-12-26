@@ -10,7 +10,7 @@ navigation: True
 # Research
 
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
-My primary research interests include **statistical phylogenetics**, **Bayesian inference**, **historical biogeography**, and **phenotypic evolution**.
+My primary research interests include **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **statistical phylogenetics**.
 The Landis Lab studies evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 These methods are available as open source software (see below).
 We maintain a broad and active interest in phylogenetic inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees.
@@ -24,8 +24,6 @@ Because many species have no known fossil record, biogeographers often rely on r
 Only recently, parametric models have been used in a phylogenetic context to estimate ancestral species ranges, represented presence-absence states for sets of discrete areas.
 Methodologically, we are interested in techniques to allow the models to be applied to high-resolution, global-scale datsets.
 For models, we are interested how biogeographic inference may improve phylogenetic estimates.
-
-
 
 #### Related work
 
@@ -42,8 +40,8 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **Landis, M. J.**, Freyman, W. A., & Baldwin, B. G. (2018). Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution (Accepted).<br>
-            [[paper](/assets/research/pdf/Landis_et_al_2018_bioRxiv_silversword_radiation)]  [[scripts](http://github.com/mlandis/biogeo_silversword)]
+                **Landis, MJ**, WA Freyman, & BG Baldwin. 2018. Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution, 72:2343-2359.<br>
+                [[paper](/assets/research/pdf/Landis_et_al_2018_Evolution_silversword_radiation.pdf)]  [[scripts](http://github.com/mlandis/biogeo_silversword)]
             </td>
         </table></td>
     </tr>
@@ -60,8 +58,8 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **Landis, M. J.** (2017). Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66(2):128-144.<br>
-            [[paper](/assets/research/pdf/Landis_2016_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
+                **Landis, MJ**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66:128-144.<br>
+                [[paper](/assets/research/pdf/Landis_2016_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
             </td>
         </table></td>
     </tr>
@@ -77,8 +75,8 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **Landis, M. J.** and Bedford, T. (2014). Phylowood: interactive web-based animations of biogeographic and phylogeographic histories. Bioinformatics, 30(1), 123-124.<br>
-            [[paper](/assets/research/pdf/Landis_Bedford_2014_Bioinfo_phylowood.pdf)]  [[software](http://mlandis.github.io/phylowood)]
+                **Landis, MJ** and T Bedford. 2014. Phylowood: interactive web-based animations of biogeographic and phylogeographic histories. Bioinformatics, 30:123-124.<br>
+                [[paper](/assets/research/pdf/Landis_Bedford_2014_Bioinfo_phylowood.pdf)]  [[software](http://mlandis.github.io/phylowood)]
             </td>
         </table></td>
     </tr>
@@ -94,8 +92,68 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 **Landis, M. J.**, Matzke, N. J., Moore, B. R., & Huelsenbeck, J. P. (2013). Bayesian Analysis of Biogeography when the Number of Areas is Large. Systematic Biology, 62(6):789-804.<br>
-            [[paper](/assets/research/pdf/Landis_et_al_2013_SystBiol_biogeography_many_areas.pdf)]  [[software](http://software.google.com/p/archive/bayarea)]
+                 **Landis, MJ**, NJ Matzke, BR Moore, & JP Huelsenbeck. 2013. Bayesian Analysis of Biogeography when the Number of Areas is Large. Systematic Biology, 62:789-804.<br>
+                [[paper](/assets/research/pdf/Landis_et_al_2013_SystBiol_biogeography_many_areas.pdf)]  [[software](http://software.google.com/p/archive/bayarea)]
+            </td>
+        </table></td>
+    </tr>
+</table>
+
+---
+
+### The evolution of ecological interactions
+
+Ecological interactions are as common as they are varied across species, suggesting that those interactions evolved in response to the changing conditions any lineage experienced.
+Although we can directly observe and measure ecological interactions for living species, ancestral interactions are only rarely preserved in the fossil record.
+Our work in this area aims to illuminate how ecological interactions evolved within a clade (or between clades) over time by developing phylogenetic models that incorporate empirical and theoretical insights from ecology.
+
+#### Related work
+
+<table>
+
+    <!-- NEW ENTRY -->
+    <tr>
+        <!-- IMAGE -->
+        <td><table table-layout="fixed" style="margin:auto" width="200px">
+            <td markdown="span" width="200px">
+                <img src="/assets/research/img/Landis_et_al_2019_bioRxiv_biome_shift.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+            </td>
+        </table></td>
+        <!-- PAPER -->
+        <td><table table-layout="fixed" style="margin:auto">
+            <td markdown="span">
+                 **Landis, MJ**, EJ Edwards, & MJ Donoghue. 2019. Modeling phylogenetic biome shifts on a planet with a past. bioRxiv, 832527 (under review).<br>
+[[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_biome_shift.pdf)]
+            </td>
+        </table></td>
+    </tr>
+    <tr>
+        <!-- IMAGE -->
+        <td><table table-layout="fixed" style="margin:auto" width="200px">
+            <td markdown="span" width="200px">
+                <img src="/assets/research/img/Braga_et_al_2019_bioRxiv_host_parasite.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+            </td>
+        </table></td>
+        <!-- PAPER -->
+        <td><table table-layout="fixed" style="margin:auto">
+            <td markdown="span">
+                 **Braga, MP**, **MJ Landis**, S Nylin, N Janz, & F Ronquist. 2019. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology (accepted).<br>
+[[paper](/assets/research/pdf/Braga_et_al_2019_bioRxiv_host_parasite.pdf)]
+            </td>
+        </table></td>
+    </tr>
+    <tr>
+        <!-- IMAGE -->
+        <td><table table-layout="fixed" style="margin:auto" width="200px">
+            <td markdown="span" width="200px">
+                <img src="/assets/research/img/Quintero_Landis_2019_bioRxiv_biotic_interactions.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+            </td>
+        </table></td>
+        <!-- PAPER -->
+        <td><table table-layout="fixed" style="margin:auto">
+            <td markdown="span">
+                 Quintero, I and **MJ Landis** 2019. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology (accepted).<br>
+[[paper](/assets/research/pdf/Quintero_Landis_2019_bioRxiv_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
             </td>
         </table></td>
     </tr>
@@ -127,8 +185,8 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **Landis, M. J.** and Schraiber, J. G. (2017). Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114(50) 13224-13229.<br>
-            [[paper](/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]  [[software](http://github.com/Schraiber/pulsR)]
+                **Landis, MJ** and JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114:13224-13229.<br>
+                [[paper](/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]  [[software](http://github.com/Schraiber/pulsR)]
             </td>
         </table></td>
     </tr>
@@ -145,8 +203,8 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                Schraiber, J. G. and **Landis, M. J.**. (2015). Sensitivity of quantitative traits to mutational effects and number of loci. Theoretical population biology, 102: 85-93.<br>
-            [[paper](/assets/research/pdf/Schraiber_Landis_2014_TPB_quant_coalescent.pdf)]  [[scripts](http://github.com/Schraiber/quant_trait_coalescent)]
+                Schraiber, JG and **MJ Landis**. 2015. Sensitivity of quantitative traits to mutational effects and number of loci. Theoretical Population Biology, 102:85-93.<br>
+                [[paper](/assets/research/pdf/Schraiber_Landis_2014_TPB_quant_coalescent.pdf)]  [[scripts](http://github.com/Schraiber/quant_trait_coalescent)]
             </td>
         </table></td>
     </tr>
@@ -162,8 +220,8 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **Landis, M. J.** (\*), Schraiber, J. G. (\*), & Liang, M. (2013). Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits. Systematic Biology, 62(2):193-204.<br>
-            [[paper](/assets/research/pdf/Landis_et_al_2012_SystBiol_phylo_levy.pdf)]  [[software](http://github.com/mlandis/creepy-jerk)]
+                **Landis, MJ (\*)**, JG Schraiber (\*), & M Liang. 2013. Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits. Systematic Biology, 62:193-204.<br>
+                [[paper](/assets/research/pdf/Landis_et_al_2012_SystBiol_phylo_levy.pdf)]  [[software](http://github.com/mlandis/creepy-jerk)]
             </td>
         </table></td>
     </tr>
@@ -200,8 +258,8 @@ RevBayes achieves this by providing a flexible scripting language to describe pr
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                Höhna, S., **Landis, M. J.**, and Huelsenbeck, J. P. (2017).  Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. Bioinformatics, Accepted.
-                <br>[[paper (pre-print)](/assets/research/pdf/Hoehna_et_al_2017_bioRxiv_parallel_marg_like.pdf)]
+                Höhna, S, **MJ Landis**, and JP Huelsenbeck. 2017. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. Bioinformatics, Accepted.<br>
+                [[paper (pre-print)](/assets/research/pdf/Hoehna_et_al_2017_bioRxiv_parallel_marg_like.pdf)]
             </td>
         </table></td>
     </tr>
@@ -218,8 +276,8 @@ RevBayes achieves this by providing a flexible scripting language to describe pr
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                Höhna, S., **Landis, M. J.**, and Heath, T. A. (2017). Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics, 57:6.16-6.16.34.
-<br>[[paper](/assets/research/pdf/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.pdf)]
+                Höhna, S, **MJ Landis**, and TA Heath. 2017. Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics, 57:6.16-6.16.34.<br>
+[[paper](/assets/research/pdf/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.pdf)]
             </td>
         </table></td>
     </tr>
@@ -236,8 +294,8 @@ RevBayes achieves this by providing a flexible scripting language to describe pr
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 Höhna, S., **Landis, M. J.**, Heath, T. A., Boussau, B., Lartillot, N., Moore, B. R., Huelsenbeck, J. P. & Ronquist, F. (2016). RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language. Systematic Biology, 65(4):726-736.
-<br>[[paper](/assets/research/pdf/Hoehna_et_al_2016_SystBiol_revbayes.pdf)]  [[software](http://github.com/revbayes/revbayes)]
+                 Höhna, S, **MJ Landis**, TA Heath, B Boussau, N Lartillot, BR Moore, JP Huelsenbeck, & F Ronquist. 2016. RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language. Systematic Biology, 65:726-736.<br>
+[[paper](/assets/research/pdf/Hoehna_et_al_2016_SystBiol_revbayes.pdf)]  [[software](http://github.com/revbayes/revbayes)]
             </td>
         </table></td>
     </tr>
@@ -254,8 +312,8 @@ RevBayes achieves this by providing a flexible scripting language to describe pr
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                Höhna, S., Heath, T. A., Boussau, B., **Landis, M. J.**, Ronquist, F., & Huelsenbeck, J. P. (2014). Probabilistic graphical model representation in phylogenetics. Systematic Biology, 63(5):753-771.
-<br>[[paper](/assets/research/pdf/Hoehna_et_al_2014_SystBiol_graphical_models.pdf)]
+                Höhna, S, TA Heath, B Boussau, **MJ Landis**, F Ronquist, & JP Huelsenbeck. 2014. Probabilistic graphical model representation in phylogenetics. Systematic Biology, 63:753-771.<br>
+                [[paper](/assets/research/pdf/Hoehna_et_al_2014_SystBiol_graphical_models.pdf)]
             </td>
         </table></td>
     </tr>

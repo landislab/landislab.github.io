@@ -18,7 +18,6 @@ navigation: True
 Kim, AS, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C Bullock, SL Deem, J Oppenheimer, B Shapiro, T Wang, S Cherry, CB Coyne, SA Handley, **MJ Landis (+)**, DH Fremont (+), & MS Diamond (+). 2019. An evolutionary insertion in the Mxra8 receptor binding site confers resistance to alphavirus infection and pathogenesis. Cell Host & Microbe (accepted).<br>
 [[paper](mailto:michael.landis@wustl.edu?Subject=pdf%20request%20for%20Kim%20et%20al.%20(2019)%20article%20on%20alphaviruses&Body=No%20message%20necessary!)]
 
-
 **Landis, MJ**. 2019. Biogeographic dating of phylogenetic divergence times using priors and processes in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer (accepted).<br>
 [[paper](mailto:michael.landis@wustl.edu?Subject=pdf%20request%20for%20Landis%20(2019)%20chapter%20on%20biogeographic%20dating&Body=No%20message%20necessary!)]
 
