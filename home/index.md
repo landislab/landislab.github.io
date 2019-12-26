@@ -6,8 +6,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock Hall, Room 210<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
+<br>
+<!--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DBBS](http://dbbs.wustl.edu/Pages/index.aspx) program affiliations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolution, Ecology & Population Biology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computational & Systems Biology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Molecular Genetics & Genomics<br>
+-->
 
-Our group studies the evolution of life: how has life radiated throughout and adapted to an ever-changing world?
+---
+
+Our group studies the evolution of biodiversity: how has life radiated throughout and adapted to an ever-changing world?
 We focus our [research](research) towards macroevolutionary questions in phylogenomics, biogeography, trait evolution, and statistical inference.
 To this end, we develop probabilistic models of evolution, write open source and community-minded software to analyze those models, and test evolutionary hypotheses by fitting those models to biological and simulated datasets.
 
