@@ -10,8 +10,8 @@ navigation: True
 # Research
 
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
-My primary research interests include **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **statistical phylogenetics**.
-The Landis Lab studies evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
+Primary research interests for the Landis Lab include [historical biogeography](#historical-biogeography), the [evolution of ecological interactions](#evolution-of-ecological-interactions), [phenotypic evolution](#phenotypic-evolution), and [statistical phylogenetics](#phylogenetic-inference-with-revbayes).
+We study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 These methods are available as open source software (see below).
 We maintain a broad and active interest in phylogenetic inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees.
 
