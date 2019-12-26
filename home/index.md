@@ -6,7 +6,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock 210, Danforth Campus<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
-<br>
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DBBS](http://dbbs.wustl.edu/Pages/index.aspx) program affiliations<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolution, Ecology & Population Biology<br>
