@@ -1,5 +1,5 @@
 # Individualized Development Plan
-*last updated Jan 16, 2020*
+*Last updated Jan 16, 2020.*
 
 ## Name - Date
 
@@ -9,7 +9,7 @@
 
 2. Describe your research goals for the upcoming year.
 
-3. List any training or resources you anticipate will help you achieve your research goals.
+3. List any training or resources that would help you achieve your research goals.
 
 4. Describe any new research areas you want to explore.
 
