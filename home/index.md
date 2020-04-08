@@ -26,6 +26,18 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*08 Apr 2020*<br>
+Michael and collaborators from Yale have a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa027/5817834) in Systematic Biology that introduces a phylogenetic method to jointly infer species relationships, divergence times, and ancestral ranges and biomes from extant and fossil taxa, applied to the plant clade, <i>Viburnum</i>.
+
+*19 Mar 2020*<br>
+Mariana, Michael, and collaborators from Stockholm University and the Swedish Natural History Museum have published a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa019/5810100)[new paper] in Systematic Biology that introduces a phylogenetic model to estimate how the intimate species interactions co-evolved, with an application to host plant-butterfly co-evolution.
+
+*11 Mar 2020*<br>
+With collaborators in Wash U School of Medicine, Michael has a [new paper](https://www.sciencedirect.com/science/article/abs/pii/S1931312820300470) published in Cell Host & Microbe, investigating the evolutionary origin of an insertion sequence that is unique to bovids that confers resistances to alphavirus infections, such as Chikungunya.
+
+*20 Dec 2019*<br>
+Michael and collaborator Ignacio Quintero (ENS Paris) have a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz082/5682421) that introduces a new framework for modeling the interdependent evolution of phenotypes and biogeography among co-evolving (e.g. competing) phylogenetic lineages, with an application in Darwin's finches from the Galapagos.
+
 *28 Oct 2019*<br>
 Dr. Mariana Braga has joined the lab as a postdoctoral researcher. Dr. Braga recently earned her PhD from Stockholm University, where she studied the co-evolution of plant-insect interactions. Welcome!
 
