@@ -30,7 +30,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 Michael and collaborators from Yale have a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa027/5817834) in Systematic Biology that introduces a phylogenetic method to jointly infer species relationships, divergence times, and ancestral ranges and biomes from extant and fossil taxa, applied to the plant clade, <i>Viburnum</i>.
 
 *19 Mar 2020*<br>
-Mariana, Michael, and collaborators from Stockholm University and the Swedish Natural History Museum have published a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa019/5810100)[new paper] in Systematic Biology that introduces a phylogenetic model to estimate how the intimate species interactions co-evolved, with an application to host plant-butterfly co-evolution.
+Mariana, Michael, and collaborators from Stockholm University and the Swedish Natural History Museum have published a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa019/5810100) in Systematic Biology that introduces a phylogenetic model to estimate how the intimate species interactions co-evolved, with an application to host plant-butterfly co-evolution.
 
 *11 Mar 2020*<br>
 With collaborators in Wash U School of Medicine, Michael has a [new paper](https://www.sciencedirect.com/science/article/abs/pii/S1931312820300470) published in Cell Host & Microbe, investigating the evolutionary origin of an insertion sequence that is unique to bovids that confers resistances to alphavirus infections, such as Chikungunya.
