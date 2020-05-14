@@ -9,14 +9,14 @@ navigation: True
 <br>
 # Publications
 
-**Landis, MJ**, EJ Edwards, & MJ Donoghue. 2019. Modeling phylogenetic biome shifts on a planet with a past. bioRxiv, 832527 (under review).<br>
+**Landis, MJ**, EJ Edwards, & MJ Donoghue. 2020. Modeling phylogenetic biome shifts on a planet with a past. bioRxiv, 832527 (under review).<br>
 [[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_biome_shift.pdf)]
 
-**Landis, MJ**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, & MJ Donoghue. 2019. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology (accepted.<br>
+**Landis, MJ**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, & MJ Donoghue. 2020. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology (accepted).<br>
 [[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_viburnum_phylo.pdf)]
 
-Kim, AS, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C Bullock, SL Deem, J Oppenheimer, B Shapiro, T Wang, S Cherry, CB Coyne, SA Handley, **MJ Landis (+)**, DH Fremont (+), & MS Diamond (+). 2019. An evolutionary insertion in the Mxra8 receptor binding site confers resistance to alphavirus infection and pathogenesis. Cell Host & Microbe (accepted).<br>
-[[paper](mailto:michael.landis@wustl.edu?Subject=pdf%20request%20for%20Kim%20et%20al.%20(2019)%20article%20on%20alphaviruses&Body=No%20message%20necessary!)]
+Kim, AS, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C Bullock, SL Deem, J Oppenheimer, B Shapiro, T Wang, S Cherry, CB Coyne, SA Handley, **MJ Landis (+)**, DH Fremont (+), & MS Diamond (+). 2020. An evolutionary insertion in the Mxra8 receptor binding site confers resistance to alphavirus infection and pathogenesis. Cell Host & Microbe 27:428-440.<br>
+[[paper](mailto:michael.landis@wustl.edu?Subject=pdf%20request%20for%20Kim%20et%20al.%20(2020)%20article%20on%20alphaviruses&Body=No%20message%20necessary!)]
 
 **Landis, MJ**. 2019. Biogeographic dating of phylogenetic divergence times using priors and processes in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer (accepted).<br>
 [[paper](mailto:michael.landis@wustl.edu?Subject=pdf%20request%20for%20Landis%20(2019)%20chapter%20on%20biogeographic%20dating&Body=No%20message%20necessary!)]
@@ -27,7 +27,7 @@ Kim, AS, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, 
 Quintero, I and **MJ Landis** 2019. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology (accepted).<br>
 [[paper](/assets/research/pdf/Quintero_Landis_2019_bioRxiv_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
 
-Field, DJ, JS Berv, AY Hsiang, R Lanfear, **MJ Landis**, and A Dornburg. 2019. Timing the extant avian radiation: The rise of modern birds, and the importance of modeling molecular rate variation. PeerJ Preprints, doi.org/10.7287/peerj.preprints.27521v1.<br>
+Field, DJ, JS Berv, AY Hsiang, R Lanfear, **MJ Landis**, and A Dornburg. 2019. Timing the extant avian radiation: The rise of modern birds, and the importance of modeling molecular rate variation. Bulletin of the American Natural History Museum (accepted) <br>
 [[paper](/assets/research/pdf/Field_et_al_2019_PeerJ_avian_dating.pdf)]
 
 **Landis, MJ**, WA Freyman, & BG Baldwin. 2018. Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution, 72:2343-2359.<br>

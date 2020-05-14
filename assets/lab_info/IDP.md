@@ -1,7 +1,8 @@
-# Individualized Development Plan
+# Individual Development Plan
 *Last updated Jan 16, 2020.*
 
 ## Name - Date
+
 
 ### Part 1: Research Progress
 
