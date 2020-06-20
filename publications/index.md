@@ -9,7 +9,7 @@ navigation: True
 <br>
 # Publications
 
-**Landis, MJ**, EJ Edwards, & MJ Donoghue. 2020. Modeling phylogenetic biome shifts on a planet with a past. bioRxiv, 832527 (under review).<br>
+**Landis, MJ**, EJ Edwards, & MJ Donoghue. 2020. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology (accepted).<br>
 [[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_biome_shift.pdf)]
 
 **Landis, MJ**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, & MJ Donoghue. 2020. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology (accepted).<br>
