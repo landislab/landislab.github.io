@@ -27,7 +27,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 # News
 
 *27 May 2020*<br>
-A [new paper](https://doi.org/10.1093/sysbio/syaa045) in Systematic Biology by Michael and Yale colleagues was accepted, which introduces an inference framework to model how lineages shift among paleobiomes with an application to <i>Viburnum</i>.
+A second [new paper](https://doi.org/10.1093/sysbio/syaa045) in Systematic Biology by Michael and Yale colleagues was accepted, which introduces an inference framework to model how lineages shift among paleobiomes, also investingating the evolution of <i>Viburnum</i>.
 
 *08 Apr 2020*<br>
 Michael and collaborators from Yale have a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa027/5817834) in Systematic Biology that introduces a phylogenetic method to jointly infer species relationships, divergence times, and ancestral ranges and biomes from extant and fossil taxa, applied to the plant clade, <i>Viburnum</i>.
@@ -36,7 +36,7 @@ Michael and collaborators from Yale have a [new paper](https://academic.oup.com/
 Mariana, Michael, and collaborators from Stockholm University and the Swedish Natural History Museum have published a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa019/5810100) in Systematic Biology that introduces a phylogenetic model to estimate how the intimate species interactions co-evolved, with an application to host plant-butterfly co-evolution.
 
 *11 Mar 2020*<br>
-With collaborators in Wash U School of Medicine, Michael has a [new paper](https://www.sciencedirect.com/science/article/abs/pii/S1931312820300470) published in Cell Host & Microbe, investigating the evolutionary origin of an insertion sequence that is unique to bovids that confers resistances to alphavirus infections, such as Chikungunya.
+With collaborators in Wash U School of Medicine, Michael has a [new paper](https://www.sciencedirect.com/science/article/abs/pii/S1931312820300470) published in Cell Host & Microbe, investigating the evolutionary origin of an insertion sequence that confers resistances to alphavirus infections, such as Chikungunya, found only cows & their close relatives.
 
 *20 Dec 2019*<br>
 Michael and collaborator Ignacio Quintero (ENS Paris) have a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz082/5682421) that introduces a new framework for modeling the interdependent evolution of phenotypes and biogeography among co-evolving (e.g. competing) phylogenetic lineages, with an application in Darwin's finches from the Galapagos.
