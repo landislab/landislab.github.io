@@ -30,7 +30,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 A second [new paper](https://doi.org/10.1093/sysbio/syaa045) in Systematic Biology by Michael and Yale colleagues was accepted, which introduces an inference framework to model how lineages shift among paleobiomes, also investingating the evolution of <i>Viburnum</i>.
 
 *19 May 2020*<br>
-Michael's group was highlighted by the Society for the Study of Evolution in their monthly New Faculty Profiles. Read the interview [here](http://www.evolutionsociety.org/new-faculty-profiles/new-faculty-profile-michael-landis.html). 
+Our group was highlighted by the Society for the Study of Evolution in their monthly New Faculty Profiles. Read the interview [here](http://www.evolutionsociety.org/new-faculty-profiles/new-faculty-profile-michael-landis.html). 
 
 *08 Apr 2020*<br>
 Michael and collaborators from Yale have a [new paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa027/5817834) in Systematic Biology that introduces a phylogenetic method to jointly infer species relationships, divergence times, and ancestral ranges and biomes from extant and fossil taxa, applied to the plant clade, <i>Viburnum</i>.
