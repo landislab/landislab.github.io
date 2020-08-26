@@ -19,9 +19,10 @@ The position begins in the fall of 2020 with guaranteed funding for five years. 
 
 ### Application
 PhD applicants are officially accepted through the Division of Biology and Biomedical Sciences (DBBS).
+**Applications open September 1st and are typically due December 1st.**
 Exact application requirements are listed through the DBBS PhD Admissions webpage:  <http://dbbs.wustl.edu/prospstudents/PhDAdmissions>.
+GREs are not required. Application fees increase from $20 to $45 after October 31st. Contact [DBBSPhDAdmissions@email.wustl.edu](mailto:DBBSPhDAdmissions@email.wustl.edu) to qualify for a fee waiver.
 Applicants are strongly encouraged to initiate a conversation with [michael.landis@wustl.edu](mailto:michael.landis@wustl.edu) before applying.
-Applications are open starting September 1st and typically due in early December. GREs are not required. Application fees increase from $20 to $45 after October 31st. Contact [DBBSPhDAdmissions@email.wustl.edu](mailto:DBBSPhDAdmissions@email.wustl.edu) to qualify for a fee waiver.
 WashU is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity or expression, national origin, genetic information, disability, or protected veteran status.
 
 ### Contact
