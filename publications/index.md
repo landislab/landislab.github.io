@@ -66,4 +66,4 @@ S Höhna, TA Heath, B Boussau, **MJ Landis**, F Ronquist, JP Huelsenbeck. 2014. 
 [[paper](/assets/research/pdf/Landis_et_al_2012_SystBiol_phylo_levy.pdf)]  [[software](http://github.com/mlandis/creepy-jerk)]
 
 ---
-(\*) shared first authorship; (\+) shared corresponding authorship
+work from lab in **bold**; (\*) shared first authorship; (\+) shared corresponding authorship
