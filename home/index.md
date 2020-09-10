@@ -27,7 +27,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 # News
 
 *27 May 2020*<br>
-A second [new paper](https://doi.org/10.1093/sysbio/syaa045) in Systematic Biology by Michael and Yale colleagues was accepted, which introduces an inference framework to model how lineages shift among paleobiomes, also investingating the evolution of <i>Viburnum</i>.
+A second [new paper](https://doi.org/10.1093/sysbio/syaa045) in Systematic Biology by Michael and Yale colleagues was accepted, which introduces an inference framework to model how lineages shift among paleobiomes, also investigating the evolution of <i>Viburnum</i>.
 
 *19 May 2020*<br>
 Our group was highlighted by the Society for the Study of Evolution in their monthly New Faculty Profiles. Read the interview [here](http://www.evolutionsociety.org/new-faculty-profiles/new-faculty-profile-michael-landis.html). 
