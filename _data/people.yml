@@ -49,5 +49,5 @@ postdoc:
   github: False
   bitbucket: False
   cv: False
-  bio: Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> if you would like to submit a fellowship to join our group. Possible fellowships include the National Science Foundation's [Postdoctoral Research Fellowship in Biology](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622) and the Living Earth Collaborative's [Biodiversity Postdoctoral Fellowship](https://livingearthcollaborative.wustl.edu/lec-postdoc-fellowship/).
+  bio: Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> if you would like to submit a fellowship to join our group. Possible fellowships include the National Science Foundation's <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622">Postdoctoral Research Fellowship in Biology</a> and the Living Earth Collaborative's <a href="https://livingearthcollaborative.wustl.edu/lec-postdoc-fellowship/">Biodiversity Postdoctoral Fellowship</a>.
 # This research position will remain open until filled. A general description for the position is described <a href="postdoc_position">here</a>. -->
