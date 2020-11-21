@@ -59,7 +59,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
                 **MJ Landis**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66:128-144.<br>
-                [[paper](/assets/research/pdf/Landis_2016_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
+                [[paper](/assets/research/pdf/Landis_2017_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
             </td>
         </table></td>
     </tr>

@@ -42,7 +42,7 @@ S Höhna, **MJ Landis**, JP Huelsenbeck. 2017. Parallel power posterior analyses
 <br>[[paper (pre-print)](/assets/research/pdf/Hoehna_et_al_2017_bioRxiv_parallel_marg_like.pdf)]
 
 **MJ Landis**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66:128-144.<br>
-[[paper](/assets/research/pdf/Landis_2016_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
+[[paper](/assets/research/pdf/Landis_2017_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
 
 S Höhna, **MJ Landis**, TA Heath. 2017. Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics, 57:6.16-6.16.34.
 <br>[[paper](/assets/research/pdf/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.pdf)]
