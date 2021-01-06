@@ -26,6 +26,12 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*06 Jan 2021*<br> We're hiring for a postdoc in computational phylogenetics. Application reviews begin 01 Feb 2021. Apply [here](https://bit.ly/3hJnoiJ)!  
+
+*01 Jan 2021*<br> Our Viburnum work featured on the [cover](https://academic.oup.com/sysbio/issue/70/1) of this year's first issue of Systematic Biology! 
+
+*24 Nov 2020*<br> The NSF funded our grant to model how plant lineages radiated throughout the Hawaiian archipelago! Work is in collaboration with Felipe Zapata (UCLA), Nina Ronsted (NTBG Hawaii), Warren Wagner (Smithsonian), Bruce Baldwin (UC Berkeley), and Will Freyman (23andMe).
+
 *27 May 2020*<br>
 A second [new paper](https://doi.org/10.1093/sysbio/syaa045) in Systematic Biology by Michael and Yale colleagues was accepted, which introduces an inference framework to model how lineages shift among paleobiomes, also investigating the evolution of <i>Viburnum</i>.
 
