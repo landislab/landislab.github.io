@@ -27,7 +27,7 @@ mbraga:
 
 postdoc-biogeo:
   username: postdoc-biogeo
-  name: Computational phylogenetics (hiring)
+  name: Computational phylogenetics (open)
   position: Postdoctoral Researcher
   picture: postdoc-biogeo.jpg
   url: False #mlandis.github.io
@@ -40,7 +40,7 @@ postdoc-biogeo:
 
 postdoc:
   username: postdoc
-  name: Evolutionary biologist (fellowship opportunities)
+  name: Evolutionary biologist (open to fellowships)
   position: Postdoctoral Researcher
   picture: postdoc.jpg
   url: False #mlandis.github.io
@@ -54,7 +54,7 @@ postdoc:
 
 phd_student:
   username: phd_student
-  name: Evolutionary biologist (apply)
+  name: Evolutionary biologist (open)
   position: PhD Student
   picture: phd_student.jpg
   url: False #mlandis.github.io
