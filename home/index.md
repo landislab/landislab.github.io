@@ -26,7 +26,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*06 Jan 2021*<br> We're hiring for a postdoc in computational phylogenetics. Application reviews begin 01 Feb 2021. Apply [here](https://bit.ly/3hJnoiJ)!  
+*06 Jan 2021*<br> We're hiring for a postdoc to study computational phylogenetics and biogeography. Application reviews begin 01 Feb 2021. Apply [here](https://bit.ly/3hJnoiJ)!  
 
 *01 Jan 2021*<br> Our <i>Viburnum</i> work featured on the [cover](https://academic.oup.com/sysbio/issue/70/1) of this year's first issue of Systematic Biology! 
 
