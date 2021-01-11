@@ -27,7 +27,7 @@ mbraga:
 
 postdoc-biogeo:
   username: postdoc-biogeo
-  name: [ Hiring through Feb 2021 ]
+  name: Computational phylogenetics (hiring)
   position: Postdoctoral Researcher
   picture: postdoc-biogeo.jpg
   url: False #mlandis.github.io
@@ -40,7 +40,7 @@ postdoc-biogeo:
 
 postdoc:
   username: postdoc
-  name: [ Fellowship applicant ]
+  name: Evolutionary biologist (fellowship opportunities)
   position: Postdoctoral Researcher
   picture: postdoc.jpg
   url: False #mlandis.github.io
@@ -54,7 +54,7 @@ postdoc:
 
 phd_student:
   username: phd_student
-  name: [ Open position ]
+  name: Evolutionary biologist (apply)
   position: PhD Student
   picture: phd_student.jpg
   url: False #mlandis.github.io
@@ -63,5 +63,5 @@ phd_student:
   github: False
   bitbucket: False
   cv: False
-  bio: We're looking for a PhD student to join our group! This research position is available starting Fall 2021. Applications will likely be due on Dec 1, 2020. More details are <a href="phd_student_position">here</a>. Interested applicants are encouraged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.
+  bio: We're looking for a PhD student to join our group! This research position is available starting Fall 2022. Applications will likely be due on Dec 1, 2021. More details are <a href="phd_student_position">here</a>. Interested applicants are encouraged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.
 
