@@ -25,22 +25,22 @@ mbraga:
   bio: My research studies the evolution of butterfly-host plant interactions and butterfly diversification by combining host use records, phylogenetic information, network theory, and computer simulations. I am currently developing probabilistic models to help us understand the distribution of ecological interactions across space and time. 
 
 
-phd_student:
-  username: phd_student
-  name:  (open position)
-  position: PhD Student
-  picture: phd_student.jpg
+postdoc-biogeo:
+  username: postdoc-biogeo
+  name: [ Hiring through Feb 2021 ]
+  position: Postdoctoral Researcher
+  picture: postdoc-biogeo.jpg
   url: False #mlandis.github.io
   twitter: False
   email: False
   github: False
   bitbucket: False
   cv: False
-  bio: We're looking for a PhD student to join our group! This research position is available starting Fall 2021. Applications will likely be due on Dec 1, 2020. More details are <a href="phd_student_position">here</a>. Interested applicants are encouraged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.
+  bio: We’re hiring for a postdoc in computational phylogenetics. Application reviews begin 01 Feb 2021. Apply <a href="https://bit.ly/3hJnoiJ">here</a>! Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with any questions. 
 
 postdoc:
   username: postdoc
-  name: (fellowship applicants welcome)
+  name: [ Fellowship applicant ]
   position: Postdoctoral Researcher
   picture: postdoc.jpg
   url: False #mlandis.github.io
@@ -51,3 +51,17 @@ postdoc:
   cv: False
   bio: Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> if you would like to submit a fellowship to join our group. Possible fellowships include the National Science Foundation's <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622">Postdoctoral Research Fellowship in Biology</a> and the Living Earth Collaborative's <a href="https://livingearthcollaborative.wustl.edu/lec-postdoc-fellowship/">Biodiversity Postdoctoral Fellowship</a>.
 # This research position will remain open until filled. A general description for the position is described <a href="postdoc_position">here</a>. -->
+
+phd_student:
+  username: phd_student
+  name: [ Open position ]
+  position: PhD Student
+  picture: phd_student.jpg
+  url: False #mlandis.github.io
+  twitter: False
+  email: False
+  github: False
+  bitbucket: False
+  cv: False
+  bio: We're looking for a PhD student to join our group! This research position is available starting Fall 2021. Applications will likely be due on Dec 1, 2020. More details are <a href="phd_student_position">here</a>. Interested applicants are encouraged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.
+
