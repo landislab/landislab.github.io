@@ -9,7 +9,7 @@ mlandis:
   github: mlandis
   bitbucket: mlandis
   cv: assets/people/cv/mlandis_cv.pdf
-  bio: I'm interested in learning how evolutionary processes behave and how Earth's biodiversity has changed over time.
+  bio: I'm interested in learning how evolutionary processes behave and how Earth's biodiversity has changed over time. My research generally involves designing phylogenetic models of evolution, programming phylogenetic inference methods, and analyzing simulated and biological datasets.
 
 mbraga:
   username: mariana_braga
@@ -74,7 +74,7 @@ postdoc-biogeo:
   github: False
   bitbucket: False
   cv: False
-  bio: We’re hiring for a postdoc to research computational phylogenetics and biogeography. Application reviews begin 01 Feb 2021. Apply <a href="https://bit.ly/3hJnoiJ">here</a>! Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with any questions. 
+  bio: We’re hiring for a postdoc to research computational phylogenetics and biogeography. Application reviews begin February 1st, 2021. Apply <a href="https://bit.ly/3hJnoiJ">here</a>! Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with any questions. 
 
 postdoc:
   username: postdoc
