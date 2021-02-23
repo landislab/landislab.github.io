@@ -24,6 +24,44 @@ mbraga:
   cv: False
   bio: My research studies the evolution of butterfly-host plant interactions and butterfly diversification by combining host use records, phylogenetic information, network theory, and computer simulations. I am currently developing probabilistic models to help us understand the distribution of ecological interactions across space and time. 
 
+athompson:
+  username: ammon_thompson
+  name: Ammon Thompson
+  position: Postdoctoral Researcher
+  picture: athompson.jpg
+  url: False # https://www.su.se/english/profiles/mbrag-1.219235
+  twitter: False #mpiresbr2
+  email: False # mariana.braga@zoologi.su.se
+  github: False # mpiresbr
+  bitbucket: False
+  cv: False
+  bio: I'm an evolutionary biologist who is interested in transcriptome evolution. Currently researching methods for viral phylodynamics as a visiting research scientist with the National Geospatial Intelligence Agency, in collaboration with the Landis group.
+
+wsexton:
+  username: walker_sexton
+  name: Walker Sexton
+  position: Undergraduate Researcher
+  picture: wsexton.jpg
+  url: False # https://www.su.se/english/profiles/mbrag-1.219235
+  twitter: False #mpiresbr2
+  email: False #mariana.braga@zoologi.su.se
+  github: False #mpiresbr
+  bitbucket: False
+  cv: False
+  bio: I'm an evolutionary biology major and anthropology minor interested in how macroevolutionary and genetic processes have led to the biodiverse forms throughout Earth's history and the relationships of life today.
+
+eramos:
+  username: ernie_ramos
+  name: Ernie Ramos
+  position: Undergraduate Researcher
+  picture: eramos.jpg
+  url: False #https://www.su.se/english/profiles/mbrag-1.219235
+  twitter: False # mpiresbr2
+  email: False #mariana.braga@zoologi.su.se
+  github: False #mpiresbr
+  bitbucket: False
+  cv: False
+  bio: Ernie is a math major who is researching how ecology and evolution shape spatial patterns of biodiversity.
 
 postdoc-biogeo:
   username: postdoc-biogeo
@@ -52,16 +90,15 @@ postdoc:
   bio: Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> if you would like to submit a fellowship to join our group. Possible fellowships include the National Science Foundation's <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622">Postdoctoral Research Fellowship in Biology</a> and the Living Earth Collaborative's <a href="https://livingearthcollaborative.wustl.edu/lec-postdoc-fellowship/">Biodiversity Postdoctoral Fellowship</a>.
 # This research position will remain open until filled. A general description for the position is described <a href="postdoc_position">here</a>. -->
 
-phd_student:
-  username: phd_student
-  name: Evolutionary biologist (open)
-  position: PhD Student
-  picture: phd_student.jpg
-  url: False #mlandis.github.io
-  twitter: False
-  email: False
-  github: False
-  bitbucket: False
-  cv: False
-  bio: We're looking for a PhD student to join our group! This research position is available starting Fall 2022. Applications will likely be due on Dec 1, 2021. More details are <a href="phd_student_position">here</a>. Interested applicants are encouraged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.
-
+#phd_student:
+#  username: phd_student
+#  name: Evolutionary biologist (open)
+#  position: PhD Student
+#  picture: phd_student.jpg
+#  url: False #mlandis.github.io
+#  twitter: False
+#  email: False
+#  github: False
+#  bitbucket: False
+#  cv: False
+#  bio: We're looking for a PhD student to join our group! This research position is available starting Fall 2022. Applications will likely be due on Dec 1, 2021. More details are <a href="phd_student_position">here</a>. Interested applicants are encouraged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.
