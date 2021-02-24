@@ -35,7 +35,7 @@ athompson:
   github: False # mpiresbr
   bitbucket: False
   cv: False
-  bio: I'm an evolutionary biologist who is interested in transcriptome evolution. Currently researching methods for viral phylodynamics as a visiting research scientist with the National Geospatial Intelligence Agency, in collaboration with the Landis group.
+  bio: I'm an evolutionary biologist who is interested in transcriptome evolution and phylogenetic inference. Currently, I am developing research methods for to infer viral phylodynamics as a visiting research scientist with the National Geospatial Intelligence Agency, in collaboration with the Landis group.
 
 wsexton:
   username: walker_sexton
