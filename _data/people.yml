@@ -4,11 +4,11 @@ mlandis:
   position: Principal Investigator
   picture: mlandis.jpg
   url: https://landislab.github.io
+  cv: ../assets/people/cv/mlandis_cv.pdf
   twitter: landismj
   email: michael.landis@wustl.edu
   github: mlandis
   bitbucket: mlandis
-  cv: assets/people/cv/mlandis_cv.pdf
   bio: I'm interested in learning how evolutionary processes behave and how Earth's biodiversity has changed over time. My research generally involves designing phylogenetic models of evolution, programming inference methods, and analyzing simulated and biological datasets.
 
 mbraga:
@@ -17,11 +17,11 @@ mbraga:
   position: Postdoctoral Researcher
   picture: mbraga.jpg
   url: https://www.su.se/english/profiles/mbrag-1.219235
+  cv: False
   twitter: mpiresbr2
   email: mariana.braga@zoologi.su.se
   github: mpiresbr
   bitbucket: False
-  cv: False
   bio: My research studies the evolution of butterfly-host plant interactions and butterfly diversification by combining host use records, phylogenetic information, network theory, and computer simulations. I am currently developing probabilistic models to help us understand the distribution of ecological interactions across space and time. 
 
 athompson:
@@ -63,31 +63,32 @@ eramos:
   cv: False
   bio: Ernie is a math major who is researching how ecology and evolution shape spatial patterns of biodiversity.
 
-postdoc-biogeo:
-  username: postdoc-biogeo
-  name: Computational phylogenetics (open)
-  position: Postdoctoral Researcher
-  picture: postdoc-biogeo.jpg
-  url: False #mlandis.github.io
-  twitter: False
-  email: False
-  github: False
-  bitbucket: False
-  cv: False
-  bio: We’re hiring for a postdoc to research computational phylogenetics and biogeography. Application reviews begin February 1st, 2021. Apply <a href="https://bit.ly/3hJnoiJ">here</a>! Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with any questions. 
 
-postdoc:
-  username: postdoc
-  name: Evolutionary biologist (open to fellowships)
-  position: Postdoctoral Researcher
-  picture: postdoc.jpg
-  url: False #mlandis.github.io
-  twitter: False
-  email: False
-  github: False
-  bitbucket: False
-  cv: False
-  bio: Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> if you would like to submit a fellowship to join our group. Possible fellowships include the National Science Foundation's <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622">Postdoctoral Research Fellowship in Biology</a> and the Living Earth Collaborative's <a href="https://livingearthcollaborative.wustl.edu/lec-postdoc-fellowship/">Biodiversity Postdoctoral Fellowship</a>.
+#postdoc-biogeo:
+#  username: postdoc-biogeo
+#  name: Computational phylogenetics (open)
+#  position: Postdoctoral Researcher
+#  picture: postdoc-biogeo.jpg
+#  url: False #mlandis.github.io
+#  twitter: False
+#  email: False
+#  github: False
+#  bitbucket: False
+#  cv: False
+#  bio: We’re hiring for a postdoc to research computational phylogenetics and biogeography. Application reviews begin February 1st, 2021. Apply <a href="https://bit.ly/3hJnoiJ">here</a>! Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with any questions. 
+
+# postdoc:
+#  username: postdoc
+#  name: Postdoctoral Researcher
+#  position: (open to fellowships)
+#  picture: postdoc.jpg
+#  url: False #mlandis.github.io
+#  twitter: False
+#  email: False
+#  github: False
+#  bitbucket: False
+#  cv: False
+#  bio: Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> if you would like to submit a fellowship to join our group. Possible fellowships include the National Science Foundation's <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622">Postdoctoral Research Fellowship in Biology</a> and the Living Earth Collaborative's <a href="https://livingearthcollaborative.wustl.edu/lec-postdoc-fellowship/">Biodiversity Postdoctoral Fellowship</a>.
 # This research position will remain open until filled. A general description for the position is described <a href="postdoc_position">here</a>. -->
 
 #phd_student:
