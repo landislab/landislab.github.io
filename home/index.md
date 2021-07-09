@@ -26,6 +26,8 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*22 Jun 2021*<br> Our very own Dr. Mariana Braga [won the Publisher's Award](https://twitter.com/landismj/status/1407379978593898503) from Systematic Biology for [her paper](https://academic.oup.com/sysbio/article/69/6/1149/5810100) entitled "Bayesian inference of ancestral host–parasite interactions under a phylogenetic model of host repertoire evolution". Nicely done, Mariana! 
+
 *27 Apr 2021*<br> We're excited to welcome several new people who recently joined the lab. Dr. Ammon Thompson is a visiting scholar from the National Geospatial Intelligence Agency who is working with us to develop phylogenetic methods to predict epidemiological outcomes. We're also fortunate to have two new undergraduate researchers: Ernie Ramos is a math major interested in the relationship between ecology, habitat, and evolution; and Walker Sexton is a biology major interested in evolution, systematics, and paleogenomics.
 
 *06 Jan 2021*<br> We're hiring for a postdoc to study computational phylogenetics and biogeography. Application reviews begin 01 Feb 2021. Apply [here](https://bit.ly/3hJnoiJ)!  
