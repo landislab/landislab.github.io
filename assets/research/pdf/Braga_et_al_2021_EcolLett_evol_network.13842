@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns:m="http://www.w3.org/1998/Math/MathML" id="simpleViewer" >
+    <head>
+        <title>Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants</title>
+        
+
+
+
+
+    
+    <meta name="dc.identifier" content="10.1111/ele.13842"/>
+
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/cloud-reader/dist/css/readium-all.css" rel="stylesheet" type="text/css"/>
+
+<link rel="stylesheet" href="/cloud-reader/resources/gen/custom/css/app.css" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<script type="text/javascript">
+    window.LIT = window.LIT || {};
+    LIT.Reader = LIT.Reader || {};
+    LIT.Reader.LogEnabled = false;
+    window.READER_OFFLINE = navigator && navigator.onLine === false;
+    
+    var verifyOfflineMode = function () {
+        
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    
+                    window.READER_OFFLINE = false;
+                } else {
+                    
+                    window.READER_OFFLINE = true;
+                }
+            }
+            if (window.READER_OFFLINE && true) {
+                
+                fetch('/cloud-reader/dist/scripts/mathjax/MathJax.min.js').then(function (res) {
+                    res.text().then(function (txt) {
+                        LIT.Reader.MathJaxUrl = window.URL.createObjectURL(new Blob([txt], {'type': 'text/javascript'}));
+                    })
+                })
+            }
+        };
+        xhr.open("HEAD", "/templates/jsp/images/singlePixel.gif?t=" + new Date().getTime());
+        
+        xhr.setRequestHeader("Cache-Control", "no-cache,must-revalidate,max-age=0");
+        xhr.setRequestHeader("Pragma", "no-cache");
+        xhr.send();
+    };
+    
+    verifyOfflineMode();
+
+
+    var path = (window.location && window.location.pathname) ? window.location.pathname : '';
+
+    
+    path = path.replace(/(.*)\/.*\.[x]?html$/, "$1");
+
+    
+    path = path.charAt(path.length - 1) == '/'
+        ? path.substr(0, path.length - 1)
+        : path;
+
+    
+    var readerResourcesPath = "/cloud-reader/dist";
+
+    var HTTPServerRootFolder =
+        window.location ? (
+            window.location.protocol
+            + "//"
+            + window.location.hostname
+            + (window.location.port ? (':' + window.location.port) : '')
+            + readerResourcesPath
+        ) : ''
+    ;
+</script>
+        
+
+
+
+
+
+
+
+<script type="text/javascript">
+    
+    var eReaderPage = true;
+    var readerAtmEventName = "ereader.fullview";
+    var readerAtmEventData = {"eventData":{"site":{"ip":"128.252.48.24","environment":"LIVE","website":"onlinelibrary.wiley.com","websiteCode":"pericles","serverDate":"2021-07-29","server":"web118"},"identities":[{"type":"BasicGroup","uuid":"84aa8781-b32a-4f06-979c-30f3ab78ad73"},{"type":"BasicGroup","uuid":"839fe196-a20b-4b89-97d9-9365bc319c0e"},{"type":"RegionUser","uuid":"3c5060a1-6620-438f-862b-902a4d4cd4ac"},{"type":"InstitutionUser","uuid":"58b47982-b65b-4679-a7ae-3d3523181acb","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"TEMPMPLICENSE"}]},{"type":"InstitutionUser","uuid":"66f02c18-17ad-4dd1-94f6-dd8e899d61b0","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"WASHIN001S"}]},{"type":"BasicGroup","uuid":"e623deab-c83b-41e3-84a2-d9f1d46c5f17"},{"type":"ReferrerUser","uuid":"5a52f27c-b57e-4a2d-8de6-c4f2e0fa8465"},{"type":"SmartGroupUser","uuid":"a86d27d2-6bcd-4b94-bca5-fe16f4882855"},{"type":"SmartGroupUser","uuid":"8c72a733-117a-4bc9-a682-13475f13e6a3"},{"type":"SmartGroupUser","uuid":"756fc162-8722-461f-a077-ebffec4f4fae"},{"type":"SmartGroupUser","uuid":"cf9c85b9-7f3b-4309-aeaa-c41669cabe3b"},{"type":"SmartGroupUser","uuid":"db8b8d10-1aed-4809-b3ee-70938c569014"},{"type":"SmartGroupUser","uuid":"cdce41c2-a8de-4a64-a4d9-a85caaaa2314"},{"type":"BasicGroup","uuid":"c62f6a8d-8b0e-4a8c-ace7-645ca96979b6"},{"type":"BasicGroup","uuid":"197fe835-5b5f-4f4e-b8e9-a74d68491a84"},{"type":"InstitutionUser","uuid":"afdb3bdd-0f18-478a-8bce-e8751372cef8","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL00000067004"}]},{"type":"BasicGroup","uuid":"fd99905c-4b60-4cb9-b576-5529f7a031dd","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"TESTOHIOSTATECOCHRANE"}]},{"type":"SmartGroupUser","uuid":"ab743440-628f-4964-9216-9983ad3beadf"},{"type":"InstitutionUser","uuid":"84ab7314-5bc1-4c9c-af00-61a89133f006","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"WASHIN175S"}]},{"type":"InstitutionUser","uuid":"0bf7a77c-5aa2-41cb-b621-d7d39a1efcd6","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL00000058597"}]},{"type":"InstitutionUser","uuid":"57e8c699-cc96-43be-ad59-e4c15075b8df","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"POID79724"}]},{"type":"SmartGroupUser","uuid":"b238ab85-6bb4-49e4-84ca-a0d9f3ee5a35"},{"type":"BasicGroup","uuid":"32489ba7-57d6-43ed-b717-a0de5ed5ca0e"},{"type":"SmartGroupUser","uuid":"eabce89b-65c2-4a09-ab7c-bd2b3fea2f10"},{"type":"RegionUser","uuid":"fc53cf3b-74d9-4f3b-a7b4-0fd91a6e43e1"},{"type":"BasicGroup","uuid":"b2f59a00-e5f8-40f1-8e75-8c7dd6bce0ba"},{"type":"BasicGroup","uuid":"f6bf73a6-fd29-4303-8301-24bd8a179b03"},{"type":"BasicGroup","uuid":"8d568359-32d1-4757-be79-b72d00d11429"},{"type":"SmartGroupUser","uuid":"da88d808-3f7b-4bde-9210-10862b6d121b"},{"type":"InstitutionUser","uuid":"28f1176b-6b69-4574-9a1c-dd4af83b30b3","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL0001122"}]},{"type":"ReferrerUser","uuid":"b3da44b5-3aad-4291-8eca-73ea8ea97a07"},{"type":"SmartGroupUser","uuid":"39f911ce-44b6-4dba-9978-8b2e947a8eb0"},{"type":"InstitutionUser","uuid":"1eebc6a8-1a7e-47cf-8bf8-0bc0534926ca","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL0000890"}]},{"type":"InstitutionUser","uuid":"472b002b-5cd2-4d45-a5cc-b2bb22863ecd","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"P#GWLA"}]},{"type":"SmartGroupUser","uuid":"b2dbfe27-ecae-4bb6-bb0d-d75e5caa3762"},{"type":"BasicGroup","uuid":"bd2fcf7d-fa23-4396-9340-9ee81267838e"}],"publication":{"item":{"title":"Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants","doi":"10.1111/ele.13842","access":"open","earliestDate":"2021-07-23","formats":["Abstract","First page image","Full text","PDF","References","Supplementary Material","AM pdf"],"topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"Ecology \u0026 Organismal Biology","topicUri":"ls20"},{"taxonomyUri":"global-subject-codes","topicLabel":"Evolution","topicUri":"ls40"},{"taxonomyUri":"global-subject-codes","topicLabel":"Animal Science \u0026 Zoology","topicUri":"ls80"},{"taxonomyUri":"global-subject-codes","topicLabel":"Evolutionary Biology","topicUri":"ls41"},{"taxonomyUri":"global-subject-codes","topicLabel":"Conservation Science","topicUri":"ls2k"},{"taxonomyUri":"global-subject-codes","topicLabel":"LIFE SCIENCES","topicUri":"ls"},{"taxonomyUri":"open-access","topicLabel":"Open Access Content","topicUri":"open-access-content"},{"taxonomyUri":"fundref-funders","topicLabel":"Swedish Research Council","topicUri":"501100004359"}]},"group":{"doi":"10.1111/14610248.ahead-of-print","access":"full","volume":"0","issue":"0","topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"Ecology \u0026 Organismal Biology","topicUri":"ls20"},{"taxonomyUri":"global-subject-codes","topicLabel":"Evolution","topicUri":"ls40"},{"taxonomyUri":"global-subject-codes","topicLabel":"Animal Science \u0026 Zoology","topicUri":"ls80"},{"taxonomyUri":"global-subject-codes","topicLabel":"Evolutionary Biology","topicUri":"ls41"},{"taxonomyUri":"global-subject-codes","topicLabel":"Conservation Science","topicUri":"ls2k"},{"taxonomyUri":"global-subject-codes","topicLabel":"LIFE SCIENCES","topicUri":"ls"}]},"series":{"title":"Ecology Letters","doi":"10.1111/(ISSN)1461-0248","access":"full","code":"14610248","issn":"1461-023X","eissn":"1461-0248","topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"Ecology \u0026 Organismal Biology","topicUri":"ls20"},{"taxonomyUri":"global-subject-codes","topicLabel":"Evolution","topicUri":"ls40"},{"taxonomyUri":"global-subject-codes","topicLabel":"Animal Science \u0026 Zoology","topicUri":"ls80"},{"taxonomyUri":"global-subject-codes","topicLabel":"Evolutionary Biology","topicUri":"ls41"},{"taxonomyUri":"global-subject-codes","topicLabel":"Conservation Science","topicUri":"ls2k"},{"taxonomyUri":"global-subject-codes","topicLabel":"LIFE SCIENCES","topicUri":"ls"},{"taxonomyUri":"gpt-zonename","topicLabel":"eco-letts_ELE","topicUri":"eco-letts_ele"},{"taxonomyUri":"gpt-sitename","topicLabel":"wly.ecology_000046","topicUri":"wly.ecology_000046"}]}},"tokens":{"tokenUsed":false}}};
+    
+    var digitalData = window.digitalData ? digitalData : {};
+    digitalData.event = digitalData.event || [];
+</script>
+<script src="//assets.adobedtm.com/6e626c9ec247e474f6b98eb15a79a185cf7e26a5/satelliteLib-c1ac050bbdc647f13a62578e71f0d817f8a6cbb5.js"></script>
+        
+    </head>
+    
+    <body>
+        
+
+
+
+
+
+
+
+
+
+<noscript>
+    <div id="alert_box" class="popup_container full noScript">
+        <div class="popup_content">
+            <div class="flex-container">
+                <div class="text">
+                    <span class="popupIcon icon material-icons" data-type="">error_outline</span>
+                    <div>
+                        <h1 class="popupTitle">JavaScript disabled</h1>
+                        <p class="popupDescription">You have to enable JavaScript in your browser's settings in order to use the eReader.</p>
+                        
+                            <p class="popupDescription">Or try downloading the content offline</p>
+                            <a href="/doi/pdfdirect/10.1111/ele.13842?download=true" target="_blank" class="btn--bordered__light">DOWNLOAD</a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</noscript>
+        <nav id="app-navbar" class="navbar" role="banner" aria-label="{{Strings.i18n_toolbar}}">
+        </nav>
+        <div id="app-container">
+        </div>
+        <script type="text/javascript">
+            var readerConfig = {"user":{"isLoggedIn":false,"loginLink":"/action/showLogin?redirectUri\u003d%2Fdoi%2Fepdf%2F10.1111%2Fele.13842","registerLink":"/action/registration?redirectUri\u003d%2Fdoi%2Fepdf%2F10.1111%2Fele.13842"},"readingProgress":{"syncProgress":false,"syncUrl":"/reader/saveProgress","retrieveUrl":"/reader/retrieveProgress"},"doi":"10.1111/ele.13842","title":"Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants","epubConfig":{"overrideEpubUrlParam":true,"epubUrl":"/reader/content/17ad70231e6/10.1111/ele.13842/format/pdf"},"epubActions":{"offline":{"available":true,"simultaneousRetrievalsLimit":1},"download":{"files":{"pdf":{"shortCode":"pdf","name":"PDF","available":true,"size":"1.7 MB","url":"/doi/pdfdirect/10.1111/ele.13842?download\u003dtrue"}}},"print":true,"shareAccess":true,"preview":false,"rental":false,"print_pdf_pages":50},"displayOptions":{"displayFormat":"auto","displayMode":"scroll-continuous"},"annotationsConfig":{"enabled":false},"analyticsConfig":{"enabled":true,"providers":[{"enabled":true,"name":"atm","siteId":"","version":"","url":""}]},"waterMarkConfig":{"enabled":true,"defaultMessage":"Printed by [Washington University School - 128.252.048.024 - /doi/epdf/10.1111/ele.13842]","optionalMessage":"","location":"right/left"},"materialTabs":{"figuresSuppressed":false,"mediaSuppressed":true,"tablesSuppressed":true,"supplementsSuppressed":false,"linkOutUrl":"/doi/suppl/10.1111/ele.13842","supplementsLinkOut":true},"metadataUrl":"/doi/reader/metadata/10.1111/ele.13842","referencesUrl":"/doi/reader/references/10.1111/ele.13842","citedByUrl":"/doi/reader/citedBy/10.1111/ele.13842","figuresUrl":"/doi/reader/figures/10.1111/ele.13842","recommendationsUrl":"/doi/reader/recommended/10.1111/ele.13842","siteUrl":"/doi/10.1111/ele.13842","searchUrl":"/reader/search","currentUrl":"/doi/epdf/10.1111/ele.13842","permissionsUrl":"/action/availableUsageRights","consumePermissionsUrl":"/action/consumeUsage","format":"pdf","publicationType":"article","citationsExportUrl":"/action/showCitFormats?doi\u003d10.1111%2Fele.13842\u0026mobileUi\u003d0","dbStoreName":"readerOfflineStore","shareAccessUrl":"/action/generateShareUrl","readerSettingsLocalStorageKey":"article_reader_settings","recommendedEnabled":true,"permissionsEnabled":false,"isDragAndDropEnabled":false,"isOfflineSupportedForBrowser":true,"isOfflineDisabled":false,"isDownloadDisabled":false,"isShareDisabled":false,"isPrintDisabled":false,"nodeNavigationDisabled":false,"navigationMode":"PAGEBREAK","usageRightsEnabled":true,"print_pdf_pages":0,"authorizeSharing":"/action/authorizeSharing","shareMode":false,"sharedAccessConfig":{"alwaysDisplaySharingTermsPopup":false,"shareSponsorLink":"https://onlinelibrary.wiley.com/researchers/tools-resources/sharing","hasButton":true,"shareSponsorMessage":"Some features may be limited or disabled","shareMediaMessage":"Some features may be limited or disabled","isShared":false,"isPermissionEnabled":false,"isShareBannerEnabled":false,"displayAccessButton":true,"accessUrl":"/doi/full/10.1111/ele.13842"},"inDocAdsEnabled":true,"suspendAdsInSinglePagePdfs":true,"adsImpressionDuration":0,"campaignUrl":"/action/showReaderCampaign?doi\u003d10.1111%2Fele.13842","eventsConfig":{"readerEventsAnalyticsUrl":"/action/readerEventsAnalytics?doi\u003d10.1111%2Fele.13842\u0026format\u003dpdf","adImpressionDuration":5000,"episodeRemainingTime":300000,"enabled":true,"allowedNumOfEventsPerReq":50,"excludedEvents":"read,openLeftMenu"},"content_buffer_size":2000,"isPrintSupportedForBrowser":true,"isFiguresDownloadable":true,"isEpubLazyLoadingEnabled":true,"isPdfLazyLoadingEnabled":true,"loadedPagesLimit":7,"maxPdfKeepSize":20,"switchFormats":{"enabled":false,"current":"pdf","available":{"pdf":{"name":"pdf","url":"/doi/epdf/10.1111/ele.13842"}}},"tabsSuppressionConfig":{"materialsSuppressed":false,"notesSuppressed":true,"linksSuppressed":false,"infosSuppressed":false},"fetchFiguresFromEpub":false,"adsInclusionEnabled":true,"profileConfig":{"activeProfile":"DEFAULT","printSuppressed":false,"offlineSuppressed":false,"downloadSuppressed":false,"switchFormatsSuppressed":true,"materialsSuppressed":false,"notesSuppressed":true,"linksSuppressed":false,"infoSuppressed":false,"siteLinkOutSuppressed":false,"accessSharingSuppressed":false},"isReadingFlowEnabled":true,"showCrossmarkButton":false,"referencesNumberingSupported":true,"freeToReadConfig":{"learnMoreLink":"","bannerMessage":"Downloading and printing are disabled.","isFreeToRead":false,"isBannerEnabled":true,"isGetAccessButtonVisible":true,"accessUrl":"/doi/ftr/10.1111/ele.13842"},"termsAndConditionsUrl":"https://onlinelibrary.wiley.com/termsAndConditions"};
+            readerConfig.libraryPath='/reader/library';
+        </script>
+        
+
+<script type="text/javascript">
+    readerConfig.alertBtn = {
+        okMsg: 'OK, GOT IT',
+        LaterBtnShow: true,
+        LaterBtnMsg: 'Later',
+        LibraryBtnMsg: 'Go now'
+    };
+    //Only put messages that have overrided values in message.properties
+    // All messages should have the prefix "eReader"
+    // default message.properties is in product/templates/jsp/messages.properties
+    readerConfig.alertPopupMsg = {
+        
+
+        
+        PRINTING_DISABLED_MESSAGE : "<i class='material-icons'>info_outline</i> <h2>Do not print this page</h2> <h3>To view your printing options, return to the document and click the print option in the menu in the top right corner of the page.</h3>",
+        
+        USER_UNAUTHORIZED: "You do not have the required license. The publication cannot be <span>X</span>.",
+        
+        SHARING_DISABLED: "Sharing access to publications is not currently enabled.",
+        SHARING_UNAUTHORIZED: "This content has license restrictions and cannot be shared via Shared Access.",
+        SHARING_UNAVAILABLE: "This content has license restrictions and cannot be shared via Shared Access.",
+        SHARING_TEMPORARY_ERROR: "<span>X</span> failed. Please try again."
+        
+
+        
+
+        
+
+        
+
+    };
+    
+    LIT.Reader.config = {
+        /* http://requirejs.org/docs/api.html#config-waitSeconds */
+        waitSeconds: 0,
+        config: {
+            'readium_js_viewer/ModuleConfig': {
+                'mathJaxUrl': HTTPServerRootFolder + '/scripts/mathjax/MathJax.min.js',
+                'annotationCSSUrl': HTTPServerRootFolder + '/css/annotations.css',
+                'jsLibRoot': HTTPServerRootFolder + '/scripts/zip/',
+                'useSimpleLoader': false,
+                'epubLibraryPath': undefined,
+                'imagePathPrefix': '/cloud-reader/src/',
+                'canHandleUrl': false,
+                'canHandleDirectory': false,
+                'workerUrl': undefined,
+                'epubReadingSystemUrl': undefined,
+                "customConfig": readerConfig
+            }
+        }
+    };
+</script>
+
+
+<script async src="/templates/jsp/cloudReader/js/cache-update.js" type="text/javascript"></script>
+<script src="/cloud-reader/dist/scripts/readium-js-viewer_all_LITE.js" type="text/javascript"></script>
+<script type="text/javascript">
+    require.config(LIT.Reader.config);
+</script>
+        <script async src="/cloud-reader/dist/scripts/readium-additional-libs.js" type="text/javascript"></script>
+        
+        
+            
+                    <script type="module">
+                        if ('serviceWorker' in navigator && !window.READER_OFFLINE) {
+                            window.addEventListener("load", function (evt) {
+                                
+                                var CACHE_BUSTER_MARKER = 3;
+
+                                var assetsCacheName = 'readerAssetsCache-948370-' + CACHE_BUSTER_MARKER;
+                                var readerContentUrl = window.location.pathname;
+                                import ('/templates/jsp/cloudReader/js/readerServiceWorkerHelper.js').then(function (swHelper) {
+                                    swHelper.registerServiceWorkers(true, readerContentUrl, readerContentPage, assetsCacheName, readerConfig.format);
+                                });
+                            });
+                            
+                            var readerContentPage = "<!DOCTYPE html>"+$('html')[0].outerHTML;
+                        }
+                    </script>
+                
+        
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6767ca4a29d24945","token":"f3dd54df2ac243bab2129483f57546d1","version":"2021.7.0","si":10}'></script>
+</body>
+</html>

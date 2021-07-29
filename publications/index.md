@@ -11,8 +11,16 @@ navigation: True
 <br>
 
 # Publications
-**MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Evolution of butterfly-plant networks over time, as revealed by Bayesian inference of host repertoire. bioRxiv 2021.02.04.429735.
-[[paper](/assets/research/pdf/Braga_et_al_2021_bioRxiv_evol_network.pdf)]
+
+EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 2021. Phylogeny, species delimitation, and ecological and morphological diversity of *Characithecium* (Monogenoidea: Dactylogyridae). *Under review.* 
+
+J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. 2021. Lessons learned from organizing and teaching virtual phylogenetics workshops. *Under review.*
+
+CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2021. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. bioRXiv, doi/10.1101/2021.05.10.443470. *Under review.*
+[[paper](/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)]
+
+**MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters (Early View), doi://10.1111/ele.13842.
+[[paper](/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)]
 
 **MJ Landis**, EJ Edwards, MJ Donoghue. 2021. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology 70: 86-107.<br>
 [[paper](/assets/research/pdf/Landis_et_al_2021_SystBiol_biome_shift.pdf)]
