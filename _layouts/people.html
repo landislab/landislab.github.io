@@ -37,6 +37,9 @@ into the {body} of the default.hbs template -->
         <!-- render the Markdown content of home/index.md the front page -->
         {{ content }}
         <!--<table table-layout="fixed" style="margin: auto" width="900px">-->
+        <div style="width:100%; margin-left:auto; margin-right:auto">
+            <h2>Current members</h2>
+        </div>
         <table>
             <colgroup>
                 <col style="width:200px">
@@ -90,11 +93,61 @@ into the {body} of the default.hbs template -->
                 </tr>
             {% endfor %}
         </table>
+
+        <div style="width:100%; margin-left:auto; margin-right:auto">
+            <h2>Past members</h2>
+        </div>
+
+        <table>
+            <colgroup>
+                <col style="width:200px">
+                <col>
+            </colgroup>
+            {% for person in site.data.alumni %}
+                <tr>
+                    <td markdown="span">
+                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="50px" width="50px" class="img-people">
+                    </td>
+                    <td markdown="span">
+                        <br>
+                        <div id="{{ person[1].username }}">
+                        {% if person[1].name %}
+                            <b>{{ person[1].name }}</b>
+                        {% endif %}
+                        </div>
+                        <div>
+                        {% if person[1].position %}
+                            <i>{{ person[1].position }}</i>
+                        {% endif %}
+                        </div>
+                        <br>
+                        <div>
+                            {% if person[1].bio %}
+                                {{ person[1].bio }}
+                            {% endif %}
+                        </div>
+                        <br>
+                    </td>
+                </tr>
+            {% endfor %}
+        </table>
+
+
         <div style="width:100%; margin-left:auto; margin-right:auto">
             <h2>Interested in joining?</h2>
             We're always looking for creative thinkers who are interested in modeling evolutionary processes. Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> directly to inquire about postdoctoral, graduate, and undergraduate research opportunities. Messages from visiting scientists and those seeking independent funding through research fellowships are also most welcome. In your email, please share what your research interests are, examples of your past research, topics that our group studies that that you find interesting, and/or new ideas that you think we should explore together.
             <br>
             <br>
         </div>
+
+        <div style="width:100%; margin-left:auto; margin-right:auto">
+            <h2>Funding opportunities</h2>
+            <a href="https://www.nsfgrfp.org/applicants/">NSF Graduate Research Fellowship</a><br>
+            <a href="https://www.krellinst.org/csgf/about-doe-csgf/eligibility-program-requirements">DOE Computational Science Graduate Fellowship</a><br>
+            <a href="https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb">NSF Postdoctoral Research Fellowship in Biology</a><br>
+            <a href="https://livingearthcollaborative.wustl.edu/home/lec-post-docs/">Living Earth Collaborative Postdoctoral Fellowship</a><br>
+        </div>
+
+        <br><br>
     </div>
 </main>

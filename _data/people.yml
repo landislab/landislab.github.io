@@ -11,23 +11,23 @@ mlandis:
   bitbucket: mlandis
   bio: I'm interested in learning how evolutionary processes behave and how Earth's biodiversity has changed over time. My research generally involves designing phylogenetic models of evolution, programming inference methods, and analyzing simulated and biological datasets.
 
-mbraga:
-  username: mariana_braga
-  name: Mariana Braga
-  position: Postdoctoral Researcher
-  picture: mbraga.jpg
-  url: https://www.su.se/english/profiles/mbrag-1.219235
-  cv: False
-  twitter: mpiresbr2
-  email: mariana.braga@zoologi.su.se
-  github: mpiresbr
-  bitbucket: False
-  bio: My research studies the evolution of butterfly-host plant interactions and butterfly diversification by combining host use records, phylogenetic information, network theory, and computer simulations. I am currently developing probabilistic models to help us understand the distribution of ecological interactions across space and time. 
+fmendes:
+  username: fabio_mendes
+  name: Fábio Kuriki Mendes
+  position: Postdoctoral Researcher (joined 2021)
+  picture: fmendes.jpg
+  url: False #https://landislab.github.io
+  cv: False #../assets/people/cv/mlandis_cv.pdf
+  twitter: fabiokmendes
+  email: f.mendes@wustl.edu
+  github: False #mlandis
+  bitbucket: False #mlandis
+  bio: I wish to learn how biological groups evolve different genotypes and phenotypes while diversifying in time and space. My research brings us closer to this goal by enabling integrative evolutionary inference -- I develop (and use) phylogenetic models that can leverage different types of data across evolutionary timescales. 
 
 athompson:
   username: ammon_thompson
   name: Ammon Thompson
-  position: Postdoctoral Researcher
+  position: Postdoctoral Researcher (joined 2021)
   picture: athompson.jpg
   url: False # https://www.su.se/english/profiles/mbrag-1.219235
   twitter: False #mpiresbr2
@@ -37,31 +37,70 @@ athompson:
   cv: False
   bio: I'm an evolutionary biologist who is interested in transcriptome evolution and phylogenetic inference. Currently, I am developing research methods for to infer viral phylodynamics as a visiting research scientist with the National Geospatial Intelligence Agency, in collaboration with the Landis group.
 
+sswiston:
+  username: sarah_swiston
+  name: Sarah Swiston
+  position: Graduate Student (joined 2021)
+  picture: sswiston.jpg
+  url: False # https://www.su.se/english/profiles/mbrag-1.219235
+  twitter: SarahSwiston
+  email: sarah.k.swiston@wustl.edu
+  github: False # mpiresbr
+  bitbucket: False
+  cv: False
+  bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data.
+
 wsexton:
   username: walker_sexton
   name: Walker Sexton
-  position: Undergraduate Researcher
+  position: Undergraduate Researcher (joined 2020)
   picture: wsexton.jpg
-  url: False # https://www.su.se/english/profiles/mbrag-1.219235
-  twitter: False #mpiresbr2
-  email: False #mariana.braga@zoologi.su.se
-  github: False #mpiresbr
+  url: False
+  twitter: False
+  email: False
+  github: False
   bitbucket: False
   cv: False
   bio: I'm an evolutionary biology major and anthropology minor interested in how macroevolutionary and genetic processes have led to the biodiverse forms throughout Earth's history and the relationships of life today.
 
-eramos:
-  username: ernie_ramos
-  name: Ernie Ramos
-  position: Undergraduate Researcher
-  picture: eramos.jpg
-  url: False #https://www.su.se/english/profiles/mbrag-1.219235
-  twitter: False # mpiresbr2
-  email: False #mariana.braga@zoologi.su.se
-  github: False #mpiresbr
+mshah:
+  username: mihir_shah
+  name: Mihir Shah
+  position: Undergraduate Researcher (joined 2021)
+  picture: mshah.jpg
+  url: False 
+  cv: False 
+  twitter: False 
+  email: False 
+  github: False
   bitbucket: False
-  cv: False
-  bio: Ernie is a math major who is researching how ecology and evolution shape spatial patterns of biodiversity.
+  bio: Mihir is a biomedical engineering student who is interested in computational and quantitative approaches to biological research. 
+
+#eramos:
+#  username: ernie_ramos
+#  name: Ernie Ramos
+#  position: Undergraduate Researcher
+#  picture: eramos.jpg
+#  url: False #https://www.su.se/english/profiles/mbrag-1.219235
+#  twitter: False # mpiresbr2
+#  email: False #mariana.braga@zoologi.su.se
+#  github: False #mpiresbr
+#  bitbucket: False
+#  cv: False
+#  bio: Ernie is a math major who is researching how ecology and evolution shape spatial patterns of biodiversity.
+
+#mbraga:
+#  username: mariana_braga
+#  name: Mariana Braga
+#  position: Postdoctoral Researcher
+#  picture: mbraga.jpg
+#  url: https://www.su.se/english/profiles/mbrag-1.219235
+#  cv: False
+#  twitter: mpiresbr2
+#  email: mariana.braga@zoologi.su.se
+#  github: mpiresbr
+#  bitbucket: False
+#  bio: My research studies the evolution of butterfly-host plant interactions and butterfly diversification by combining host use records, phylogenetic information, network theory, and computer simulations. I am currently developing probabilistic models to help us understand the distribution of ecological interactions across space and time. 
 
 
 #postdoc-biogeo:

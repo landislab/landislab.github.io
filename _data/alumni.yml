@@ -1,0 +1,28 @@
+mbraga:
+  username: mariana_braga
+  name: Mariana Braga
+  position: Postdoctoral Researcher (2019 to 2021)
+  picture: mbraga.jpg
+    #url: https://www.su.se/english/profiles/mbrag-1.219235
+    #cv: False
+    #twitter: mpiresbr2
+    #email: mariana.braga@zoologi.su.se
+    #github: mpiresbr
+    #bitbucket: False
+  bio: Mariana is now a postdoc at Uppsala Univ. and Univ. of Helsinki with a Swedish International Postdoc Fellowship. 
+    #bio: My research studies the evolution of butterfly-host plant interactions and butterfly diversification by combining host use records, phylogenetic information, network theory, and computer simulations. I am currently developing probabilistic models to help us understand the distribution of ecological interactions across space and time. 
+
+eramos:
+  username: ernie_ramos
+  name: Ernie Ramos
+  position: Undergraduate Researcher (2020)
+  picture: eramos.jpg
+  url: False #https://www.su.se/english/profiles/mbrag-1.219235
+  twitter: False # mpiresbr2
+  email: False #mariana.braga@zoologi.su.se
+  github: False #mpiresbr
+  bitbucket: False
+  cv: False
+  bio: False
+    #Ernie is a math major who is researching how ecology and evolution shape spatial patterns of biodiversity.
+
