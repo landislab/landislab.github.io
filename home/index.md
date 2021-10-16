@@ -26,6 +26,8 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*16 Oct 2021*<br> With the re-opening of the lab this Fall, our group welcomes three new members -- Dr. Fábio Mendes (postdoc), Sarah Swiston (PhD student), and Mihir Shah (undergrad) -- and bids farewell to two others -- Dr. Mariana Braga (postdoc) and Ernie Ramos (undergrad).
+
 *29 Jul 2021*<br> We have a new paper out in Ecology Letters, introducing a new phylogenetic method to reconstruct how ecological networks (e.g. between plant and butterfly species) evolved over deep time scales. Read more [here](https://onlinelibrary.wiley.com/doi/10.1111/ele.13842)!
 
 *22 Jun 2021*<br> Our very own Dr. Mariana Braga [won the Publisher's Award](https://twitter.com/landismj/status/1407379978593898503) from Systematic Biology for [her paper](https://academic.oup.com/sysbio/article/69/6/1149/5810100) entitled "Bayesian inference of ancestral host–parasite interactions under a phylogenetic model of host repertoire evolution". Nicely done, Mariana! 
