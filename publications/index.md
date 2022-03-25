@@ -12,11 +12,17 @@ navigation: True
 
 # Publications
 
-EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 2021. Phylogeny, species delimitation, and ecological and morphological diversity of *Characithecium* (Monogenoidea: Dactylogyridae). *Under review.* 
+J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. 2021. Lessons learned from organizing and teaching virtual phylogenetics workshops. *Accepted*. Bulletin of the Society of Systematic Biologists.
 
-J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. 2021. Lessons learned from organizing and teaching virtual phylogenetics workshops. *Under review.*
+EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 2021. Phylogeny, species delimitation, and ecological and morphological diversity of *Characithecium* (Monogenoidea: Dactylogyridae). *In press.*<br>
 
-CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2021. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. bioRXiv, doi/10.1101/2021.05.10.443470. *Under review.*<br>
+**MJ Landis**, I Quintero, MM Munoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split
+across barriers. Proceedings of the National Academy of Sciences, 119: e2116948119.<br>
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)]
+
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Wendt_et_al_2022_Parasitology_Characithecium.pdf)]
+
+CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2021. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. 2022. Methods in Ecology and Evolution 13:314-323.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)]
 
 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24: 2134-2145.<br>
