@@ -17,7 +17,7 @@ J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petr
 EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 2021. Phylogeny, species delimitation, and ecological and morphological diversity of *Characithecium* (Monogenoidea: Dactylogyridae). *In press.*<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Wendt_et_al_2022_Parasitology_Characithecium.pdf)]
 
-**MJ Landis**, I Quintero, MM Munoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split
+**MJ Landis**, I Quintero, MM Muñoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split
 across barriers. Proceedings of the National Academy of Sciences, 119: e2116948119.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)]
 
