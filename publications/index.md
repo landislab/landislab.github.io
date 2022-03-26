@@ -12,7 +12,7 @@ navigation: True
 
 # Publications
 
-J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. 2021. Lessons learned from organizing and teaching virtual phylogenetics workshops. *Accepted*. Bulletin of the Society of Systematic Biologists.
+J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. Lessons learned from organizing and teaching virtual phylogenetics workshops. *Accepted*. Bulletin of the Society of Systematic Biologists.
 
 EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 2021. Phylogeny, species delimitation, and ecological and morphological diversity of *Characithecium* (Monogenoidea: Dactylogyridae). *In press.*<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Wendt_et_al_2022_Parasitology_Characithecium.pdf)]
