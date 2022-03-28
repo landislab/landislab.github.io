@@ -25,7 +25,7 @@ CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S 
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)] [[code](https://github.com/revbayes/RevGadgets)]
 
 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24: 2134-2145.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)] [[code](https://github.com/maribraga/pieridae_hostrep)]
 
 **MJ Landis**, EJ Edwards, MJ Donoghue. 2021. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology 70: 86-107.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_biome_shift.pdf)] [[code](https://github.com/mlandis/biome_shift)]
