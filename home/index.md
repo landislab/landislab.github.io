@@ -26,6 +26,10 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*11 Apr 2022*<br> Two cheers for PhD student and lab member, Sarah Swiston, for passing her qualifying exam and for being awarded the NSF Graduate Research Fellowship! 
+
+*25 Mar 2022*<br> New study now published in PNAS, modeling how regional features of geography (e.g. oceans, distances) influence speciation, extinction, and dispersal rates. Read more [here](https://www.pnas.org/doi/full/10.1073/pnas.2116948119) and [here](https://source.wustl.edu/2022/03/new-model-predicts-how-geographic-features-influence-evolutionary-outcomes/).
+
 *16 Oct 2021*<br> With the re-opening of the lab this Fall, our group welcomes three new members -- Dr. Fábio Mendes (postdoc), Sarah Swiston (PhD student), and Mihir Shah (undergrad) -- and bids farewell to two others -- Dr. Mariana Braga (postdoc) and Ernie Ramos (undergrad).
 
 *29 Jul 2021*<br> We have a new paper out in Ecology Letters, introducing a new phylogenetic method to reconstruct how ecological networks (e.g. between plant and butterfly species) evolved over deep time scales. Read more [here](https://onlinelibrary.wiley.com/doi/10.1111/ele.13842)!
