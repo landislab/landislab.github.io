@@ -26,7 +26,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*11 Apr 2022*<br> Two cheers for PhD student and lab member, Sarah Swiston, for passing her qualifying exam and for being awarded the NSF Graduate Research Fellowship! 
+*11 Apr 2022*<br> Two cheers for Sarah Swiston for passing her qualifying exam and for being awarded the NSF Graduate Research Fellowship! 🎉🎉
 
 *25 Mar 2022*<br> New study now published in PNAS, modeling how regional features of geography (e.g. oceans, distances) influence speciation, extinction, and dispersal rates. Read more [here](https://www.pnas.org/doi/full/10.1073/pnas.2116948119) and [here](https://source.wustl.edu/2022/03/new-model-predicts-how-geographic-features-influence-evolutionary-outcomes/).
 
