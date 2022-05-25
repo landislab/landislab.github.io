@@ -30,7 +30,7 @@ CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S 
 **MJ Landis**, EJ Edwards, MJ Donoghue. 2021. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology 70: 86-107.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_biome_shift.pdf)] [[code](https://github.com/mlandis/biome_shift)]
 
-**MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2020. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70: 86-107.<br>
+**MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2021. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70: 67-85.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_viburnum_phylo.pdf)] [[code](https://github.com/mlandis/vib_div)]
 
 **MJ Landis**. 2020. "Biogeographic dating of phylogenetic divergence times using priors and processes" (pp 135-155) in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer.<br>
