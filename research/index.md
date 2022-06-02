@@ -40,7 +40,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **MJ Landis**, I Quintero, MM Muñoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split across barriers. Proceedings of the National Academy of Sciences 119: e2116948119.<br>
+                **MJ Landis**, I Quintero, MM Muñoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split across barriers. Proceedings of the National Academy of Sciences 119:e2116948119.<br>
                 [[paper](/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)]  [[scripts](http://github.com/mlandis/fig_model)]
             </td>
         </table></td>
@@ -57,7 +57,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2021. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70: 67-85.<br>
+                **MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2021. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70:67-85.<br>
                 [[paper](/assets/research/pdf/Landis_et_al_2021_SystBiol_viburnum_phylo.pdf)]  [[scripts](http://github.com/mlandis/vib_div)]
             </td>
         </table></td>
@@ -123,7 +123,7 @@ Our work in this area aims to illuminate how ecological interactions evolved wit
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24: 2134-2145.<br>
+                 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24:2134-2145.<br>
 [[paper](/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)] [[scripts](https://github.com/maribraga/evolnets)]
             </td>
         </table></td>
@@ -140,7 +140,7 @@ Our work in this area aims to illuminate how ecological interactions evolved wit
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 **MJ Landis**, EJ Edwards, MJ Donoghue. 2021. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology 70: 86-107.<br>
+                 **MJ Landis**, EJ Edwards, MJ Donoghue. 2021. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology 70:86-107.<br>
 [[paper](/assets/research/pdf/Landis_et_al_2021_SystBiol_biome_shift.pdf)] [[scripts](https://github.com/mlandis/biome_shift)]
             </td>
         </table></td>
@@ -156,7 +156,7 @@ Our work in this area aims to illuminate how ecological interactions evolved wit
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2020. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology 69: 1149-1162.<br>
+                 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2020. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology 69:1149-1162.<br>
 [[paper](/assets/research/pdf/Braga_et_al_2020_SystBiol_host_parasite.pdf)] [[scripts](https://github.com/maribraga/pieridae_hostrep)]
             </td>
         </table></td>
@@ -171,7 +171,7 @@ Our work in this area aims to illuminate how ecological interactions evolved wit
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 I Quintero, **MJ Landis** 2020. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology 69: 739-755..<br>
+                 I Quintero, **MJ Landis** 2020. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology 69:739-755.<br>
 [[paper](/assets/research/pdf/Quintero_Landis_2020_SystBiol_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
             </td>
         </table></td>
