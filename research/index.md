@@ -34,7 +34,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- IMAGE -->
         <td><table table-layout="fixed" style="margin:auto" width="200px">
             <td markdown="span" width="200px">
-                <img src="/assets/research/img/Landis_et_al_2022_PNAS_fig_model.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+                <img src="/assets/research/img/Landis_et_al_2022_PNAS_FIG_model.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
             </td>
         </table></td>
         <!-- PAPER -->
