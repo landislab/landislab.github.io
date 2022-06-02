@@ -156,7 +156,7 @@ Our work in this area aims to illuminate how ecological interactions evolved wit
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2019. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology 69: 1149-1162.<br>
+                 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2020. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology 69: 1149-1162.<br>
 [[paper](/assets/research/pdf/Braga_et_al_2020_SystBiol_host_parasite.pdf)] [[scripts](https://github.com/maribraga/pieridae_hostrep)]
             </td>
         </table></td>
@@ -171,8 +171,8 @@ Our work in this area aims to illuminate how ecological interactions evolved wit
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 I Quintero, **MJ Landis** 2019. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology (accepted).<br>
-[[paper](/assets/research/pdf/Quintero_Landis_2019_bioRxiv_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
+                 I Quintero, **MJ Landis** 2020. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology 69: 739-755..<br>
+[[paper](/assets/research/pdf/Quintero_Landis_2020_SystBiol_biotic_interactions.pdf)]  [[software](https://github.com/ignacioq/Tapestree.jl)]
             </td>
         </table></td>
     </tr>
