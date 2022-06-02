@@ -23,7 +23,7 @@ Historical biogeography studies the distribution of species in space and time.
 Because many species have no known fossil record, biogeographers often rely on reconstructing ancestral species ranges to understand how ranges change over time.
 Only recently, statistical event-based models have been used in a phylogenetic context to estimate ancestral species ranges, represented presence-absence states for sets of discrete areas.
 Methodologically, we are interested in techniques to allow the models to be applied to high-resolution, global-scale datsets.
-For models, we are interested how biogeographic inference may improve phylogenetic estimates.
+For models, we are interested how biogeographic inference may improve phylogenetic estimates, such as divergence time estimation or regional features that influence underlying evolutionary processes.
 
 #### Related work
 
@@ -187,7 +187,7 @@ In phylogenetics, this is often modeled as a Brownian motion, whereby small chan
 Many evolutionary mechanisms, such as rapid adaptation, may produce "pulses" in variation, with punctuated change of large effect.
 Rapid change should produce power-law (or heavy-tailed) distributions of traits, but Brownian motion does not generate this feature.
 It is difficult to detect these bursts if they are not modeled appropriately.
-To search for signals of punctuated evolution, we apply a flexible class of stochastic processes that produce gradual and/or punctuational patterns of change, called Lévy processes.
+To search for signals of pulsed evolution, we apply a flexible class of stochastic processes that produce gradual and/or punctuational patterns of change, called Lévy processes.
 
 #### Related work
 
