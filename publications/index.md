@@ -21,6 +21,9 @@ EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 202
 across barriers. Proceedings of the National Academy of Sciences 119: e2116948119.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)] [[code](https://github.com/mlandis/fig_model)]
 
+S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. PeerJ 9:e12438. 
+<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2021_PeerJ_parallel_marg_like.pdf)]
+
 CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2021. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. 2022. Methods in Ecology and Evolution 13:314-323.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)] [[code](https://github.com/revbayes/RevGadgets)]
 
@@ -56,9 +59,6 @@ B Park, M Sinnott-Armstrong, C Schlutius, JC Zuluaga, EL Spriggs, RG Simpson, E 
 
 **MJ Landis**, JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114: 13224-13229.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]  [[code](http://github.com/Schraiber/pulsR)]
-
-S Höhna, **MJ Landis**, JP Huelsenbeck. 2017. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. Bioinformatics, Accepted.
-<br>[[paper (pre-print)](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2017_bioRxiv_parallel_marg_like.pdf)]
 
 **MJ Landis**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66: 128-144.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_2017_SystBiol_biogeographic_dating.pdf)]  [[code](http://github.com/mlandis/biogeographic_dating)]

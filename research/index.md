@@ -21,7 +21,7 @@ We maintain a broad and active interest in phylogenetic inference, and develop f
 
 Historical biogeography studies the distribution of species in space and time.
 Because many species have no known fossil record, biogeographers often rely on reconstructing ancestral species ranges to understand how ranges change over time.
-Only recently, parametric models have been used in a phylogenetic context to estimate ancestral species ranges, represented presence-absence states for sets of discrete areas.
+Only recently, statistical event-based models have been used in a phylogenetic context to estimate ancestral species ranges, represented presence-absence states for sets of discrete areas.
 Methodologically, we are interested in techniques to allow the models to be applied to high-resolution, global-scale datsets.
 For models, we are interested how biogeographic inference may improve phylogenetic estimates.
 
@@ -29,6 +29,40 @@ For models, we are interested how biogeographic inference may improve phylogenet
 
 <table>
     
+    <!-- NEW ENTRY -->
+    <tr>
+        <!-- IMAGE -->
+        <td><table table-layout="fixed" style="margin:auto" width="200px">
+            <td markdown="span" width="200px">
+                <img src="/assets/research/img/Landis_et_al_2022_PNAS_fig_model.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+            </td>
+        </table></td>
+        <!-- PAPER -->
+        <td><table table-layout="fixed" style="margin:auto">
+            <td markdown="span">
+                **MJ Landis**, I Quintero, MM Muñoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split across barriers. Proceedings of the National Academy of Sciences 119: e2116948119.<br>
+                [[paper](/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)]  [[scripts](http://github.com/mlandis/fig_model)]
+            </td>
+        </table></td>
+    </tr>
+    
+    <!-- NEW ENTRY -->
+    <tr>
+        <!-- IMAGE -->
+        <td><table table-layout="fixed" style="margin:auto" width="200px">
+            <td markdown="span" width="200px">
+                <img src="/assets/research/img/Landis_et_al_2021_SystBiol_viburnum_phylo.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+            </td>
+        </table></td>
+        <!-- PAPER -->
+        <td><table table-layout="fixed" style="margin:auto">
+            <td markdown="span">
+                **MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2021. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70: 67-85.<br>
+                [[paper](/assets/research/pdf/Landis_et_al_2021_SystBiol_viburnum_phylo.pdf)]  [[scripts](http://github.com/mlandis/vib_div)]
+            </td>
+        </table></td>
+    </tr>
+
     <!-- NEW ENTRY -->
     <tr>
         <!-- IMAGE -->
@@ -64,39 +98,6 @@ For models, we are interested how biogeographic inference may improve phylogenet
         </table></td>
     </tr>
     
-    <!-- NEW ENTRY -->
-    <tr>
-        <!-- IMAGE -->
-        <td><table table-layout="fixed" style="margin:auto" width="200px">
-            <td markdown="span" width="200px">
-                <img src="/assets/research/img/Landis_Bedford_2014_Bioinfo_phylowood.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
-            </td>
-        </table></td>
-        <!-- PAPER -->
-        <td><table table-layout="fixed" style="margin:auto">
-            <td markdown="span">
-                **MJ Landis**, T Bedford. 2014. Phylowood: interactive web-based animations of biogeographic and phylogeographic histories. Bioinformatics, 30:123-124.<br>
-                [[paper](/assets/research/pdf/Landis_Bedford_2014_Bioinfo_phylowood.pdf)]  [[software](http://mlandis.github.io/phylowood)]
-            </td>
-        </table></td>
-    </tr>
-    
-    <!-- NEW ENTRY -->
-    <tr>
-        <!-- IMAGE -->
-        <td><table table-layout="fixed" style="margin:auto" width="200px">
-            <td markdown="span" width="200px">
-                <img src="/assets/research/img/Landis_et_al_2013_SystBiol_biogeography_many_areas.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
-            </td>
-        </table></td>
-        <!-- PAPER -->
-        <td><table table-layout="fixed" style="margin:auto">
-            <td markdown="span">
-                 **MJ Landis**, NJ Matzke, BR Moore, JP Huelsenbeck. 2013. Bayesian Analysis of Biogeography when the Number of Areas is Large. Systematic Biology, 62:789-804.<br>
-                [[paper](/assets/research/pdf/Landis_et_al_2013_SystBiol_biogeography_many_areas.pdf)]  [[software](http://software.google.com/p/archive/bayarea)]
-            </td>
-        </table></td>
-    </tr>
 </table>
 
 ---
@@ -116,29 +117,47 @@ Our work in this area aims to illuminate how ecological interactions evolved wit
         <!-- IMAGE -->
         <td><table table-layout="fixed" style="margin:auto" width="200px">
             <td markdown="span" width="200px">
-                <img src="/assets/research/img/Landis_et_al_2019_bioRxiv_biome_shift.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+                <img src="/assets/research/img/Braga_et_al_2021_EcolLett_evol_network.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
             </td>
         </table></td>
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 **MJ Landis**, EJ Edwards, MJ Donoghue. 2019. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology (accepted).<br>
-[[paper](/assets/research/pdf/Landis_et_al_2019_bioRxiv_biome_shift.pdf)]
+                 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24: 2134-2145.<br>
+[[paper](/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)] [[scripts](https://github.com/maribraga/evolnets)]
             </td>
         </table></td>
     </tr>
+
+    <!-- NEW ENTRY -->
     <tr>
         <!-- IMAGE -->
         <td><table table-layout="fixed" style="margin:auto" width="200px">
             <td markdown="span" width="200px">
-                <img src="/assets/research/img/Braga_et_al_2019_bioRxiv_host_parasite.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+                <img src="/assets/research/img/Landis_et_al_2021_SystBiol_biome_shift.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
             </td>
         </table></td>
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2019. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology (accepted).<br>
-[[paper](/assets/research/pdf/Braga_et_al_2019_bioRxiv_host_parasite.pdf)]
+                 **MJ Landis**, EJ Edwards, MJ Donoghue. 2021. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology 70: 86-107.<br>
+[[paper](/assets/research/pdf/Landis_et_al_2021_SystBiol_biome_shift.pdf)] [[scripts](https://github.com/mlandis/biome_shift)]
+            </td>
+        </table></td>
+    </tr>
+
+    <tr>
+        <!-- IMAGE -->
+        <td><table table-layout="fixed" style="margin:auto" width="200px">
+            <td markdown="span" width="200px">
+                <img src="/assets/research/img/Braga_et_al_2020_SystBiol_host_parasite.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+            </td>
+        </table></td>
+        <!-- PAPER -->
+        <td><table table-layout="fixed" style="margin:auto">
+            <td markdown="span">
+                 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2019. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology 69: 1149-1162.<br>
+[[paper](/assets/research/pdf/Braga_et_al_2020_SystBiol_host_parasite.pdf)] [[scripts](https://github.com/maribraga/pieridae_hostrep)]
             </td>
         </table></td>
     </tr>
@@ -235,11 +254,11 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
 
 ### Phylogenetic inference with RevBayes
 
-Learning the degree of relatedness between species has far-reaching implications for biological research, from basic research questions in evolution and ecology, to applied questions in medical research, epidemiology, forensics, and biodiversity management.
-Estimating a phylogeny, of course, depends on one's model assumptions, which vary depending on the nature of the study.
+Learning the degree of relatedness between species has far-reaching implications for biological research, from basic research questions in evolution and ecology, to applied questions in molecular biology, epidemiology, forensics, and biodiversity management.
+Inferring phylogeny, ancestral states, and the tempo and mode of evolution ultimately depends on what data is available and how the inference model is designed.
 [RevBayes](http://revbayes.com) was designed to allow researchers to tailor models to their needs.
 RevBayes achieves this by providing a flexible scripting language to describe probabilistic graphical models.
-
+In general, our work develops new variants of standard stochastic processes -- such as birth-death processes, continuous-time Markov processes, and various jump-diffusion processes -- to test hypotheses for how different groups of species evolved.
 
 
 #### Related work
@@ -305,14 +324,14 @@ RevBayes achieves this by providing a flexible scripting language to describe pr
         <!-- IMAGE -->
         <td><table table-layout="fixed" style="margin:auto" width="200px">
             <td markdown="span" width="200px">
-                <img src="/assets/research/img/Hoehna_et_al_2017_Bioinformatics_parallel_marg_like.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
+                <img src="/assets/research/img/Hoehna_et_al_2021_PeerJ_parallel_marg_like.png" style="float: left; margin:0px" height="100" width="200" class="img-circle-5">
             </td>
         </table></td>
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                S Höhna, **MJ Landis**, JP Huelsenbeck. 2017. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. Bioinformatics, Accepted.<br>
-                [[paper (pre-print)](/assets/research/pdf/Hoehna_et_al_2017_bioRxiv_parallel_marg_like.pdf)]
+                S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. PeerJ 9:e12438.<br>
+                [[paper](/assets/research/pdf/Hoehna_et_al_2021_PeerJ_parallel_marg_like.pdf)]
             </td>
         </table></td>
     </tr>
