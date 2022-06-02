@@ -74,7 +74,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **MJ Landis**, WA Freyman, BG Baldwin. 2018. Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution, 72:2343-2359.<br>
+                **MJ Landis**, WA Freyman, BG Baldwin. 2018. Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution 72:2343-2359.<br>
                 [[paper](/assets/research/pdf/Landis_et_al_2018_Evolution_silversword_radiation.pdf)]  [[scripts](http://github.com/mlandis/biogeo_silversword)]
             </td>
         </table></td>
@@ -92,7 +92,7 @@ For models, we are interested how biogeographic inference may improve phylogenet
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **MJ Landis**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66:128-144.<br>
+                **MJ Landis**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology 66:128-144.<br>
                 [[paper](/assets/research/pdf/Landis_2017_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
             </td>
         </table></td>
@@ -204,7 +204,7 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **MJ Landis**, JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114:13224-13229.<br>
+                **MJ Landis**, JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences 114:13224-13229.<br>
                 [[paper](/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]  [[software](http://github.com/Schraiber/pulsR)]
             </td>
         </table></td>
@@ -221,7 +221,7 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                **MJ Landis (\*)**, JG Schraiber (\*), M Liang. 2013. Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits. Systematic Biology, 62:193-204.<br>
+                **MJ Landis (\*)**, JG Schraiber (\*), M Liang. 2013. Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits. Systematic Biology 62:193-204.<br>
                 [[paper](/assets/research/pdf/Landis_et_al_2012_SystBiol_phylo_levy.pdf)]  [[software](http://github.com/mlandis/creepy-jerk)]
             </td>
         </table></td>
@@ -238,7 +238,7 @@ To search for signals of punctuated evolution, we apply a flexible class of stoc
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                JG Schraiber, **MJ Landis**. 2015. Sensitivity of quantitative traits to mutational effects and number of loci. Theoretical Population Biology, 102:85-93.<br>
+                JG Schraiber, **MJ Landis**. 2015. Sensitivity of quantitative traits to mutational effects and number of loci. Theoretical Population Biology 102:85-93.<br>
                 [[paper](/assets/research/pdf/Schraiber_Landis_2014_TPB_quant_coalescent.pdf)]  [[scripts](http://github.com/Schraiber/quant_trait_coalescent)]
             </td>
         </table></td>
@@ -277,7 +277,7 @@ In general, our work develops new variants of standard stochastic processes -- s
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                 S Höhna, **MJ Landis**, TA Heath, B Boussau, N Lartillot, BR Moore, JP Huelsenbeck, F Ronquist. 2016. RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language. Systematic Biology, 65:726-736.<br>
+                 S Höhna, **MJ Landis**, TA Heath, B Boussau, N Lartillot, BR Moore, JP Huelsenbeck, F Ronquist. 2016. RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language. Systematic Biology 65:726-736.<br>
 [[paper](/assets/research/pdf/Hoehna_et_al_2016_SystBiol_revbayes.pdf)]  [[software](http://github.com/revbayes/revbayes)]
             </td>
         </table></td>
@@ -295,7 +295,7 @@ In general, our work develops new variants of standard stochastic processes -- s
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                S Höhna, TA Heath, B Boussau, **MJ Landis**, F Ronquist, JP Huelsenbeck. 2014. Probabilistic graphical model representation in phylogenetics. Systematic Biology, 63:753-771.<br>
+                S Höhna, TA Heath, B Boussau, **MJ Landis**, F Ronquist, JP Huelsenbeck. 2014. Probabilistic graphical model representation in phylogenetics. Systematic Biology 63:753-771.<br>
                 [[paper](/assets/research/pdf/Hoehna_et_al_2014_SystBiol_graphical_models.pdf)]
             </td>
         </table></td>
@@ -312,7 +312,7 @@ In general, our work develops new variants of standard stochastic processes -- s
         <!-- PAPER -->
         <td><table table-layout="fixed" style="margin:auto">
             <td markdown="span">
-                S Höhna, **MJ Landis**, TA Heath. 2017. Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics, 57:6.16-6.16.34.<br>
+                S Höhna, **MJ Landis**, TA Heath. 2017. Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics 57:6.16-6.16.34.<br>
 [[paper](/assets/research/pdf/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.pdf)]
             </td>
         </table></td>
