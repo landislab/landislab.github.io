@@ -21,11 +21,11 @@ EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 202
 across barriers. Proceedings of the National Academy of Sciences 119: e2116948119.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)] [[code](https://github.com/mlandis/fig_model)]
 
-S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. PeerJ 9:e12438. 
-<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2021_PeerJ_parallel_marg_like.pdf)]
-
 CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2021. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. 2022. Methods in Ecology and Evolution 13:314-323.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)] [[code](https://github.com/revbayes/RevGadgets)]
+
+S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. PeerJ 9:e12438. 
+<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2021_PeerJ_parallel_marg_like.pdf)]
 
 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24: 2134-2145.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)] [[code](https://github.com/maribraga/pieridae_hostrep)]
