@@ -12,9 +12,15 @@ navigation: True
 
 # Publications
 
-J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. Lessons learned from organizing and teaching virtual phylogenetics workshops. *Accepted*. Bulletin of the Society of Systematic Biologists.
 
-EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 2022. Phylogeny, species delimitation, and ecological and morphological diversity of *Characithecium* (Monogenoidea: Dactylogyridae). *In press.* Parasitology.<br>
+W Dismukes, MP Braga, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution. *In Press.*
+
+MJ Donoghue, DAR Eaton, CA Maya-Lastra, **MJ Landis**, PW Sweeney, ME Olson, NI Cacho, MK Moeglin, JR Gardner, NM Heaphy, M Castorena, A Segovia Rivas, WL Clement, EJ Edwards. Replicated radiation of a plant clade along a cloud forest archipelago. Nature Ecology and Evolution. *Accepted.*
+
+J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. 2022. Lessons learned from organizing and teaching virtual phylogenetics workshops. Bulletin of the Society of Systematic Biologists 10.18061/bssb.v1i2.<br>
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Barido_Sottani_et_al_2022_BullSSB_revbayes.pdf)]
+
+EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 2022. Phylogeny, species delimitation, and ecological and morphological diversity of *Characithecium* (Monogenoidea: Dactylogyridae). Parasitologyi 149:700-716.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Wendt_et_al_2022_Parasitology_Characithecium.pdf)]
 
 **MJ Landis**, I Quintero, MM Muñoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split
