@@ -50,6 +50,19 @@ sswiston:
   cv: False
   bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data.
 
+smchugh:
+  username: sean_mchugh
+  name: Sean McHugh
+  position: Graduate Student (joined 2022)
+  picture: smchugh.jpg
+  url: False # https://www.su.se/english/profiles/mbrag-1.219235
+  twitter: sean_w_mchugh
+  email: m.seanwmchugh@wustl.edu
+  github: False # mpiresbr
+  bitbucket: False
+  cv: False
+  bio: Sean is interested in herpetology and the evolution of ecological niches.
+
 wsexton:
   username: walker_sexton
   name: Walker Sexton
