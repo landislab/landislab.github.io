@@ -89,6 +89,19 @@ mshah:
   bitbucket: False
   bio: Mihir is a biomedical engineering student who is interested in computational and quantitative approaches to biological research. 
 
+syuan:
+  username: sunny_yuan
+  name: Sunny Yuan
+  position: Undergraduate Researcher (joined 2022)
+  picture: syuan.jpg
+  url: False 
+  cv: False 
+  twitter: False 
+  email: False 
+  github: False
+  bitbucket: False
+  bio: Sunny is a math and computer science major who is interested in statistical models of evolution and data science techniques.
+
 #eramos:
 #  username: ernie_ramos
 #  name: Ernie Ramos
