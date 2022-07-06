@@ -26,7 +26,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*6 Jul 2022*<br> We're hiring a 3yr postdoc to collaborate on phylogenetic models. Details for applying are [here](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModels). Feel free to [email me](mailto:michael.landis@wustl.edu) with any questions.
+*6 Jul 2022*<br> We're hiring a 3yr postdoc to collaborate on phylogenetic models! Details for applying are [here](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModels). Feel free to [email me](mailto:michael.landis@wustl.edu) with any questions.
 
 *11 Apr 2022*<br> Two cheers for Sarah Swiston for passing her qualifying exam and for being awarded the NSF Graduate Research Fellowship! 🎉🎉
 
