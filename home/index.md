@@ -26,9 +26,9 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*6 Jul 2022*<br> We're hiring a 3yr postdoc to collaborate on phylogenetic models! Details for applying are [here](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModels). Feel free to [email me](mailto:michael.landis@wustl.edu) with any questions.
+*06 Jul 2022*<br> We're hiring a 3yr postdoc to collaborate on phylogenetic models! Details for applying are [here](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModels). Feel free to [email me](mailto:michael.landis@wustl.edu) with any questions.
 
-*1 May 2022*<br>I wrote a short [article](https://www.anoleannals.org/2022/04/29/inferring-where-anole-ranges-tend-to-spread-or-split/) on inferring where anole ranges tend to split for [Anole Annals](https://anoleannals.org), based on our recent [paper](https://www.pnas.org/doi/full/10.1073/pnas.2116948119) on modeling historical bigoeography.
+*01 May 2022*<br>I wrote a short [article](https://www.anoleannals.org/2022/04/29/inferring-where-anole-ranges-tend-to-spread-or-split/) on inferring where anole ranges tend to split for [Anole Annals](https://anoleannals.org), based on our recent [paper](https://www.pnas.org/doi/full/10.1073/pnas.2116948119) on modeling historical bigoeography.
 
 *11 Apr 2022*<br> Two cheers for Sarah Swiston for passing her qualifying exam and for being awarded the NSF Graduate Research Fellowship! 🎉🎉
 

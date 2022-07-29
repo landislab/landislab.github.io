@@ -15,7 +15,8 @@ navigation: True
 
 W Dismukes, MP Braga, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution. *In Press.*
 
-MJ Donoghue, DAR Eaton, CA Maya-Lastra, **MJ Landis**, PW Sweeney, ME Olson, NI Cacho, MK Moeglin, JR Gardner, NM Heaphy, M Castorena, A Segovia Rivas, WL Clement, EJ Edwards. Replicated radiation of a plant clade along a cloud forest archipelago. Nature Ecology and Evolution. *Accepted.*
+MJ Donoghue, DAR Eaton, CA Maya-Lastra, **MJ Landis**, PW Sweeney, ME Olson, NI Cacho, MK Moeglin, JR Gardner, NM Heaphy, M Castorena, A Segovia Rivas, WL Clement, EJ Edwards. 2022. Replicated radiation of a plant clade along a cloud forest archipelago. Nature Ecology and Evolution. doi:10.1038/s41559-022-01823-x.<br>
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/mas    ter/assets/research/pdf/Donoghue_et_al_2022_NEE_oreinotinus_radiation.pdf)]
 
 J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. 2022. Lessons learned from organizing and teaching virtual phylogenetics workshops. Bulletin of the Society of Systematic Biologists 10.18061/bssb.v1i2.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Barido_Sottani_et_al_2022_BullSSB_revbayes.pdf)]
