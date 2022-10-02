@@ -55,6 +55,9 @@ into the {body} of the default.hbs template -->
                         <div id="{{ person[1].username }}">
                         {% if person[1].name %}
                             <b>{{ person[1].name }}</b>
+                            {% if person[1].cv %}
+                                [<a href="{{ person[1].cv }}">CV</a>]
+                            {% endif %}
                         {% endif %}
                         </div>
                         <div>
@@ -63,23 +66,11 @@ into the {body} of the default.hbs template -->
                         {% endif %}
                         </div>
                         <div>
-                            {% if person[1].url %}
-                                <a class="social-link-people" color="#000" href="{{ person[1].url }}" target="_blank" rel="noopener">{% include website.html %}</a>
-                            {% endif %}
-                            {% if person[1].cv %}
-                                <a class="social-link-people" color="#000" href="{{ person[1].cv }}" target="_blank" rel="noopener">{% include cv.html %}</a>
-                            {% endif %}
                             {% if person[1].email %}
                                 <a class="social-link-people" color="#000" href="mailto:{{ person[1].email }}" target="_blank" rel="noopener">{% include email.html %}</a>
                             {% endif %}
                             {% if person[1].twitter %}
                                 <a class="social-link-people" color="#000" href="https://twitter.com/{{ person[1].twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
-                            {% endif %}
-                            {% if person[1].github %}
-                                <a class="social-link-people" color="#000" href="https://github.com/{{ person[1].github }}" target="_blank" rel="noopener">{% include github.html %}</a>
-                            {% endif %}
-                            {% if person[1].bitbucket %}
-                                <a class="social-link-people" color="#000" href="https://bitbucket.com/{{ person[1].bitbucket }}" target="_blank" rel="noopener">{% include bitbucket.html %}</a>
                             {% endif %}
                         </div>
                         <br>

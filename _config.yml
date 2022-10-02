@@ -32,6 +32,11 @@ disqus_shortname: jekyller # replace with your disqus username
 # Google Analytics
 google_analytics: UA-10531127-5 # replace with your GA tracking identifier
 
+analytics:
+    provider: "google-gtag"
+    measurement_id: G-QDC5DM96K3
+    anonymize_ip: # true, false (default)
+
 # Permalinks
 permalink: /:title
 # permalink: /author/:author
