@@ -13,7 +13,8 @@ navigation: True
 # Publications
 
 
-W Dismukes, MP Braga, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution. *In Press.*
+W Dismukes, MP Braga, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution. *In Press.*<br>
+[[paper](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823)]
 
 MJ Donoghue, DAR Eaton, CA Maya-Lastra, **MJ Landis**, PW Sweeney, ME Olson, NI Cacho, MK Moeglin, JR Gardner, NM Heaphy, M Castorena, A Segovia Rivas, WL Clement, EJ Edwards. 2022. Replicated radiation of a plant clade along a cloud forest archipelago. Nature Ecology and Evolution. doi:10.1038/s41559-022-01823-x.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Donoghue_et_al_2022_NEE_oreinotinus_radiation.pdf)]
