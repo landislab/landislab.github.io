@@ -26,7 +26,6 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*Nov 2022*<br> Thanks to the Incubator for Transdiscplinary Futures for funding a [new project](https://transdisciplinaryfutures.wustl.edu/human-wildlife) to study viral transmission within and between Ugandan primate populations in collaboration with Krista Milich (WUSTL Anthropology) and Dave Wang (WUSTL Pathology & Immunology).
 
 *Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Read more [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823). 
 
