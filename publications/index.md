@@ -12,13 +12,10 @@ navigation: True
 
 # Publications
 
-<!--
-**2023**
+## 2023
 
-A Thompson, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv.<br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.09.xxxxxxv1.full.pdf)]
--->
-
+**A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v1)]
 
 
 ## 2022
