@@ -29,7 +29,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 *Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Read more [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823). 
 
-*Sep 2022*<br> Sean McHugh has officially joined our group as a new PhD student. Sean is interested in how ecological traits evolve among phylogenetic lineages. 
+*Sep 2022*<br> Sean McHugh has officially joined our group as a new PhD student. Sean is interested in how ecological traits evolve among phylogenetic lineages. Welcome, Sean!
 
 *Jul 2022*<br> We're hiring a 3yr postdoc to collaborate on phylogenetic models! Details for applying are [here](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModels). Feel free to [email me](mailto:michael.landis@wustl.edu) with any questions.
 

@@ -12,8 +12,27 @@ navigation: True
 
 # Publications
 
+<!--
+**2023**
 
-W Dismukes, MP Braga, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution 53:275-298.<br>
+A Thompson, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.09.xxxxxxv1.full.pdf)]
+-->
+
+
+
+**2022**
+
+I Quintero, **MJ Landis**, W Jetz, H Morlon. 2022. The build-up of the present-day tropical diversity of tetrapods. bioRxiv 2022.12.05.519156.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2022.12.05.519156v1.full.pdf)]
+
+SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2022. Bayesian inference of admixture graphs on Native American and Arctic populations. bioRxiv 2022.09.06.506725.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2022.09.06.506725v1.full.pdf)]
+
+AY Kawahara, C Storer, APS Carvalho, DM Plotkin, F Condamine, **MP Braga**, et al. 2022. Evolution and diversification dynamics of butterflies. bioRxiv 2022.05.17.491528.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2022.05.17.491528v2)]
+
+W Dismukes, **MP Braga**, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution 53:275-298.<br>
 [[paper](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823)]
 
 MJ Donoghue, DAR Eaton, CA Maya-Lastra, **MJ Landis**, PW Sweeney, ME Olson, NI Cacho, MK Moeglin, JR Gardner, NM Heaphy, M Castorena, A Segovia Rivas, WL Clement, EJ Edwards. 2022. Replicated radiation of a plant clade along a cloud forest archipelago. Nature Ecology and Evolution. doi:10.1038/s41559-022-01823-x.<br>
@@ -32,6 +51,8 @@ across barriers. Proceedings of the National Academy of Sciences 119: e211694811
 CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2022. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. Methods in Ecology and Evolution 13:314-323.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)] [[code](https://github.com/revbayes/RevGadgets)]
 
+**2021**
+
 S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. PeerJ 9:e12438. 
 <br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2021_PeerJ_parallel_marg_like.pdf)]
 
@@ -44,6 +65,8 @@ S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses
 **MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2021. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70: 67-85.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_viburnum_phylo.pdf)] [[code](https://github.com/mlandis/vib_div)]
 
+**2020**
+
 **MJ Landis**. 2020. "Biogeographic dating of phylogenetic divergence times using priors and processes" (pp 135-155) in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_2020_biogeo_dating_chapter.pdf)]
 
@@ -53,9 +76,10 @@ AS Kim, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C
 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2020. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology 69: 1149-1162.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2020_SystBiol_host_parasite.pdf)] [[tutorial](https://revbayes.github.io/tutorials/host_rep/host_rep.html)]
 
-
 I Quintero, **MJ Landis** 2020. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology 69: 739-755.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Quintero_Landis_2020_SystBiol_biotic_interactions.pdf)]  [[code](https://github.com/ignacioq/Tapestree.jl)]
+
+**before 2020**
 
 DJ Field, JS Berv, AY Hsiang, R Lanfear, **MJ Landis**, A Dornburg. 2019. Timing the extant avian radiation: The rise of modern birds, and the importance of modeling molecular rate variation. Bulletin of the American Natural History Museum 440: 159-181 <br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Field_et_al_2019_PeerJ_avian_dating.pdf)]
