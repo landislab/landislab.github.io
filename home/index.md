@@ -26,8 +26,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-
-*Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Read more [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823). 
+*Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Read more [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823).<br>Thanks to the WUSTL Incubator for Transdisciplinary Futures for funding our new project on viral phylogeography. In collaboration with Krista Milich (Anthropology) and Dave Wang (Pathology & Immunology). Read more [here](https://sites.wustl.edu/phylovirus/).
 
 *Sep 2022*<br> Sean McHugh has officially joined our group as a new PhD student. Sean is interested in how ecological traits evolve among phylogenetic lineages. Welcome, Sean!
 

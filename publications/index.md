@@ -26,7 +26,7 @@ I Quintero, **MJ Landis**, W Jetz, H Morlon. 2022. The build-up of the present-d
 SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2022. Bayesian inference of admixture graphs on Native American and Arctic populations. bioRxiv 2022.09.06.506725.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2022.09.06.506725v1.full.pdf)]
 
-AY Kawahara, C Storer, APS Carvalho, DM Plotkin, F Condamine, **MP Braga**, et al. 2022. Evolution and diversification dynamics of butterflies. bioRxiv 2022.05.17.491528.<br>
+AY Kawahara, C Storer, APS Carvalho, DM Plotkin, F Condamine, **MP Braga**, et al. [**MJ Landis** among 89 co-authors] 2022. Evolution and diversification dynamics of butterflies. bioRxiv 2022.05.17.491528.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2022.05.17.491528v2)]
 
 W Dismukes, **MP Braga**, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution 53:275-298.<br>
