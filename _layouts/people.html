@@ -42,6 +42,8 @@ into the {body} of the default.hbs template -->
             We're always looking for creative thinkers who are interested in modeling evolutionary processes. Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> directly to inquire about postdoctoral, graduate, and undergraduate research opportunities. Messages from visiting scientists and those seeking independent funding through research fellowships are also most welcome. In your email, please share a statement of your research interests and/or your CV.
             <br>
         </div>
+
+        <!-- CURRENT MEMBERS -->
         <div style="width:100%; margin-left:auto; margin-right:auto">
             <h2>Current members</h2>
         </div>
@@ -53,7 +55,7 @@ into the {body} of the default.hbs template -->
             {% for person in site.data.people %}
                 <tr>
                     <td markdown="span">
-                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="150px" width="150px" class="img-people">
+                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 10px 0px 0px" height="150px" width="150px" class="img-people">
                     </td>
                     <td markdown="span">
                         <br>
@@ -90,19 +92,19 @@ into the {body} of the default.hbs template -->
             {% endfor %}
         </table>
 
+        <!-- PAST MEMBERS -->
         <div style="width:100%; margin-left:auto; margin-right:auto">
             <h2>Past members</h2>
         </div>
-
         <table>
             <colgroup>
                 <col style="width:200px">
-                <col>
+                <!-- <col> -->
             </colgroup>
             {% for person in site.data.alumni %}
                 <tr>
                     <td markdown="span">
-                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 30px 0px 0px" height="50px" width="50px" class="img-people">
+                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 10px 0px 0px" height="150px" width="150px" class="img-people">
                     </td>
                     <td markdown="span">
                         <br>
@@ -115,14 +117,12 @@ into the {body} of the default.hbs template -->
                         {% if person[1].position %}
                             <i>{{ person[1].position }}</i>
                         {% endif %}
-                        </div>
-                        <br>
+                        </div><br>
                         <div>
                             {% if person[1].bio %}
                                 {{ person[1].bio }}
                             {% endif %}
-                        </div>
-                        <br>
+                        </div><br>
                     </td>
                 </tr>
             {% endfor %}
