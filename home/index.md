@@ -16,7 +16,7 @@
 ---
 
 Our group studies the evolution of biodiversity: how has life radiated throughout and adapted to an ever-changing world?
-We [research](research) the relationship between evolutionary processes and patterns through [statistical phylogenetics](research#phylogenetic-inference-with-revbayes), with a particular interest in [historical biogeography](research#historical-biogeography), the [evolution of ecological interactions](research#evolution-of-ecological-interactions), and [phenotypic evolution](research#phenotypic-evolution).
+We [research](research) the relationship between evolutionary processes and patterns through **[statistical phylogenetics](research#phylogenetic-inference-with-revbayes)**, with a particular interest in **[biogeography](research#historical-biogeography)**, the **[evolution of ecological interactions](research#evolution-of-ecological-interactions)**, and **[phenotypic evolution](research#phenotypic-evolution)**.
 To this end, we develop probabilistic models of evolution, write open source and community-minded software to analyze those models, and test evolutionary hypotheses by fitting those models to biological and simulated datasets.
 
 **Interested in joining?**

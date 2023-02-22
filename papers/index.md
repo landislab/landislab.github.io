@@ -10,9 +10,12 @@ navigation: True
 
 <br>
 
-# Publications
+# Papers
 
 ## 2023
+
+SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2023. Bayesian inference of admixture graphs on Native American and Arctic populations.  PLOS Genetics 19:e1010410.<br>
+[[paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010410)]
 
 **A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv 2023.02.08.527714.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v1)]
@@ -22,9 +25,6 @@ navigation: True
 
 I Quintero, **MJ Landis**, W Jetz, H Morlon. 2022. The build-up of the present-day tropical diversity of tetrapods. bioRxiv 2022.12.05.519156.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2022.12.05.519156v1.full.pdf)]
-
-SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2022. Bayesian inference of admixture graphs on Native American and Arctic populations. bioRxiv 2022.09.06.506725.<br>
-[[paper](https://www.biorxiv.org/content/10.1101/2022.09.06.506725v1.full.pdf)]
 
 AY Kawahara, C Storer, APS Carvalho, DM Plotkin, F Condamine, **MP Braga**, et al. [**MJ Landis** among 89 co-authors] 2022. Evolution and diversification dynamics of butterflies. bioRxiv 2022.05.17.491528.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2022.05.17.491528v2)]
