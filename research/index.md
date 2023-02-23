@@ -10,7 +10,7 @@ navigation: True
 # Research
 
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
-Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**. Methodologically, we are also interested in **phylogenetic model design**,     **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming languages**.
+Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**. Methodologically, we are also interested in **phylogenetic model design**,     **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming**.
 We study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 We maintain a broad and active interest in problems involving phylogenetic modeling and inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees. Below are some examples highlighting recent research projects.
 
@@ -25,7 +25,7 @@ We maintain a broad and active interest in problems involving phylogenetic model
 ---
 
 ## Tempo & mode of phenotypic evolution
-### Do species traits evolve in a slow and steady fashion or in rare but large pulses?
+### Does evolution accumulate change through many small steps or through rare but large pulses?
 <img src="/assets/research/img/levy_models.png" style="float: center; margin:0px">
 **MJ Landis**, JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114: 13224-13229. [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]
 <br>
@@ -45,7 +45,7 @@ We maintain a broad and active interest in problems involving phylogenetic model
 <img src="/assets/research/img/feature_informed_geosse.png" style="float: center; margin:0px">
 **MJ Landis**, I Quintero, MM Muñoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split
 across barriers. Proceedings of the National Academy of Sciences 119: e2116948119. [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)]
-<br><br>
+<br>
 
 ---
 
