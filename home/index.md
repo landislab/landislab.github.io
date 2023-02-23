@@ -16,8 +16,10 @@
 ---
 
 Our group studies the evolution of biodiversity: how has life radiated throughout and adapted to an ever-changing world?
-We [research](research) the relationship between evolutionary processes and patterns through **[statistical phylogenetics](research#phylogenetic-inference-with-revbayes)**, with a particular interest in **[biogeography](research#historical-biogeography)**, the **[evolution of ecological interactions](research#evolution-of-ecological-interactions)**, and **[phenotypic evolution](research#phenotypic-evolution)**.
-To this end, we develop probabilistic models of evolution, write open source and community-minded software to analyze those models, and test evolutionary hypotheses by fitting those models to biological and simulated datasets.
+Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
+Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**. Methodologically, we are also interested in **phylogenetic model design**, **Bayesian inference**, **statistical hypothesis testing**, and **deep learning**.
+We study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
+We maintain a broad and active interest in phylogenetic modeling and inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees.
 
 **Interested in joining?**
 We're always looking for creative thinkers who study evolution! Please email [Michael](mailto:michael.landis@wustl.edu) directly to inquire about postdoctoral, graduate, and undergraduate research opportunities. 
