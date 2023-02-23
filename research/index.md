@@ -20,7 +20,7 @@ We maintain a broad and active interest in phylogenetic modeing and inference, a
 ### How can we estimate the ages of species from genetic, biogeographic, and paleogeographic evidence?
 <img src="/assets/research/img/biogeographic_dating.png" style="float: center; margin:0px">
 **MJ Landis**, WA Freyman, BG Baldwin. 2018. Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution, 72: 2343-2359. [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2018_Evolution_silversword_radiation.pdf)]
-<br><br>
+<br>
 
 ---
 
@@ -28,7 +28,7 @@ We maintain a broad and active interest in phylogenetic modeing and inference, a
 ### Do species traits evolve in a slow and steady fashion or in rare but large pulses?
 <img src="/assets/research/img/levy_models.png" style="float: center; margin:0px">
 **MJ Landis**, JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114: 13224-13229. [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]
-<br><br>
+<br>
 
 ---
 
@@ -36,7 +36,7 @@ We maintain a broad and active interest in phylogenetic modeing and inference, a
 ### How do viruses spread at different rates within and between populations?
 <img src="/assets/research/img/deep_learning_phylogeo.png" style="float: center; margin:0px">
 **A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv 2023.02.08.527714. [[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v1)]
-<br><br>
+<br>
 
 ---
 
@@ -53,7 +53,7 @@ across barriers. Proceedings of the National Academy of Sciences 119: e211694811
 ### How have symbiotic species gained and lost the ability to interact over time?
 <img src="/assets/research/img/evol_ecol_network.png" style="float: center; margin:0px">
 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24: 2134-2145. [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)]
-<br><br>
+<br>
 
 ---
 
@@ -61,7 +61,7 @@ across barriers. Proceedings of the National Academy of Sciences 119: e211694811
 ### How do competing species evolve as a community to partition traits and space to access resources?
 <img src="/assets/research/img/biotic_interactions.png" style="float: center; margin:0px">
 I Quintero, **MJ Landis** 2020. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology 69: 739-755. [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Quintero_Landis_2020_SystBiol_biotic_interactions.pdf)]
-<br><br>
+<br>
 
 ---
 
