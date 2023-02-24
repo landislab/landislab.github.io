@@ -41,7 +41,7 @@ S Höhna, **MJ Landis**, TA Heath, B Boussau, N Lartillot, BR Moore, JP Huelsenb
 ---
 
 ## Deep learning and viral phylogeography
-### How do viruses spread at different rates within and between populations?
+### To what extent do viruses spread at different rates within and between populations?
 <img src="/assets/research/img/deep_learning_phylogeo.png" style="float: center; margin:0px">
 **A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv 2023.02.08.527714. [[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v1)]
 <br>
