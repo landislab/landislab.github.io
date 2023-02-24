@@ -32,6 +32,14 @@ We maintain a broad and active interest in problems involving phylogenetic model
 
 ---
 
+## Phylogenetic graphical models
+### How can you build complex phylogenetic models from simpler components?
+<img src="/assets/research/img/revbayes.png" style="float: center; margin:0px">
+S Höhna, **MJ Landis**, TA Heath, B Boussau, N Lartillot, BR Moore, JP Huelsenbeck, F Ronquist. 2016. RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language. Systematic Biology, 65: 726-736. [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2016_SystBiol_revbayes.pdf)]
+<br>
+
+---
+
 ## Deep learning and viral phylogeography
 ### How do viruses spread at different rates within and between populations?
 <img src="/assets/research/img/deep_learning_phylogeo.png" style="float: center; margin:0px">
