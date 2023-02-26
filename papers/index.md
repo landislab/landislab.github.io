@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Landis Lab @ WUSTL - Publications
+title: Landis Lab @ WUSTL - Papers
 current:
 class: 'home-template'
 navigation: True
