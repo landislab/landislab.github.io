@@ -30,7 +30,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*Jan 2023*<br> Created a new websites to report progress on our NSF-funded Hawaiian plant radiation project ([link](https://sites.wustl.edu/hawaiianplantbiogeography/)) and our ITF-funded Ugandan viral phylogeography project ([link](https://sites.wustl.edu/phylovirus/)).
+*Jan 2023*<br> Websites dedicated to our NSF-funded Hawaiian plant radiation project ([link](https://sites.wustl.edu/hawaiianplantbiogeography/)) and our ITF-funded Ugandan viral phylogeography project ([link](https://sites.wustl.edu/phylovirus/)).
 
 *Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Paper available [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823).
 
