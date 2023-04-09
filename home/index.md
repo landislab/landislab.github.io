@@ -30,6 +30,8 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*Jan 2023*<br> Created a new website to report progress on the Ugandan viral phylogeography project ([link](https://sites.wustl.edu/phylovirus/)).
+
 *Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Paper available [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823).
 
 Thanks to the WUSTL Incubator for Transdisciplinary Futures for funding our new project on viral phylogeography. In collaboration with Krista Milich (Anthropology) and Dave Wang (Pathology & Immunology). Read more [here](https://sites.wustl.edu/phylovirus/).
