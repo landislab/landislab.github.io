@@ -30,7 +30,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*Jan 2023*<br> Websites dedicated to our NSF-funded Hawaiian plant radiation project ([link](https://sites.wustl.edu/hawaiianplantbiogeography/)) and our ITF-funded Ugandan viral phylogeography project ([link](https://sites.wustl.edu/phylovirus/)).
+*Jan 2023*<br> Added new websites dedicated to our NSF-funded Hawaiian plant radiation project ([link](https://sites.wustl.edu/hawaiianplantbiogeography/)) and our ITF-funded Ugandan viral phylogeography project ([link](https://sites.wustl.edu/phylovirus/)).
 
 *Nov 2022*<br> Thanks to the WUSTL Incubator for Transdisciplinary Futures for funding our new project on viral phylogeography. In collaboration with Krista Milich (Anthropology) and Dave Wang (Pathology & Immunology). Read more [here](https://sites.wustl.edu/phylovirus/).
 
