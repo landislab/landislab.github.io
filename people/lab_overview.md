@@ -7,7 +7,7 @@ class: 'home-template'
 ---
 
 ## Overview, Values, and Expectations
-*Last updated Apr 05 2023*
+*Last updated Apr 11 2023*
 
 Hello! This living document was written collaboratively to describe how our research group operates. Sections describing expectations are intended to provide a list of general principles for how lab members should interact, rather than a set of rigid rules.
 
