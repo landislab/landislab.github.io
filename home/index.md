@@ -30,9 +30,11 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*Mar 2023*<br> We just refreshed the lab website's [Research](research/) page to now feature recent projects and papers, and the [People](people/) page to now feature a new [Expectations & Values](people/lab_overview.html) document, written collaboratively by our group. 
+
 *Jan 2023*<br> Added new websites dedicated to our NSF-funded Hawaiian plant radiation project ([link](https://sites.wustl.edu/hawaiianplantbiogeography/)) and our ITF-funded Ugandan viral phylogeography project ([link](https://sites.wustl.edu/phylovirus/)).
 
-*Nov 2022*<br> Thanks to the WUSTL Incubator for Transdisciplinary Futures for funding our new project on viral phylogeography. In collaboration with Krista Milich (Anthropology) and Dave Wang (Pathology & Immunology). Read more [here](https://sites.wustl.edu/phylovirus/).
+*Nov 2022*<br> Thanks to the WUSTL Incubator for Transdisciplinary Futures for funding our new project on viral phylogeography. In collaboration with Krista Milich (Anthropology) and Dave Wang (Pathology & Immunology).
 
 *Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Paper available [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823).
 

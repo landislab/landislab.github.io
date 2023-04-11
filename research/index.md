@@ -12,7 +12,14 @@ navigation: True
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
 We study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**. Methodologically, we are also interested in **phylogenetic model design**,     **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming**.
-We maintain a broad and active interest in problems involving phylogenetic modeling and inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees. Below are some examples of recent studies.
+We maintain a broad and active interest in problems involving phylogenetic modeling and inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees. Below are some examples of recent projects and studies.
+
+---
+
+## Funded projects
+We are extremely grateful to the funding agencies and instutitions for funding these projects:
+- **Modeling the Origin and Evolution of Hawaiian Plants.** NSF-DEB funded. Collaborators: Felipe Zapata, Nina Ronsted, Warren Wagner, Fabio Mendes, Isaac Lichter-Marck, Sarah Swiston. [[link](https://sites.wustl.edu/hawaiianplantbiogeography/)]
+- **Viral Phylogeography at the Human-Wildlife Interface in Uganda.** WUSTL-ITF funded. Collaborators: Krita Milich, Dave Wang, Innocent Rwengo. [[link](https://sites.wustl.edu/phylovirus/)] 
 
 ---
 
