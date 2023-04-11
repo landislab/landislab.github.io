@@ -13,7 +13,7 @@ Hello! This living document was written collaboratively to describe how our rese
 
 Group members can find more detailed information on many of these topics through our group's git repository.
 
-Please feel welcome to contact [Michael](michael.landis@wustl.edu) to seek clarification or suggest changes.
+Please feel welcome to contact [Michael](michael.landis@wustl.edu) with any questions or suggested changes.
 
 ### What's it like to work here
 Our group primarily studies biological patterns and processes through the design of statistical models and computational tools to test evolutionary and ecological hypotheses. We typically do this within a phylogenetic framework, working with a wide variety of species –- from animals and plants to bacteria and viruses –- and depending on what the research question is. We also collaborate with experts in different fields whenever possible.
