@@ -30,6 +30,8 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
+*Apr 2023*<br> Albert Soewongsono has just joined our lab as a postdoctoral researcher to study statistical models of lineage diversification. Welcome, Albert!
+
 *Mar 2023*<br> We just refreshed the lab website's [Research](research/) page to now feature recent projects and papers, and the [People](people/) page to now feature a new [Expectations & Values](people/lab_overview.html) document, written collaboratively by our group. 
 
 *Jan 2023*<br> Added new websites dedicated to our NSF-funded Hawaiian plant radiation project ([link](https://sites.wustl.edu/hawaiianplantbiogeography/)) and our ITF-funded Ugandan viral phylogeography project ([link](https://sites.wustl.edu/phylovirus/)).
