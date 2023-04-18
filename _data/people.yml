@@ -24,6 +24,19 @@ fmendes:
   bitbucket: False #mlandis
   bio: I wish to learn how biological groups evolve different genotypes and phenotypes while diversifying in time and space. My research brings us closer to this goal by enabling integrative evolutionary inference -- I develop (and use) phylogenetic models that can leverage different types of data across evolutionary timescales. 
 
+asoewongsono:
+  username: albert_soewongsono
+  name: Albert Christian Soewongsono
+  position: Postdoctoral Researcher (joined 2023)
+  picture: asoewongsono.jpg
+  url: False #https://landislab.github.io
+  cv: False #../assets/people/cv/mlandis_cv.pdf
+  twitter: albertwong15
+  email: soewongsono@wustl.edu
+  github: False #mlandis
+  bitbucket: False #mlandis
+  bio: I am an applied mathematician who is interested in developing models for the evolution of species. In my research, I have developed evolutionary models with process that depends on different factors, such as species age, time, and spatial information. My current research interest lies in developing evolutionary models that consider species interaction with their changing environmental conditions.
+
 athompson:
   username: ammon_thompson
   name: Ammon Thompson
@@ -75,59 +88,6 @@ wsexton:
   bitbucket: False
   cv: False
   bio: I'm an evolutionary biology major and anthropology minor interested in how macroevolutionary and genetic processes have led to the biodiverse forms throughout Earth's history and the relationships of life today.
-
-mshah:
-  username: mihir_shah
-  name: Mihir Shah
-  position: Undergraduate Researcher (joined 2021)
-  picture: mshah.jpg
-  url: False 
-  cv: False 
-  twitter: False 
-  email: False 
-  github: False
-  bitbucket: False
-  bio: Mihir is a biomedical engineering student who is interested in computational and quantitative approaches to biological research. 
-
-syuan:
-  username: sunny_yuan
-  name: Sunny Yuan
-  position: Undergraduate Researcher (joined 2022)
-  picture: syuan.jpg
-  url: False 
-  cv: False 
-  twitter: False 
-  email: False 
-  github: False
-  bitbucket: False
-  bio: Sunny is a math and computer science major who is interested in statistical models of evolution and data science techniques.
-
-#eramos:
-#  username: ernie_ramos
-#  name: Ernie Ramos
-#  position: Undergraduate Researcher
-#  picture: eramos.jpg
-#  url: False #https://www.su.se/english/profiles/mbrag-1.219235
-#  twitter: False # mpiresbr2
-#  email: False #mariana.braga@zoologi.su.se
-#  github: False #mpiresbr
-#  bitbucket: False
-#  cv: False
-#  bio: Ernie is a math major who is researching how ecology and evolution shape spatial patterns of biodiversity.
-
-#mbraga:
-#  username: mariana_braga
-#  name: Mariana Braga
-#  position: Postdoctoral Researcher
-#  picture: mbraga.jpg
-#  url: https://www.su.se/english/profiles/mbrag-1.219235
-#  cv: False
-#  twitter: mpiresbr2
-#  email: mariana.braga@zoologi.su.se
-#  github: mpiresbr
-#  bitbucket: False
-#  bio: My research studies the evolution of butterfly-host plant interactions and butterfly diversification by combining host use records, phylogenetic information, network theory, and computer simulations. I am currently developing probabilistic models to help us understand the distribution of ecological interactions across space and time. 
-
 
 #postdoc-biogeo:
 #  username: postdoc-biogeo
