@@ -17,7 +17,7 @@ We maintain a broad and active interest in problems involving phylogenetic model
 ---
 
 ## Funded projects
-We are extremely grateful to the funding agencies and instutitions for funding these projects:
+We are extremely grateful to the agencies and instutitions for funding these projects:
 - **Modeling the Origin and Evolution of Hawaiian Plants.** NSF-DEB funded. Collaborators: Felipe Zapata, Nina Ronsted, Warren Wagner, Fabio Mendes, Isaac Lichter-Marck, Sarah Swiston. [[link](https://sites.wustl.edu/hawaiianplantbiogeography/)]
 - **Viral Phylogeography at the Human-Wildlife Interface in Uganda.** WUSTL-ITF funded. Collaborators: Krita Milich, Dave Wang, Innocent Rwengo. [[link](https://sites.wustl.edu/phylovirus/)] 
 
