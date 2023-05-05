@@ -14,6 +14,9 @@ navigation: True
 
 ## 2023
 
+NS Upham, **MJ Landis**. 2023. Genomics expans the mammalverse. Science. 380:358-359.
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_mammalverse.pdf)]
+
 SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2023. Bayesian inference of admixture graphs on Native American and Arctic populations.  PLOS Genetics 19:e1010410.<br>
 [[paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010410)]
 

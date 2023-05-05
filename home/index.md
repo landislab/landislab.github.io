@@ -6,12 +6,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock 210, Danforth Campus<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DBBS](http://dbbs.wustl.edu/Pages/index.aspx) program affiliations<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolution, Ecology & Population Biology<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computational & Systems Biology<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Molecular Genetics & Genomics<br>
--->
 
 ---
 
@@ -30,7 +24,11 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*Apr 2023*<br> Albert Soewongsono has just joined our lab as a postdoctoral researcher to study statistical models of lineage diversification. Welcome, Albert!
+*May 2023*<br> New perspective piece with Nate Upham in Science on how diverse genomic sequencing among mammal species teaches us new lessons about the evolutionary history of our clade ([link](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_mammalverse.pdf)). 
+
+*Apr 2023*<br> Sean McHugh just passed his qualifying exam on ecological niche evolution. Congrats, Sean!! 🥳
+
+Albert Soewongsono has just joined our lab as a postdoctoral researcher to study statistical models of lineage diversification. Welcome, Albert!
 
 *Mar 2023*<br> We just refreshed the lab website's [Research](research/) page to now feature recent projects and papers, and the [People](people/) page to now feature a new [Expectations & Values](people/lab_overview.html) document, written collaboratively by our group. 
 
