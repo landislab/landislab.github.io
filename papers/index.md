@@ -17,7 +17,7 @@ navigation: True
 I Quintero, **MJ Landis**, W Jetz, H Morlon. 2023. The build-up of the present-day tropical diversity of tetrapods. Proceedings of the National Academy of Sciences 120: e2220672120.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/mas    ter/assets/research/pdf/Quintero_et_al_2023_PNAS_tropical_species_richness.pdf)]
 
-NS Upham, **MJ Landis**. 2023. Genomics expans the mammalverse. Science. 380:358-359.
+NS Upham, **MJ Landis**. 2023. Genomics expans the mammalverse. Science. 380:358-359.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_Science_mammalverse.pdf)]
 
 SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2023. Bayesian inference of admixture graphs on Native American and Arctic populations.  PLOS Genetics 19:e1010410.<br>
