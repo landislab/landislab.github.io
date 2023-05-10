@@ -24,7 +24,7 @@ We're always looking for creative thinkers who study evolution! Please email [Mi
 
 # News
 
-*May 2023*<br> New perspective piece with Nate Upham in Science on how diverse genomic sequencing among mammal species teaches us new lessons about the evolutionary history of our clade ([link](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_mammalverse.pdf)). 
+*May 2023*<br> New perspective piece with Nate Upham in Science on how diverse genomic sequencing among mammal species teaches us new lessons about the evolutionary history of our clade ([link](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_Science_mammalverse.pdf)). 
 
 *Apr 2023*<br> Sean McHugh just passed his qualifying exam on ecological niche evolution. Congrats, Sean!! 🥳
 
@@ -36,7 +36,7 @@ Albert Soewongsono has just joined our lab as a postdoctoral researcher to study
 
 *Nov 2022*<br> Thanks to the WUSTL Incubator for Transdisciplinary Futures for funding our new project on viral phylogeography. In collaboration with Krista Milich (Anthropology) and Dave Wang (Pathology & Immunology).
 
-*Oct 2022*<br> New review out on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Paper available [here](http://www.annualreviews.org/eprint/X7RXSJIBD5WENU8J45HA/full/10.1146/annurev-ecolsys-102320-112823).
+*Oct 2022*<br> New paper in Annual Reviews on modeling the evolution of intimate ecological interactions among species using cophylogenetic methods. Paper available [here](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Dismukes_et_al_2022_AREES_cophylogenetic_methods.pdf).
 
 *Sep 2022*<br> Sean McHugh has officially joined our group as a new PhD student. Sean is interested in how ecological traits evolve among phylogenetic lineages. Welcome, Sean!
 
