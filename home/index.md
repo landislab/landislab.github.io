@@ -18,18 +18,18 @@ Biological research interests for the Landis Lab include **phylogenetic inferenc
 
 Our methodological interests include **phylogenetic model design**, **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming**.
 
- <table>
+ <table style="margin-left:auto;margin-right:auto;">
   <tr>
-    <td><img src="/assets/research/img/deep_learning_phylogeo.png" alt="Viral phylogeography"></td>
-    <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"></td>
-    <td><img src="/assets/research/img/biome_shift.png" alt="Biome shifts"></td>
-    <td><img src="/assets/research/img/biogeographic_dating.png" alt="Biogeographic dating"></td>
+    <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"        style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/biome_shift.png"             alt="Biome shifts"               style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/biogeographic_dating.png"    alt="Biogeographic dating"       style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/deep_learning_phylogeo.png"  alt="Viral phylogeography"       style="height:96px;width:112px;"></td>
   </tr>
   <tr>
-    <td><img src="/assets/research/img/biotic_interactions.png" alt="Biotic interactions"></td>
-    <td><img src="/assets/research/img/levy_models.png" alt="Levy processes"></td>
-    <td><img src="/assets/research/img/revbayes.png" alt="RevBayes"></td>
-    <td><img src="/assets/research/img/evol_ecol_network.png" alt="Eco-evolutionary networks"></td>
+    <td><img src="/assets/research/img/biotic_interactions.png"     alt="Biotic interactions"        style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/evol_ecol_network.png"       alt="Eco-evolutionary networks"  style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/levy_models.png"             alt="Levy processes"             style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/revbayes.png"                alt="RevBayes"                   style="height:96px;width:112px;"></td>
   </tr>
 </table> 
 
