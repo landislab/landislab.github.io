@@ -18,6 +18,21 @@ Biological research interests for the Landis Lab include **phylogenetic inferenc
 
 Our methodological interests include **phylogenetic model design**, **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming**.
 
+ <table>
+  <tr>
+    <td><img src="/assets/research/img/deep_learning_phylogeo.png" alt="Viral phylogeography"></td>
+    <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"></td>
+    <td><img src="/assets/research/img/biome_shift.png" alt="Biome shifts"></td>
+    <td><img src="/assets/research/img/biogeographic_dating.png" alt="Biogeographic dating"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/research/img/biotic_interactions.png" alt="Biotic interactions"></td>
+    <td><img src="/assets/research/img/levy_models.png" alt="Levy processes"></td>
+    <td><img src="/assets/research/img/revbayes.png" alt="RevBayes"></td>
+    <td><img src="/assets/research/img/evol_ecol_network.png" alt="Eco-evolutionary networks"></td>
+  </tr>
+</table> 
+
 Visit the [**Research**](research) page to learn more.
 
 **Interested in joining?**
