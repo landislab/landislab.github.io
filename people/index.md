@@ -13,7 +13,7 @@ class: 'home-template'
 
 **Apr 11 2023**: We expect to be recruiting one postdoc to join the lab as soon as Fall 2023 and one PhD student to join the lab in Fall 2024. Advertisements coming soon.
 
-We're always looking for creative thinkers who are interested in modeling evolutionary processes. Please contact [Michael](mailto:michael.landis@wustl.edu) to ask about postdoctoral, graduate, and undergraduate research opportunities. Messages from those seeking independent support through research fellowships are also most welcome (opportunities below). In your email, please share a statement of your research interests and/or your CV.
+We're always looking for biologists, computer scientists, and statisticians who are interested in modeling evolutionary processes. Please contact [Michael](mailto:michael.landis@wustl.edu) to ask about postdoctoral, graduate, and undergraduate research opportunities. Messages from those seeking independent support through research fellowships are also most welcome (opportunities below). In your email, please share a statement of your research interests and/or your CV.
 
 [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/applicants/)<br>
 [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/about-doe-csgf/eligibility-program-requirements)<br>

@@ -42,7 +42,7 @@ Visit the [**Research**](research) page to learn more.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
 
 **Interested in joining?**
-We're always looking for creative thinkers who study evolution! Please email [Michael](mailto:michael.landis@wustl.edu) directly to inquire about postdoctoral, graduate, and undergraduate research opportunities. 
+We're always looking for creative thinkers who study evolution! Visit the [**People**](people) page for more information.
 
 ----
 
