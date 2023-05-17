@@ -18,7 +18,9 @@ Biological research interests for the Landis Lab include **phylogenetic inferenc
 
 Our methodological interests include **phylogenetic model design**, **stochastic processes**, **Bayesian inference**, **deep learning**, and **probabilistic programming**.
 
+<!--
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
+-->
 
 <!--
  <table style="margin-left:auto;margin-right:auto;">
