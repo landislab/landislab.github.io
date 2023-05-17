@@ -1944,19 +1944,15 @@ Usage (In Ghost editor):
     border: 1px solid #666666;
 }
 
-.img-people-current {
-    height: 150px;
-    width: 150px;
+.img-people {
+    height: 120px;
+    width: 120px;
     border-radius: 5px;
     border: 1px solid #666666;
+    min-width: 120px;
+    min-height: 120px;
 }
 
-.img-people-alumni {
-    height: 90px;
-    width: 90px;
-    border-radius: 5px;
-    border: 1px solid #666666;
-}
 
 .img-research {
     width: 180px;
