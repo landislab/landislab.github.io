@@ -18,20 +18,24 @@ Biological research interests for the Landis Lab include **phylogenetic inferenc
 
 Our methodological interests include **phylogenetic model design**, **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming**.
 
+<!--
+{% include carousel.html height="100" unit="%" duration="4" number="1" %}
+-->
+
  <table style="margin-left:auto;margin-right:auto;">
   <tr>
-    <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"        style="height:96px;width:112px;"></td>
-    <td><img src="/assets/research/img/biome_shift.png"             alt="Biome shifts"               style="height:96px;width:112px;"></td>
-    <td><img src="/assets/research/img/biogeographic_dating.png"    alt="Biogeographic dating"       style="height:96px;width:112px;"></td>
-    <td><img src="/assets/research/img/deep_learning_phylogeo.png"  alt="Viral phylogeography"       style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"        style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/biome_shift.png"             alt="Biome shifts"               style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/biogeographic_dating.png"    alt="Biogeographic dating"       style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/deep_learning_phylogeo.png"  alt="Viral phylogeography"       style="height:auto;width:112px;"></td>
   </tr>
   <tr>
-    <td><img src="/assets/research/img/biotic_interactions.png"     alt="Biotic interactions"        style="height:96px;width:112px;"></td>
-    <td><img src="/assets/research/img/evol_ecol_network.png"       alt="Eco-evolutionary networks"  style="height:96px;width:112px;"></td>
-    <td><img src="/assets/research/img/levy_models.png"             alt="Levy processes"             style="height:96px;width:112px;"></td>
-    <td><img src="/assets/research/img/revbayes.png"                alt="RevBayes"                   style="height:96px;width:112px;"></td>
+    <td><img src="/assets/research/img/biotic_interactions.png"     alt="Biotic interactions"        style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/evol_ecol_network.png"       alt="Eco-evolutionary networks"  style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/levy_models.png"             alt="Levy processes"             style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/revbayes.png"                alt="RevBayes"                   style="height:auto;width:112px;"></td>
   </tr>
-</table> 
+</table>
 
 Visit the [**Research**](research) page to learn more.
 

@@ -4,6 +4,16 @@ title: Landis Lab @ WUSTL
 current: home
 class: 'home-template'
 navigation: True
+carousels:
+  - images:
+    - image: /assets/research/img/feature_informed_geosse.png
+    - image: /assets/research/img/biogeographic_dating.png
+    - image: /assets/research/img/biome_shift.png
+    - image: /assets/research/img/deep_learning_phylogeo.png
+    - image: /assets/research/img/revbayes.png
+    - image: /assets/research/img/levy_models.png
+    - image: /assets/research/img/evol_ecol_network.png
+    - image: /assets/research/img/biotic_interactions.png
 ---
 
 <!-- < default -->
@@ -30,6 +40,8 @@ into the {body} of the default.hbs template -->
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
+
+        <!--{% include carousel.html height="33" unit="%" duration="4" number="1" %}-->
         <!-- render the Markdown content of home/index.md the front page -->
         {% capture my_include %}{% include_relative home/index.md %}{% endcapture %}
         {{ my_include | markdownify }}
