@@ -11,7 +11,11 @@ navigation: True
 
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
 We study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
-Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**. Methodologically, we are also interested in **phylogenetic model design**,     **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming**.
+
+Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**.
+
+Our methodological interests include **phylogenetic model design**, **stochastic processes**, **Bayesian inference**, **deep learning**, and **probabilistic programming**.
+
 We maintain a broad and active interest in problems involving phylogenetic modeling and inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees. Below are some examples of recent projects and studies.
 
 ---

@@ -28,7 +28,7 @@ Our methodological interests include **phylogenetic model design**, **stochastic
 </table>
 
 -->
-Visit the [**Research**](research) page to learn more.
+Visit the [**Research**](research) and [**Papers**](papers) pages to learn more.
 
 
 ----
