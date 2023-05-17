@@ -49,6 +49,8 @@ into the {body} of the default.hbs template -->
             </colgroup>
             {% for person in site.data.people %}
                 <tr>
+                    <table>
+                        
                     <td markdown="span">
                         <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 0px 0px 0px" class="img-people">
                     </td>
@@ -75,15 +77,19 @@ into the {body} of the default.hbs template -->
                                 <a class="social-link-people" color="#000" href="https://twitter.com/{{ person[1].twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
                             {% endif %}
                         </div>
-                        <br>
+                    </td>
+                    </table>
+                </tr>
+                <tr>
+                    <td>
                         <div>
                             {% if person[1].bio %}
                                 {{ person[1].bio }}
                             {% endif %}
                         </div>
-                        <br>
                     </td>
                 </tr>
+                <div style="height:40px;"></div>
             {% endfor %}
         </table>
 
@@ -99,7 +105,7 @@ into the {body} of the default.hbs template -->
             {% for person in site.data.alumni %}
                 <tr>
                     <td markdown="span">
-                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 10px 0px 0px" height="150px" width="150px" class="img-people">
+                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 10px 0px 0px" class="img-people">
                     </td>
                     <td markdown="span">
                         <br>
