@@ -1,17 +1,8 @@
 <br>
-# Lab info
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Michael Landis**](mailto:michael.landis@wustl.edu)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock 210, Danforth Campus<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
-
----
 
 # Welcome
 
-Our group studies the evolution of biodiversity: how has life radiated throughout and adapted to an ever-changing world?
+The **Landis Lab** studies the evolution of biodiversity: how has life radiated throughout and adapted to an ever-changing world?
 We study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 
 Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**.
@@ -38,6 +29,17 @@ Our methodological interests include **phylogenetic model design**, **stochastic
 
 -->
 Visit the [**Research**](research) page to learn more.
+
+
+----
+
+# Lab info
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Michael Landis**](mailto:michael.landis@wustl.edu)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock 210, Danforth Campus<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
 
 **Interested in joining?**
 We're always looking for creative thinkers who study evolution! Please email [Michael](mailto:michael.landis@wustl.edu) directly to inquire about postdoctoral, graduate, and undergraduate research opportunities. 
