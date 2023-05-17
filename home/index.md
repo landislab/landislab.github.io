@@ -16,12 +16,11 @@ We study evolution by developing probabilistic models, writing open source and c
 
 Biological research interests for the Landis Lab include **phylogenetic inference**, **divergence time estimation**, **historical biogeography**, the **evolution of ecological interactions**, **phenotypic evolution**, and **pathogen and parasite spread**.
 
-Our methodological interests include **phylogenetic model design**, **Bayesian inference**, **deep learning**, **stochastic processes**, and **probabilistic programming**.
+Our methodological interests include **phylogenetic model design**, **stochastic processes**, **Bayesian inference**, **deep learning**, and **probabilistic programming**.
+
+{% include carousel.html height="50" unit="%" duration="5" number="1" %}
 
 <!--
-{% include carousel.html height="100" unit="%" duration="4" number="1" %}
--->
-
  <table style="margin-left:auto;margin-right:auto;">
   <tr>
     <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"        style="height:auto;width:112px;"></td>
@@ -37,6 +36,7 @@ Our methodological interests include **phylogenetic model design**, **Bayesian i
   </tr>
 </table>
 
+-->
 Visit the [**Research**](research) page to learn more.
 
 **Interested in joining?**
