@@ -10,24 +10,6 @@ Biological research interests for the Landis Lab include **phylogenetic inferenc
 Our methodological interests include **phylogenetic model design**, **stochastic processes**, **Bayesian inference**, **deep learning**, and **probabilistic programming**.
 
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
-
-<!--
- <table style="margin-left:auto;margin-right:auto;">
-  <tr>
-    <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"        style="height:auto;width:112px;"></td>
-    <td><img src="/assets/research/img/biome_shift.png"             alt="Biome shifts"               style="height:auto;width:112px;"></td>
-    <td><img src="/assets/research/img/biogeographic_dating.png"    alt="Biogeographic dating"       style="height:auto;width:112px;"></td>
-    <td><img src="/assets/research/img/deep_learning_phylogeo.png"  alt="Viral phylogeography"       style="height:auto;width:112px;"></td>
-  </tr>
-  <tr>
-    <td><img src="/assets/research/img/biotic_interactions.png"     alt="Biotic interactions"        style="height:auto;width:112px;"></td>
-    <td><img src="/assets/research/img/evol_ecol_network.png"       alt="Eco-evolutionary networks"  style="height:auto;width:112px;"></td>
-    <td><img src="/assets/research/img/levy_models.png"             alt="Levy processes"             style="height:auto;width:112px;"></td>
-    <td><img src="/assets/research/img/revbayes.png"                alt="RevBayes"                   style="height:auto;width:112px;"></td>
-  </tr>
-</table>
-
--->
 Visit the [**Research**](research) and [**Papers**](papers) pages to learn more.
 
 
@@ -48,7 +30,8 @@ We're always looking for creative thinkers who study evolution! Visit the [**Peo
 
 # News
 
-*June 2023*<br>Thrilled to share that Fàbio Mendes (postdoc) will be joining [LSU Biological Sciences](https://www.lsu.edu/science/biosci/index.php) as an [assistant professor](https://twitter.com/fabiokmendes/status/1669770297128484874) in Fall 2024! Contact him to learn about joining his new lab as grad student or postdoc. 🎉🎉 
+*June 2023*<br>
+Thrilled to share that Fàbio Mendes (postdoc) will be joining [LSU](https://www.lsu.edu/science/biosci/index.php) as an [assistant professor](https://twitter.com/fabiokmendes/status/1669770297128484874) in Fall 2024! Contact him to learn about joining his new lab as grad student or postdoc. 🎉🎉 
 
 *May 2023*<br> New perspective piece with Nate Upham in Science on how diverse genomic sequencing among mammal species teaches us new lessons about the evolutionary history of our clade ([link](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_Science_mammalverse.pdf)). 
 
@@ -122,3 +105,22 @@ New lab members will design statistical models, develop scientific software meth
 If interested, please email a brief statement of your research interests and a copy of your CV to [michael.landis@wustl.edu](mailto:michael.landis@wustl.edu).
 A broader invitation to apply will be published by December 1, 2018.
 <br>
+
+
+<!--
+ <table style="margin-left:auto;margin-right:auto;">
+  <tr>
+    <td><img src="/assets/research/img/feature_informed_geosse.png" alt="Biogeographic rates"        style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/biome_shift.png"             alt="Biome shifts"               style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/biogeographic_dating.png"    alt="Biogeographic dating"       style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/deep_learning_phylogeo.png"  alt="Viral phylogeography"       style="height:auto;width:112px;"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/research/img/biotic_interactions.png"     alt="Biotic interactions"        style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/evol_ecol_network.png"       alt="Eco-evolutionary networks"  style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/levy_models.png"             alt="Levy processes"             style="height:auto;width:112px;"></td>
+    <td><img src="/assets/research/img/revbayes.png"                alt="RevBayes"                   style="height:auto;width:112px;"></td>
+  </tr>
+</table>
+
+-->
