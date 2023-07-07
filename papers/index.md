@@ -14,16 +14,16 @@ navigation: True
 
 ## 2023
 
- **SK Swiston**, **MJ Landis**. 2023. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. bioRxiv. 2023.06.19.545613.<br>
- [[paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545613v1)]
+ **SK Swiston**, **MJ Landis**. 2023. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. bioRxiv 2023.06.19.545613.<br>
+ [[paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545613v1)] [[tutorial](https://revbayes.github.io/tutorials/multifig/multifig.html)]
 
-AY Kawahara, C Storer, APS Carvalho, DM Plotkin, F Condamine, **MP Braga**, et al. [**MJ Landis** among 89 co-authors] 2023. Evolution and diversification dynamics of butterflies. Nature Ecology and Evolution. doi:10.1038/s41559-023-02041-9.<br>
+AY Kawahara, C Storer, APS Carvalho, DM Plotkin, F Condamine, **MP Braga**, et al. [**MJ Landis** among 89 co-authors] 2023. Evolution and diversification dynamics of butterflies. Nature Ecology and Evolution doi:10.1038/s41559-023-02041-9.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Kawahara_et_al_2023_NEE_butterfly_radiation.pdf)]
 
 I Quintero, **MJ Landis**, W Jetz, H Morlon. 2023. The build-up of the present-day tropical diversity of tetrapods. Proceedings of the National Academy of Sciences 120: e2220672120.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Quintero_et_al_2023_PNAS_tropical_species_richness.pdf)]
 
-NS Upham, **MJ Landis**. 2023. Genomics expands the mammalverse. Science. 380:358-359.<br>
+NS Upham, **MJ Landis**. 2023. Genomics expands the mammalverse. Science 380:358-359.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_Science_mammalverse.pdf)]
 
 SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2023. Bayesian inference of admixture graphs on Native American and Arctic populations.  PLOS Genetics 19:e1010410.<br>
@@ -39,7 +39,7 @@ SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2023. Bay
 W Dismukes, **MP Braga**, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution 53:275-298.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Dismukes_et_al_2022_AREES_cophylogenetic_methods.pdf)]
 
-MJ Donoghue, DAR Eaton, CA Maya-Lastra, **MJ Landis**, PW Sweeney, ME Olson, NI Cacho, MK Moeglin, JR Gardner, NM Heaphy, M Castorena, A Segovia Rivas, WL Clement, EJ Edwards. 2022. Replicated radiation of a plant clade along a cloud forest archipelago. Nature Ecology and Evolution. doi:10.1038/s41559-022-01823-x.<br>
+MJ Donoghue, DAR Eaton, CA Maya-Lastra, **MJ Landis**, PW Sweeney, ME Olson, NI Cacho, MK Moeglin, JR Gardner, NM Heaphy, M Castorena, A Segovia Rivas, WL Clement, EJ Edwards. 2022. Replicated radiation of a plant clade along a cloud forest archipelago. Nature Ecology and Evolution doi:10.1038/s41559-022-01823-x.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Donoghue_et_al_2022_NEE_oreinotinus_radiation.pdf)]
 
 J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, L Guimarães, Fabreti, S Höhna, **MJ Landis**, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath. 2022. Lessons learned from organizing and teaching virtual phylogenetics workshops. Bulletin of the Society of Systematic Biologists 10.18061/bssb.v1i2.<br>

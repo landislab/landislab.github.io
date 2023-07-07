@@ -48,6 +48,8 @@ We're always looking for creative thinkers who study evolution! Visit the [**Peo
 
 # News
 
+*June 2023*<br>Thrilled to share that Fàbio Mendes (postdoc) will be joining[LSU Biological Sciences](https://www.lsu.edu/science/biosci/index.php) as an [assistant professor](https://twitter.com/fabiokmendes/status/1669770297128484874) in Fall 2024! Contact him to learn about joining his new lab as grad student or postdoc. 🎉🎉 
+
 *May 2023*<br> New perspective piece with Nate Upham in Science on how diverse genomic sequencing among mammal species teaches us new lessons about the evolutionary history of our clade ([link](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Upham_Landis_2023_Science_mammalverse.pdf)). 
 
 *Apr 2023*<br> Sean McHugh just passed his qualifying exam on ecological niche evolution. Congrats, Sean!! 🥳
