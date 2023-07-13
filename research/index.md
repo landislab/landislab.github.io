@@ -20,6 +20,12 @@ We maintain a broad and active interest in problems involving phylogenetic model
 
 ---
 
+## Recorded talks
+
+Visit our Youtube channel to see recorded talks and other videos. [[link](youtube.com/@LandisResearchGroup/)]
+
+---
+
 ## Funded projects
 We are extremely grateful to the agencies and instutitions for funding these projects:
 - **Modeling the Origin and Evolution of Hawaiian Plants.** NSF-DEB funded. Collaborators: Felipe Zapata, Nina Ronsted, Warren Wagner, Fabio Mendes, Isaac Lichter-Marck, Sarah Swiston. [[link](https://sites.wustl.edu/hawaiianplantbiogeography/)]
