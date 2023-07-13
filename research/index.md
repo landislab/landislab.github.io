@@ -22,7 +22,7 @@ We maintain a broad and active interest in problems involving phylogenetic model
 
 ## Recorded talks
 
-Visit our Youtube channel to see recorded talks and other videos. [[link](youtube.com/@LandisResearchGroup/)]
+Visit our Youtube channel to see recorded talks and other videos. [[link](https://youtube.com/@LandisResearchGroup/)]
 
 ---
 
