@@ -30,6 +30,9 @@ We're always looking for creative thinkers who study evolution! Visit the [**Peo
 
 # News
 
+*July 2023*<br>
+Our lab is hiring a postdoc to research statistical phylogenetic models and methods. We'll design the project together, based on shared interests and types of expertise. Position is for 2+ years with $60k salary. Visit our ad on [evoldir](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModeling) for more details. Also, be sure to check out our new [YouTube channel](https://www.youtube.com/@LandisLab) with collected video recordings of research talks from our lab members.
+
 *June 2023*<br>
 Thrilled to share that Fàbio Mendes (postdoc) will be joining [LSU](https://www.lsu.edu/science/biosci/index.php) as an [assistant professor](https://twitter.com/fabiokmendes/status/1669770297128484874) in Fall 2024! Contact him to learn about joining his new lab as grad student or postdoc. 🎉🎉 
 
