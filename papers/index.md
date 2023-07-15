@@ -12,7 +12,7 @@ navigation: True
 
 # Papers
 
-This page summarizes papers and associated research projects coming out of our group. Every entry for each paper has a link to the pdf, while many entries also have links to video recordings (talks), blog posts, analysis code, and/or tutorials.
+This page summarizes papers and associated research projects coming out of our group. Every entry has a link to the **paper** as a pdf, while many entries also have links to **video** recordings of talks, **blog** posts, analysis **code**, and/or **tutorials**.
 
 ## 2023
 
@@ -97,7 +97,7 @@ DJ Field, JS Berv, AY Hsiang, R Lanfear, **MJ Landis**, A Dornburg. 2019. Timing
 B Park, M Sinnott-Armstrong, C Schlutius, JC Zuluaga, EL Spriggs, RG Simpson, E Benavides, **MJ Landis**, PW Sweeney, DAR Eaton, MJ Donoghue. 2018. Sterile marginal flowers increase visitation and fruit set in the hobblebush (Viburnum lantanoides, Adoxaceae) at multiple spatial scales. Annals of Botany, 123: 381-390.
 
 **MJ Landis**, JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114: 13224-13229.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)] [[video](https://www.youtube.com/watch?v=caB1HMPMi70&t=9s)]  [[code](http://github.com/Schraiber/pulsR)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)] [[video](https://www.youtube.com/watch?v=caB1HMPMi70&t=9s)]  [[news](https://evolutionnews.org/2017/11/punctuated-equilibria-is-back-but-still-magical/)] [[code](http://github.com/Schraiber/pulsR)]
 
 **MJ Landis**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66: 128-144.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_2017_SystBiol_biogeographic_dating.pdf)] [[video](https://www.youtube.com/watch?v=HOCFjMrvLsQ)]  [[code](http://github.com/mlandis/biogeographic_dating)]

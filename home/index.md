@@ -10,8 +10,12 @@ Biological research interests for the Landis Lab include **phylogenetic inferenc
 Our methodological interests include **phylogenetic model design**, **stochastic processes**, **Bayesian inference**, **deep learning**, and **probabilistic programming**.
 
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
-Visit the [**Research**](research) and [**Papers**](papers) pages to learn more.
 
+
+**Curious to learn more?** Visit the [**Research**](research) and [**Papers**](papers) pages for more materials.
+
+**Interested in joining?**
+We're always looking for creative thinkers who study evolution! Visit the [**People**](people) page for more information.
 
 ----
 
@@ -23,8 +27,6 @@ Visit the [**Research**](research) and [**Papers**](papers) pages to learn more.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock 210, Danforth Campus<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
 
-**Interested in joining?**
-We're always looking for creative thinkers who study evolution! Visit the [**People**](people) page for more information.
 
 ----
 
