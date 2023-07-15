@@ -12,6 +12,8 @@ navigation: True
 
 # Papers
 
+This page summarizes papers and associated research projects coming out of our group. Every entry for each paper has a link to the pdf, while many entries also have links to video recordings (talks), blog posts, analysis code, and/or tutorials.
+
 ## 2023
 
  **SK Swiston**, **MJ Landis**. 2023. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. bioRxiv 2023.06.19.545613.<br>
@@ -30,7 +32,7 @@ SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2023. Bay
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Nielsen_et_al_2023_PLOS_Genetics_admixture.pdf)]
 
 **A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv 2023.02.08.527714.<br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v1)]
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v1)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
 
 
 ## 2022
@@ -50,7 +52,7 @@ EW Wendt, LR Malabarba, **MP Braga**, WA Boeger, **MJ Landis**, TP Carvalho. 202
 
 **MJ Landis**, I Quintero, MM Muñoz, F Zapata, MJ Donoghue. 2022. Phylogenetic inference of where species spread or split
 across barriers. Proceedings of the National Academy of Sciences 119: e2116948119.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)] [[blog](https://www.anoleannals.org/2022/04/29/inferring-where-anole-ranges-tend-to-spread-or-split/)] [[code](https://github.com/mlandis/fig_model)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2022_PNAS_FIG_biogeo_model.pdf)] [[video](https://www.youtube.com/watch?v=IwqsF6TvT9w)]  [[blog](https://www.anoleannals.org/2022/04/29/inferring-where-anole-ranges-tend-to-spread-or-split/)] [[code](https://github.com/mlandis/fig_model)]  [[tutorial](https://revbayes.github.io/tutorials/multifig/multifig.html)]
 
 CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2022. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. Methods in Ecology and Evolution 13:314-323.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)] [[code](https://github.com/revbayes/RevGadgets)]
@@ -61,13 +63,13 @@ S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses
 <br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2021_PeerJ_parallel_marg_like.pdf)]
 
 **MP Braga**, N Janz, S Nylin, F Ronquist, **MJ Landis**. 2021. Phylogenetic reconstruction of ancestral ecological networks through time for pierid butterflies and their host plants. Ecology Letters 24: 2134-2145.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)] [[code](https://github.com/maribraga/pieridae_hostrep)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2021_EcolLett_evol_network.pdf)] [[video](https://www.youtube.com/watch?v=dn5AvDjqni8&t=1545s)]  [[code](https://github.com/maribraga/pieridae_hostrep)]
 
 **MJ Landis**, EJ Edwards, MJ Donoghue. 2021. Modeling phylogenetic biome shifts on a planet with a past. Systematic Biology 70: 86-107.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_biome_shift.pdf)] [[code](https://github.com/mlandis/biome_shift)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_biome_shift.pdf)]  [[video](https://www.youtube.com/watch?v=40TwHG3EoTw)]  [[code](https://github.com/mlandis/biome_shift)]
 
 **MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2021. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70: 67-85.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_viburnum_phylo.pdf)] [[code](https://github.com/mlandis/vib_div)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_viburnum_phylo.pdf)] [[video](https://www.youtube.com/live/RMhULSGhmug?feature=share&t=546)] [[code](https://github.com/mlandis/vib_div)]
 
 ## 2020
 
@@ -78,10 +80,10 @@ AS Kim, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Kim_et_al_2020_CellHostMicrobe_alphavirus.pdf)]
 
 **MP Braga**, **MJ Landis**, S Nylin, N Janz, F Ronquist. 2020. Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution. Systematic Biology 69: 1149-1162.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2020_SystBiol_host_parasite.pdf)] [[tutorial](https://revbayes.github.io/tutorials/host_rep/host_rep.html)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Braga_et_al_2020_SystBiol_host_parasite.pdf)] [[video](https://www.youtube.com/watch?v=dn5AvDjqni8&t=1545s)]  [[tutorial](https://revbayes.github.io/tutorials/host_rep/host_rep.html)]
 
 I Quintero, **MJ Landis** 2020. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology 69: 739-755.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Quintero_Landis_2020_SystBiol_biotic_interactions.pdf)]  [[code](https://github.com/ignacioq/Tapestree.jl)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Quintero_Landis_2020_SystBiol_biotic_interactions.pdf)]  [[video](https://www.youtube.com/watch?v=dn5AvDjqni8&t=474s)]  [[code](https://github.com/ignacioq/Tapestree.jl)]
 
 ## before 2020
 
@@ -89,15 +91,16 @@ DJ Field, JS Berv, AY Hsiang, R Lanfear, **MJ Landis**, A Dornburg. 2019. Timing
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Field_et_al_2019_PeerJ_avian_dating.pdf)]
 
 **MJ Landis**, WA Freyman, BG Baldwin. 2018. Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution, 72: 2343-2359.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2018_Evolution_silversword_radiation.pdf)]  [[code](http://github.com/mlandis/biogeo_silversword)] [[tutorial](https://revbayes.github.io/tutorials/#biogeo)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2018_Evolution_silversword_radiation.pdf)] [[video](https://www.youtube.com/watch?v=OuF5-odtSCo&t=1801s)]
+ [[code](http://github.com/mlandis/biogeo_silversword)] [[tutorial](https://revbayes.github.io/tutorials/#biogeo)] 
 
 B Park, M Sinnott-Armstrong, C Schlutius, JC Zuluaga, EL Spriggs, RG Simpson, E Benavides, **MJ Landis**, PW Sweeney, DAR Eaton, MJ Donoghue. 2018. Sterile marginal flowers increase visitation and fruit set in the hobblebush (Viburnum lantanoides, Adoxaceae) at multiple spatial scales. Annals of Botany, 123: 381-390.
 
 **MJ Landis**, JG Schraiber. 2017. Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114: 13224-13229.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]  [[code](http://github.com/Schraiber/pulsR)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)] [[video](https://www.youtube.com/watch?v=caB1HMPMi70&t=9s)]  [[code](http://github.com/Schraiber/pulsR)]
 
 **MJ Landis**. 2017. Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66: 128-144.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_2017_SystBiol_biogeographic_dating.pdf)]  [[code](http://github.com/mlandis/biogeographic_dating)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_2017_SystBiol_biogeographic_dating.pdf)] [[video](https://www.youtube.com/watch?v=HOCFjMrvLsQ)]  [[code](http://github.com/mlandis/biogeographic_dating)]
 
 S Höhna, **MJ Landis**, TA Heath. 2017. Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics, 57: 6.16-6.16.34.
 <br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.pdf)]
