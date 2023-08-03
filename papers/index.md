@@ -16,6 +16,9 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2023
 
+**A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. bioRxiv 2023.02.08.527714.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v3)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
+
  **SK Swiston**, **MJ Landis**. 2023. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. bioRxiv 2023.06.19.545613.<br>
  [[paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545613v1)] [[tutorial](https://revbayes.github.io/tutorials/multifig/multifig.html)]
 
@@ -31,12 +34,8 @@ NS Upham, **MJ Landis**. 2023. Genomics expands the mammalverse. Science 380:358
 SV Nielsen, AH Vaughn, K Leppala, **MJ Landis**, T Mailund, R Nielsen. 2023. Bayesian inference of admixture graphs on Native American and Arctic populations.  PLOS Genetics 19:e1010410.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Nielsen_et_al_2023_PLOS_Genetics_admixture.pdf)]
 
-**A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning approaches to viral phylogeography are fast and as robust as likelihood methods to model misspecification. bioRxiv 2023.02.08.527714.<br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v1)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
-
 
 ## 2022
-
 
 W Dismukes, **MP Braga**, DH Hembry, TA Heath, **MJ Landis**. Cophylogenetic methods to untangle the evolutionary history of ecological interactions. Annual Reviews of Ecology and Evolution 53:275-298.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Dismukes_et_al_2022_AREES_cophylogenetic_methods.pdf)]
@@ -57,6 +56,7 @@ across barriers. Proceedings of the National Academy of Sciences 119: e211694811
 CM Tribble, WA Freyman, JY Lim, **MJ Landis**, J Barido-Sottani, BJ Kopperud, S Höhna, MR May. 2022. RevGadgets: an R Package for visualizing Bayesian phylogenetic analyses from RevBayes. Methods in Ecology and Evolution 13:314-323.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Tribble_et_al_2021_bioRxiv_revgadgets.pdf)] [[code](https://github.com/revbayes/RevGadgets)]
 
+
 ## 2021
 
 S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. PeerJ 9:e12438. 
@@ -71,6 +71,7 @@ S Höhna, **MJ Landis**, JP Huelsenbeck. 2021. Parallel power posterior analyses
 **MJ Landis**, DAR Eaton, WL Clement, B Park, EL Spriggs, PW Sweeney, EJ Edwards, MJ Donoghue. 2021. Joint phylogenetic estimation of geographic movements and biome shifts during the global diversification of Viburnum. Systematic Biology 70: 67-85.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_et_al_2021_SystBiol_viburnum_phylo.pdf)] [[video](https://www.youtube.com/live/RMhULSGhmug?feature=share&t=546)] [[code](https://github.com/mlandis/vib_div)]
 
+
 ## 2020
 
 **MJ Landis**. 2020. "Biogeographic dating of phylogenetic divergence times using priors and processes" (pp 135-155) in The Molecular Evolutionary Clock: Theory and Practice (SYW Ho, ed.). Springer.<br>
@@ -84,6 +85,7 @@ AS Kim, O Zimmerman, JM Fox, CA Nelson, K Basore, R Zhang, L Durnell, C Desai, C
 
 I Quintero, **MJ Landis** 2020. Interdependent phenotypic and biogeographic evolution driven by biotic interactions. Systematic Biology 69: 739-755.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Quintero_Landis_2020_SystBiol_biotic_interactions.pdf)]  [[video](https://www.youtube.com/watch?v=dn5AvDjqni8&t=474s)]  [[code](https://github.com/ignacioq/Tapestree.jl)]
+
 
 ## before 2020
 

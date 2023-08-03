@@ -22,7 +22,7 @@ fmendes:
   email: f.mendes@wustl.edu
   github: False #mlandis
   bitbucket: False #mlandis
-  bio: I wish to learn how biological groups evolve different genotypes and phenotypes while diversifying in time and space. My research brings us closer to this goal by enabling integrative evolutionary inference -- I develop (and use) phylogenetic models that can leverage different types of data across evolutionary timescales. 
+  bio: I wish to learn how biological groups evolve different genotypes and phenotypes while diversifying in time and space. My research brings us closer to this goal by enabling integrative evolutionary inference -- I develop (and use) phylogenetic models that can leverage different types of data across evolutionary timescales. *Starting a new faculty position at LSU in Fall 2024.*
 
 asoewongsono:
   username: albert_soewongsono
@@ -61,7 +61,7 @@ sswiston:
   github: False # mpiresbr
   bitbucket: False
   cv: False
-  bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data.
+  bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data. *Funded by NSF GRFP.*
 
 smchugh:
   username: sean_mchugh
@@ -89,42 +89,3 @@ wsexton:
   cv: False
   bio: I'm an evolutionary biology major and anthropology minor interested in how macroevolutionary and genetic processes have led to the biodiverse forms throughout Earth's history and the relationships of life today.
 
-#postdoc-biogeo:
-#  username: postdoc-biogeo
-#  name: Computational phylogenetics (open)
-#  position: Postdoctoral Researcher
-#  picture: postdoc-biogeo.jpg
-#  url: False #mlandis.github.io
-#  twitter: False
-#  email: False
-#  github: False
-#  bitbucket: False
-#  cv: False
-#  bio: We’re hiring for a postdoc to research computational phylogenetics and biogeography. Application reviews begin February 1st, 2021. Apply <a href="https://bit.ly/3hJnoiJ">here</a>! Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> with any questions. 
-
-# postdoc:
-#  username: postdoc
-#  name: Postdoctoral Researcher
-#  position: (open to fellowships)
-#  picture: postdoc.jpg
-#  url: False #mlandis.github.io
-#  twitter: False
-#  email: False
-#  github: False
-#  bitbucket: False
-#  cv: False
-#  bio: Please contact <a href="mailto:michael.landis@wustl.edu">Michael</a> if you would like to submit a fellowship to join our group. Possible fellowships include the National Science Foundation's <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622">Postdoctoral Research Fellowship in Biology</a> and the Living Earth Collaborative's <a href="https://livingearthcollaborative.wustl.edu/lec-postdoc-fellowship/">Biodiversity Postdoctoral Fellowship</a>.
-# This research position will remain open until filled. A general description for the position is described <a href="postdoc_position">here</a>. -->
-
-#phd_student:
-#  username: phd_student
-#  name: Evolutionary biologist (open)
-#  position: PhD Student
-#  picture: phd_student.jpg
-#  url: False #mlandis.github.io
-#  twitter: False
-#  email: False
-#  github: False
-#  bitbucket: False
-#  cv: False
-#  bio: We're looking for a PhD student to join our group! This research position is available starting Fall 2022. Applications will likely be due on Dec 1, 2021. More details are <a href="phd_student_position">here</a>. Interested applicants are encouraged to first contact <a href="mailto:michael.landis@wustl.edu">Michael</a> before applying.

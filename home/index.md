@@ -24,6 +24,7 @@ We're always looking for creative thinkers who study evolution! Visit the [**Peo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Michael Landis**](mailto:michael.landis@wustl.edu)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Computer Science & Engineering](https://wubio.wustl.edu/) (courtesy appointment)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebstock 210, Danforth Campus<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
 
@@ -32,11 +33,14 @@ We're always looking for creative thinkers who study evolution! Visit the [**Peo
 
 # News
 
-### *July 2023*
+### *Aug 2023*
+- Some good news for the lab: NIH/NSF-EEID awarded us funding to develop new Bayesian and deep learning methods to reconstruct phylogeographic spread of viruses among multiple populations and species. Collaborators are [Krista Milich](https://artsci.wustl.edu/faculty-staff/krista-milich) (Anthro), [Dave Wang](https://pathology.wustl.edu/people/david-wang-phd/) (Pathology & Immunology), and [Innocent Rwego](https://scholar.google.com/citations?user=e5N4tVoAAAAJ&hl=en) (Makerere University). We'll hiring for computational epidemiologists soon. 🦠
+
+### *Jul 2023*
 - Our lab is hiring a postdoc to research statistical phylogenetic models and methods. We'll design the project together, based on shared interests and types of expertise. Position is for 2+ years with $60k salary. Visit our ad on [evoldir](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModeling) for more details.
  - Also, be sure to check out our new [YouTube channel](https://www.youtube.com/@LandisLab) with collected video recordings of research talks from our lab members. Videos are also cross-linked through [papers](papers).
 
-### *June 2023*
+### *Jun 2023*
 - Thrilled to share that Fàbio Mendes (postdoc) will be joining [LSU](https://www.lsu.edu/science/biosci/index.php) as an [assistant professor](https://twitter.com/fabiokmendes/status/1669770297128484874) in Fall 2024! Contact him to learn about joining his new lab as grad student or postdoc. 🎉🎉 
 - After a year of planning, Michael has helped launch a new [Mentoring Program](https://www.systbio.org/mentoring-program.html) with the [Society of Systematic Biologists](https://www.systbio.org/) as a team effort with Ixchel González-Ramírez, Alonso Delgado, and Laura Kubatko. Our pilot program formed 22 mentoring pairs to help mentor young systematists, worldwide. 
 
