@@ -12,11 +12,10 @@ Our methodological interests include **phylogenetic model design**, **stochastic
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
 
 
-**Curious to learn more?** Visit the [**Research**](research) and [**Papers**](papers) pages for more materials.
-
 **Interested in joining?**
 We're always looking for creative thinkers who study evolution! **We have funded positions available for postdocs and PhD students.** Visit the [**People**](people) page for more information.
 
+**Curious to learn more?** Visit the [**Research**](research) and [**Papers**](papers) pages for more materials.
 
 ----
 
