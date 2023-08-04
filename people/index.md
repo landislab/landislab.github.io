@@ -11,10 +11,11 @@ class: 'home-template'
 
 ## Interested in joining?
 
-**Apr 11 2023**: We expect to be recruiting one postdoc to join the lab as soon as Fall 2023 and one PhD student to join the lab in Fall 2024. Advertisements coming soon.
+**Aug 03 2023**: We expect to be recruiting one postdoc to join the lab as soon as Fall 2023 [[link to ad](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModeling)]. We also plan to recruit a PhD student to join the lab in Fall 2024. Advertisements coming soon.
 
-We're always looking for biologists, computer scientists, and statisticians who are interested in modeling evolutionary processes. Please contact [Michael](mailto:michael.landis@wustl.edu) to ask about postdoctoral, graduate, and undergraduate research opportunities. Messages from those seeking independent support through research fellowships are also most welcome (opportunities below). In your email, please share a statement of your research interests and/or your CV.
+We're always looking for biologists, computer scientists, and statisticians who are interested in modeling evolutionary processes. Please contact [Michael](mailto:michael.landis@wustl.edu) to ask about Postdoctoral, PhD Student (Biology or CS), and Undergraduate research opportunities. Messages from those seeking independent support through research fellowships are also most welcome. In your email, please share a statement of your research interests and/or your CV.
 
+Fellowships:
 [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/applicants/)<br>
 [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/about-doe-csgf/eligibility-program-requirements)<br>
 [NSF Postdoctoral Research Fellowship in Biology](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb)<br>

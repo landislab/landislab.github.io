@@ -33,8 +33,7 @@ Visit our Youtube channel to see recorded talks and other videos, or watch throu
 ## Funded projects
 We are extremely grateful to the agencies and instutitions for funding these projects:
 - **Modeling the Origin and Evolution of Hawaiian Plants.** Funded by NSF-DEB. Collaborators: Felipe Zapata, Nina Ronsted, Warren Wagner, Fabio Mendes, Isaac Lichter-Marck, Sarah Swiston. [[link](https://sites.wustl.edu/hawaiianplantbiogeography/)]
-- **Phylogenetic modeling of viral transmission dynamics at the human-wildlife interface in Uganda** Funded by NIH+NSF-EEID, and WUSTL-ITF. Collaborators: Krita Milich, Dave Wang, Innocent Rwengo. [[link](https://sites.wustl.edu/phylovirus/)] 
-- . Funded by NIH, NSF, and WUSTL-ITF.
+- **Phylogenetic modeling of viral transmission dynamics at the human-wildlife interface in Uganda** Funded by WUSTL-ITF. Collaborators: Krita Milich, Dave Wang, Innocent Rwengo. [[link](https://sites.wustl.edu/phylovirus/)] 
 
 ---
 
