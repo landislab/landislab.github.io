@@ -76,16 +76,3 @@ smchugh:
   cv: False
   bio: Sean is interested in herpetology and the evolution of ecological niches.
 
-wsexton:
-  username: walker_sexton
-  name: Walker Sexton
-  position: Undergraduate Researcher (joined 2020)
-  picture: wsexton.jpg
-  url: False
-  twitter: False
-  email: False
-  github: False
-  bitbucket: False
-  cv: False
-  bio: I'm an evolutionary biology major and anthropology minor interested in how macroevolutionary and genetic processes have led to the biodiverse forms throughout Earth's history and the relationships of life today.
-

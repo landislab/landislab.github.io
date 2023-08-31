@@ -5,17 +5,18 @@ mbraga:
   picture: mbraga.jpg
   bio: Mariana is now a postdoc at Uppsala Univ. and Univ. of Helsinki with a Swedish International Postdoc Fellowship. 
 
+wsexton:
+  username: walker_sexton
+  name: Walker Sexton
+  position: Undergraduate Researcher (2020 to 2023)
+  picture: wsexton.jpg
+  bio: Walker is now pursuing a Master's degree in the Höhna Lab at LMU Munich.
+
 mshah:
   username: mihir_shah
   name: Mihir Shah
   position: Undergraduate Researcher (2021 to 2023)
   picture: mshah.jpg
-  url: False
-  cv: False
-  twitter: False
-  email: False
-  github: False
-  bitbucket: False
   bio: False # Mihir is a biomedical engineering student who is interested in computational and quantitative approaches to biological research.
 
 syuan:
@@ -23,12 +24,6 @@ syuan:
   name: Sunny Yuan
   position: Undergraduate Researcher (2022 to 2023)
   picture: syuan.jpg
-  url: False
-  cv: False
-  twitter: False
-  email: False
-  github: False
-  bitbucket: False
   bio: False # Sunny is a math and computer science major who is interested in statistical models of evolution and data science techniques.
 
 eramos:
@@ -36,12 +31,6 @@ eramos:
   name: Ernie Ramos
   position: Undergraduate Researcher (2020 to 2021)
   picture: eramos.jpg
-  url: False #https://www.su.se/english/profiles/mbrag-1.219235
-  twitter: False # mpiresbr2
-  email: False #mariana.braga@zoologi.su.se
-  github: False #mpiresbr
-  bitbucket: False
-  cv: False
-  bio: False
+  bio: Ernie is now applying to graduate programs in Statistics.
     #Ernie is a math major who is researching how ecology and evolution shape spatial patterns of biodiversity.
 
