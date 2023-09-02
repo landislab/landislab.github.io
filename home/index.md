@@ -33,6 +33,11 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 # News
 
+
+### *Sep 2023*
+
+- We are recruiting graduate students to study phylogenetic approaches, particularly for epidemiology using deep learning inference methods. Opportunities to join the lab through the [Division of Biological & Biomedical Sciences](https://dbbs.wustl.edu/) or [Computer Science & Engineering](https://cse.wustl.edu/academics/graduate/PhD-in-Computer-Science-or-Computer-Engineering.html) PhD programs. Email [Michael](mailto:michael.landis@wustl.edu) with a brief description research interests and/or a recent CV to express your intent to apply.
+
 ### *Aug 2023*
 - Some good news for the lab: NIH/NSF-EEID awarded us funding to develop new Bayesian and deep learning methods to reconstruct phylogeographic spread of viruses among multiple populations and species. Collaborators are [Krista Milich](https://artsci.wustl.edu/faculty-staff/krista-milich) (Anthro), [Dave Wang](https://pathology.wustl.edu/people/david-wang-phd/) (Pathology & Immunology), and [Innocent Rwego](https://scholar.google.com/citations?user=e5N4tVoAAAAJ&hl=en) (Makerere University). We'll hiring for computational epidemiologists soon. 🦠
 
