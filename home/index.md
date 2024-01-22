@@ -34,12 +34,15 @@ We're always looking for creative thinkers who study evolution! **We have funded
 # News
 
 
+### *Jan 2024*
+- New work led by Ammon Thompson now accepted and online in [Systematic Biology](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syad074/7512772?redirectedFrom=fulltext). The work shows that convolutional neural networks trained for viral phylogeography perform similarly to gold-standard Bayesian methods under a range of realistic model misspecification scenarios. Some ideas captured in the Phyloseminar recording, [here](https://www.youtube.com/watch?v=yV1d7Z6I2Dk).
+
 ### *Sep 2023*
 
 - We are recruiting graduate students to study phylogenetic approaches, particularly for epidemiology using deep learning inference methods. Opportunities to join the lab through the [Division of Biological & Biomedical Sciences](https://dbbs.wustl.edu/) or [Computer Science & Engineering](https://cse.wustl.edu/academics/graduate/PhD-in-Computer-Science-or-Computer-Engineering.html) PhD programs. Email [Michael](mailto:michael.landis@wustl.edu) with a brief description research interests and/or a recent CV to express your intent to apply.
 
 ### *Aug 2023*
-- Some good news for the lab: NIH/NSF-EEID awarded us funding to develop new Bayesian and deep learning methods to reconstruct phylogeographic spread of viruses among multiple populations and species. Collaborators are [Krista Milich](https://artsci.wustl.edu/faculty-staff/krista-milich) (Anthro), [Dave Wang](https://pathology.wustl.edu/people/david-wang-phd/) (Pathology & Immunology), and [Innocent Rwego](https://scholar.google.com/citations?user=e5N4tVoAAAAJ&hl=en) (Makerere University). We'll hiring for computational epidemiologists soon. 🦠
+- Some good news for the lab: NIH/NSF-EEID awarded us funding to develop new Bayesian and deep learning methods to reconstruct phylogeographic spread of viruses among multiple populations and species. Collaborators are [Krista Milich](https://artsci.wustl.edu/faculty-staff/krista-milich) (Anthro), [Dave Wang](https://pathology.wustl.edu/people/david-wang-phd/) (Pathology & Immunology), and [Innocent Rwego](https://scholar.google.com/citations?user=e5N4tVoAAAAJ&hl=en) (Makerere University). We'll be hiring for computational epidemiologists soon. 🦠
 
 ### *Jul 2023*
 - Our lab is hiring a postdoc to research statistical phylogenetic models and methods. We'll design the project together, based on shared interests and types of expertise. Position is for 2+ years with $60k salary. Visit our ad on [evoldir](https://evol.mcmaster.ca/~brian/evoldir/PostDocs/WashingtonU_StLouis.PhylogeneticModeling) for more details.
