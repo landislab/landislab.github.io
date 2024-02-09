@@ -76,3 +76,29 @@ smchugh:
   cv: False
   bio: Sean is interested in herpetology and the evolution of ecological niches.
 
+lquinn:
+  username: lilja_quinn
+  name: Lilja Quinn
+  position: Undergraduate Student (joined 2023)
+  picture: lquinn.jpg
+  url: False
+  twitter: False
+  email: False
+  github: False
+  bitbucket: False
+  cv: False
+  bio: Lilja is interested in human evoluton and social evolution.
+
+tgorre:
+  username: tanvi_gorre
+  name: Tanvi Gorre
+  position: Undergraduate Student (joined 2023)
+  picture: tgorre.jpg
+  url: False  
+  twitter: False
+  email: False
+  github: False 
+  bitbucket: False
+  cv: False
+  bio: Tanvi is interested in cancer evolution and molecular evolution.
+

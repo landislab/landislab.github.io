@@ -14,10 +14,19 @@ navigation: True
 
 This page summarizes papers and associated research projects coming out of our group. Every entry has a link to the **paper** as a pdf, while many entries also have links to **video** recordings of talks, **blog** posts, analysis **code**, and/or **tutorials**.
 
+## 2024
+
+**AC Soewongsono**, **MJ Landis**. 2024. A diffusion-based approach for simulating forward-in-time state-dependent speciation and extinction dynamics. arXiv 2402.00246<br>
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_arXiv_SSE_diffusion.pdf)]
+
+**A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2024. Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. Systematic Biology (in press). <br>
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v3)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
+
 ## 2023
 
-**A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2023. Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. bioRxiv 2023.02.08.527714.<br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v3)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
+**FHK Mendes**, **MJ Landis**. 2023. PhyloJunction: a computational framework for simulating,
+developing, and teaching evolutionary models. bioRxiv 2023.12.15.571907.<br>
+[[paper]](https://www.biorxiv.org/content/10.1101/2023.12.15.571907v1.full.pdf)
 
  **SK Swiston**, **MJ Landis**. 2023. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. bioRxiv 2023.06.19.545613.<br>
  [[paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545613v1)] [[tutorial](https://revbayes.github.io/tutorials/multifig/multifig.html)]
