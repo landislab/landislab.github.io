@@ -33,6 +33,16 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 # News
 
+### *June 2024*
+
+- We just ran our first Phylogenetic Biogeography Workshop here at Washington University [[link](https://sites.wustl.edu/hawaiianplantbiogeography/phylogenetic-biogeography-workshop-wustl/)]. New RevBayes tutorials for the FIG model are now online [[link](https://revbayes.github.io/tutorials/fig_intro/)]. Thanks to everyone for participating! We'll run a second workshop soon, hosted by Felipe Zapata at UCLA.
+- NSF is now funding a new project to help grow [link](https://revbayes.github.io) into a larger open source ecosystem for the phylogenetics community. Project is led by Tracy Heath and Ben Redelings.
+
+### *May 2024*
+- Raymond Castillo has just joined the lab. Raymond is interested in developing phylogenetic models to better understand how genes, chromosomes, and genomes evolve in plants.
+
+### *Apr 2024*
+- Grateful to receive WUSTL [Here & Next](https://hereandnext.wustl.edu/) Tier 3 funding to study host-vector-microbe disease transmission dynamics involving ticks. Part of a new collaboration with Solny Adalsteinsson, Jacco Boon, and Susan Flowers.
 
 ### *Jan 2024*
 - New work led by Ammon Thompson now accepted and online in [Systematic Biology](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syad074/7512772?redirectedFrom=fulltext). The work shows that convolutional neural networks trained for viral phylogeography perform similarly to gold-standard Bayesian methods under a range of realistic model misspecification scenarios. Some ideas captured in the Phyloseminar recording, [here](https://www.youtube.com/watch?v=yV1d7Z6I2Dk).

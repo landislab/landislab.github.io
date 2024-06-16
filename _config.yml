@@ -4,6 +4,11 @@ highlighter: rouge
 paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
+# logging
+logging:
+    level: warn # Check if this exists and is correct
+log_level: warn
+
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 url: https://landislab.github.io
 baseurl: /

@@ -55,26 +55,39 @@ sswiston:
   name: Sarah Swiston
   position: Graduate Student (joined 2021)
   picture: sswiston.jpg
-  url: False # https://www.su.se/english/profiles/mbrag-1.219235
+  url: False
   twitter: SarahSwiston
   email: sarah.k.swiston@wustl.edu
-  github: False # mpiresbr
+  github: False
   bitbucket: False
   cv: False
-  bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data. *Funded by NSF GRFP.*
+  bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data. Funded by NSF GRFP.
 
 smchugh:
   username: sean_mchugh
   name: Sean McHugh
   position: Graduate Student (joined 2022)
   picture: smchugh.jpg
-  url: False # https://www.su.se/english/profiles/mbrag-1.219235
+  url: False
   twitter: sean_w_mchugh
   email: m.seanwmchugh@wustl.edu
-  github: False # mpiresbr
+  github: False
   bitbucket: False
   cv: False
-  bio: Sean is interested in herpetology and the evolution of ecological niches.
+  bio: Sean is fascinated by the evolution of ecological niches, reptile diversity, and all things coffee-related.
+
+rcastillo:
+  username: raymond_castillo
+  name: Raymond Castillo
+  position: Graduate Student (joined 2024)
+  picture: rcastillo.jpg
+  url: False
+  twitter: False
+  email: c.raymond@wustl.edu
+  github: False
+  bitbucket: False
+  cv: False
+  bio: Raymond studies how evolution shapes gene, chromosome, and genome diversity among plant species.
 
 lquinn:
   username: lilja_quinn
