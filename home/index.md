@@ -33,7 +33,7 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 # News
 
-### *June 2024*
+### *Jun 2024*
 
 - We just ran our first Phylogenetic Biogeography Workshop here at Washington University [[link](https://sites.wustl.edu/hawaiianplantbiogeography/phylogenetic-biogeography-workshop-wustl/)]. New RevBayes tutorials for the FIG model are now online [[link](https://revbayes.github.io/tutorials/fig_intro/)]. Thanks to everyone for participating! We'll run a second workshop soon, hosted by Felipe Zapata at UCLA.
 - NSF is now funding a new project to help grow [link](https://revbayes.github.io) into a larger open source ecosystem for the phylogenetics community. Project is led by Tracy Heath and Ben Redelings.
