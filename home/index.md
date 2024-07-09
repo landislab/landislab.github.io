@@ -35,7 +35,7 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 ### *Jul 2024*
 - New work led by Albert Soewongsono now published in [Bulletin of Mathematical Biology](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf). This study shows how multitype birth-death processes with complex event spaces can be transformed into diffusion processes, an alternative perspective to help predict the longterm behavior of diversification scenarios.
-- Sarah and Sean presented their research on feature-informed GeoSSE models at the Society for the Study of Amphibians and Reptiles in Ann Arbor, Michigan.
+- PhD students Sarah and Sean presented their research on feature-informed GeoSSE models at the Society for the Study of Amphibians and Reptiles in Ann Arbor, Michigan. 🐸
 
 ### *Jun 2024*
 
