@@ -40,7 +40,7 @@ We're always looking for creative thinkers who study evolution! **We have funded
 ### *Jun 2024*
 
 - We just ran our first Phylogenetic Biogeography Workshop here at Washington University [[link](https://sites.wustl.edu/hawaiianplantbiogeography/phylogenetic-biogeography-workshop-wustl/)]. New RevBayes tutorials for the FIG model are now online [[link](https://revbayes.github.io/tutorials/fig_intro/)]. Thanks to everyone for participating! We'll run a second workshop soon, hosted by Felipe Zapata at UCLA.
-- NSF is now funding a new project to help grow [link](https://revbayes.github.io) into a larger open source ecosystem for the phylogenetics community. Project is led by Tracy Heath and Ben Redelings.
+- NSF is now funding a new POSE project to help grow RevBayes [[link](https://revbayes.github.io)] into a larger open source ecosystem for the phylogenetics community. Project is led by Tracy Heath and Ben Redelings.
 
 ### *May 2024*
 - Raymond Castillo has just joined the lab. Raymond is interested in developing phylogenetic models to better understand how genes, chromosomes, and genomes evolve in plants.
