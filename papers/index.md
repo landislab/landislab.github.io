@@ -16,11 +16,11 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2024
 
-**AC Soewongsono**, **MJ Landis**. 2024. A diffusion-based approach for simulating forward-in-time state-dependent speciation and extinction dynamics. arXiv 2402.00246<br>
+**AC Soewongsono**, **MJ Landis**. 2024. A diffusion-based approach for simulating forward-in-time state-dependent speciation and extinction dynamics. Bulletin of Mathematical Biology 86:101.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_arXiv_SSE_diffusion.pdf)]
 
-**A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2024. Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. Systematic Biology (in press). <br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.08.527714v3)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
+**A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2024. Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. Systematic Biology 73:183-206. <br>
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Thompson_et_al_2024_SystBiol_phylogeo_cnn.pdf)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
 
 ## 2023
 
