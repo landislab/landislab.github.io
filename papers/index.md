@@ -12,12 +12,12 @@ navigation: True
 
 # Papers
 
-This page summarizes papers and associated research projects coming out of our group. Every entry has a link to the **paper** as a pdf, while many entries also have links to **video** recordings of talks, **blog** posts, analysis **code**, and/or **tutorials**.
+This page summarizes papers and associated research projects coming out of our group. Every entry has a link to the **paper** as a pdf, while many entries also have links to **video** recordings of talks, **blog** posts, analysis **code**, **tutorials**, and/or **sites**.
 
 ## 2024
 
 **MJ Landis**, **A Thompson**. 2024. phyddle: software for phylogenetic model exploration with deep learning.<br>
-[[docs](https://phyddle.org)] [[code](https://github.com/mlandis/phyddle)]
+[[site](https://phyddle.org)] [[code](https://github.com/mlandis/phyddle)]
 
 **AC Soewongsono**, **MJ Landis**. 2024. A diffusion-based approach for simulating forward-in-time state-dependent speciation and extinction dynamics. Bulletin of Mathematical Biology 86:101.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf)]
@@ -29,7 +29,7 @@ This page summarizes papers and associated research projects coming out of our g
 
 **FHK Mendes**, **MJ Landis**. 2023. PhyloJunction: a computational framework for simulating,
 developing, and teaching evolutionary models. bioRxiv 2023.12.15.571907.<br>
-[[paper]](https://www.biorxiv.org/content/10.1101/2023.12.15.571907v1.full.pdf)
+[[paper](https://www.biorxiv.org/content/10.1101/2023.12.15.571907v1.full.pdf)] [[code](https://github.com/fkmendes/PhyloJunction)] [[site](https://phylojunction.org)]
 
  **SK Swiston**, **MJ Landis**. 2023. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. bioRxiv 2023.06.19.545613.<br>
  [[paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545613v1)] [[tutorial](https://revbayes.github.io/tutorials/multifig/multifig.html)]
