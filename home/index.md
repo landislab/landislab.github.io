@@ -34,8 +34,9 @@ We're always looking for creative thinkers who study evolution! **We have funded
 # News
 
 ### *Jul 2024*
-- New work led by Albert Soewongsono now published in [Bulletin of Mathematical Biology](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf). This study shows how multitype birth-death processes with complex event spaces can be transformed into diffusion processes, an alternative perspective to help predict the longterm behavior of diversification scenarios.
+- New work led by Albert Soewongsono for transforming SSE models into diffusion approximations is now published in [Bulletin of Mathematical Biology](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf).
 - PhD students Sarah and Sean presented their research on feature-informed GeoSSE models at the Society for the Study of Amphibians and Reptiles in Ann Arbor, Michigan. 🐸
+- Check out our new package [phyddle](https://phyddle.org), software to explore phylogenetic models with deep learning.
 
 ### *Jun 2024*
 

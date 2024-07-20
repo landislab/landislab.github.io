@@ -16,6 +16,9 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2024
 
+**MJ Landis**, **A Thompson**. 2024. phyddle: software for phylogenetic model exploration with deep learning.<br>
+[[docs](https://phyddle.org)] [[code](https://github.com/mlandis/phyddle)]
+
 **AC Soewongsono**, **MJ Landis**. 2024. A diffusion-based approach for simulating forward-in-time state-dependent speciation and extinction dynamics. Bulletin of Mathematical Biology 86:101.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf)]
 
