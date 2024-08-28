@@ -17,7 +17,10 @@ This page summarizes papers and associated research projects coming out of our g
 ## 2024
 
 **MJ Landis**, **A Thompson**. 2024. phyddle: software for phylogenetic model exploration with deep learning.<br>
-[[site](https://phyddle.org)] [[code](https://github.com/mlandis/phyddle)]
+[[paper](https://www.biorxiv.org/content/10.1101/2024.08.06.606717v1.full.pdf)] [[code](https://github.com/mlandis/phyddle)] [[site](https://phyddle.org)]
+
+**FHK Mendes**, **MJ Landis**. 2024. PhyloJunction: a computational framework for simulating, developing, and teaching evolutionary models. Accepted in Systematic Biology.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2023.12.15.571907v1.full.pdf)] [[code](https://github.com/fkmendes/PhyloJunction)] [[site](https://phylojunction.org)]
 
 **AC Soewongsono**, **MJ Landis**. 2024. A diffusion-based approach for simulating forward-in-time state-dependent speciation and extinction dynamics. Bulletin of Mathematical Biology 86:101.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf)]
@@ -25,11 +28,8 @@ This page summarizes papers and associated research projects coming out of our g
 **A Thompson**, B Liebeskind, EJ Scully, **MJ Landis**. 2024. Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. Systematic Biology 73:183-206. <br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Thompson_et_al_2024_SystBiol_phylogeo_cnn.pdf)] [[video](https://www.youtube.com/live/yV1d7Z6I2Dk?feature=share&t=71)]
 
-## 2023
 
-**FHK Mendes**, **MJ Landis**. 2023. PhyloJunction: a computational framework for simulating,
-developing, and teaching evolutionary models. bioRxiv 2023.12.15.571907.<br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.12.15.571907v1.full.pdf)] [[code](https://github.com/fkmendes/PhyloJunction)] [[site](https://phylojunction.org)]
+## 2023
 
  **SK Swiston**, **MJ Landis**. 2023. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. bioRxiv 2023.06.19.545613.<br>
  [[paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545613v1)] [[tutorial](https://revbayes.github.io/tutorials/multifig/multifig.html)]

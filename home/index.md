@@ -33,13 +33,16 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 # News
 
+### *Aug 2024*
+- Interested in simulating phylogenies? Fàbio Mendes' new paper introducing [PhyloJunction](https://phylojunction.org) is now in advance access at Systematic Biology ([link](https://doi.org/10.1093/sysbio/syae048)). Give it a try!  
+- We just launched Year 2 of the Society of Systematic Biologists' [Mentorship Program](https://www.systbio.org/mentorship-program.html). Thanks to the new cohort of volunteers for participating and to SSB for the continued support!
+
 ### *Jul 2024*
 - New work led by Albert Soewongsono for transforming SSE models into diffusion approximations is now published in [Bulletin of Mathematical Biology](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf).
 - PhD students Sarah and Sean presented their research on feature-informed GeoSSE models at the Society for the Study of Amphibians and Reptiles in Ann Arbor, Michigan. 🐸
 - Check out our new package [phyddle](https://phyddle.org), software to explore phylogenetic models with deep learning.
 
 ### *Jun 2024*
-
 - We just ran our first Phylogenetic Biogeography Workshop here at Washington University [[link](https://sites.wustl.edu/hawaiianplantbiogeography/phylogenetic-biogeography-workshop-wustl/)]. New RevBayes tutorials for the FIG model are now online [[link](https://revbayes.github.io/tutorials/fig_intro/)]. Thanks to everyone for participating! We'll run a second workshop soon, hosted by Felipe Zapata at UCLA.
 - NSF is now funding a new POSE project to help grow RevBayes [[link](https://revbayes.github.io)] into a larger open source ecosystem for the phylogenetics community. Project is led by Tracy Heath and Ben Redelings.
 
