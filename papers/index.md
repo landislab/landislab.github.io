@@ -16,6 +16,9 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2024
 
+**SW McHugh**, MJ Donoghue, **MJ Landis**. 2024. A phylogenetic model of established and enabled biome shifts. bioRxiv 2024.08.30.610561.<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
+
 **MJ Landis**, **A Thompson**. 2024. phyddle: software for phylogenetic model exploration with deep learning.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.06.606717v1.full.pdf)] [[code](https://github.com/mlandis/phyddle)] [[site](https://phyddle.org)]
 

@@ -11,19 +11,6 @@ mlandis:
   bitbucket: mlandis
   bio: I'm interested in learning how evolutionary processes behave and how Earth's biodiversity has changed over time. My research generally involves designing phylogenetic models of evolution, programming inference methods, and analyzing simulated and biological datasets.
 
-fmendes:
-  username: fabio_mendes
-  name: Fábio Kuriki Mendes
-  position: Postdoctoral Researcher (joined 2021)
-  picture: fmendes.jpg
-  url: False #https://landislab.github.io
-  cv: False #../assets/people/cv/mlandis_cv.pdf
-  twitter: fabiokmendes
-  email: f.mendes@wustl.edu
-  github: False #mlandis
-  bitbucket: False #mlandis
-  bio: I wish to learn how biological groups evolve different genotypes and phenotypes while diversifying in time and space. My research brings us closer to this goal by enabling integrative evolutionary inference -- I develop (and use) phylogenetic models that can leverage different types of data across evolutionary timescales. <i>Starting a new position as Assistant Professor at LSU in Fall 2024.</i>
-
 asoewongsono:
   username: albert_soewongsono
   name: Albert Christian Soewongsono
@@ -61,7 +48,7 @@ sswiston:
   github: False
   bitbucket: False
   cv: False
-  bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data. *Funded by NSF GRFP.*
+  bio: I’m interested in phylogenetic methods for inferring the historical processes behind spatial and temporal patterns of diversity, and applying these methods to real and simulated data. <i>Funded by NSF GRFP.</i>
 
 smchugh:
   username: sean_mchugh
@@ -87,7 +74,7 @@ rcastillo:
   github: False
   bitbucket: False
   cv: False
-  bio: I am broadly interested in modeling diversity over evolutionary timescales, currently focusing on chromosome evolution. Outside of science, you can find me playing my favorite TTRPGs, playing volleyball, or taking pictures of my cats!
+  bio: I am broadly interested in modeling diversity over evolutionary timescales, currently focusing on chromosome evolution. Outside of science, you can find me playing my favorite TTRPGs, playing volleyball, or taking pictures of my cats! <i>Funded by NSF GRFP.</i>
 
 lquinn:
   username: lilja_quinn
