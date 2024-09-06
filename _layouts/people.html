@@ -92,6 +92,60 @@ into the {body} of the default.hbs template -->
             {% endfor %}
         </table>
 
+        <!-- VISITING MEMBERS -->
+        <div style="width:100%; margin-left:auto; margin-right:auto">
+            <h2>Visiting members</h2>
+        </div>
+        <table>
+            <colgroup>
+                <col style="width:170px">
+                <col>
+            </colgroup>
+            {% for person in site.data.visitors %}
+                <tr>
+                    <table>
+                    <td markdown="span" width=130>
+                        <img src="../assets/people/img/{{ person[1].picture }}" style="float: left; margin:0px 0px 0px 0px" class="img-people">
+                    </td>
+                    <td markdown="span">
+                        <br>
+                        <div id="{{ person[1].username }}">
+                        {% if person[1].name %}
+                            <b>{{ person[1].name }}</b>
+                            {% if person[1].cv %}
+                                [<a href="{{ person[1].cv }}">CV</a>]
+                            {% endif %}
+                        {% endif %}
+                        </div>
+                        <div>
+                        {% if person[1].position %}
+                            <i>{{ person[1].position }}</i>
+                        {% endif %}
+                        </div>
+                        <div>
+                            {% if person[1].email %}
+                                <a class="social-link-people" color="#000" href="mailto:{{ person[1].email }}" target="_blank" rel="noopener">{% include email.html %}</a>
+                            {% endif %}
+                            {% if person[1].twitter %}
+                                <a class="social-link-people" color="#000" href="https://twitter.com/{{ person[1].twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                            {% endif %}
+                        </div>
+                    </td>
+                    </table>
+                </tr>
+                <tr>
+                    <td>
+                        <div>
+                            {% if person[1].bio %}
+                                {{ person[1].bio }}
+                            {% endif %}
+                        </div>
+                    </td>
+                </tr>
+                <div style="height:40px;"></div>
+            {% endfor %}
+        </table>
+
         <!-- PAST MEMBERS -->
         <div style="width:100%; margin-left:auto; margin-right:auto">
             <h2>Past members</h2>
