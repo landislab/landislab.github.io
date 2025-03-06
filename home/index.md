@@ -33,6 +33,15 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 # News
 
+### *Mar 2025*
+- Welcome to Gabriel Santos Garcia! Gabriel is visiting us as a PhD student from University of Sao Paolo in Brazil for one year to study bat phylogenetics, biogeography and ecology. Gabriel is supported through a FAPESP BEPE scholarship.
+
+### *Feb 2025*
+- Welcome to Anna Nagel! Anna is an expert in Bayesian modeling, popoulation genetics, and phylogenetics, and recently joined our group as a postdoc.
+
+### *Oct 2024*
+- Sarah Swiston's paper for testing for relationships among multiple regional features and biogeographic rates was accepted in [Systematic Biology](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syae062/7905512). Congrats to Sarah!
+
 ### *Aug 2024*
 - Interested in simulating phylogenies? Fàbio Mendes' new paper introducing [PhyloJunction](https://phylojunction.org) is now in advance access at Systematic Biology ([link](https://doi.org/10.1093/sysbio/syae048)). Give it a try!  
 - We just launched Year 2 of the Society of Systematic Biologists' [Mentorship Program](https://www.systbio.org/mentorship-program.html). Thanks to the new cohort of volunteers for participating and to SSB for the continued support!
