@@ -16,13 +16,13 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2025
 
-**AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. (under review)
+**AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. (under internal review)
 
 **MJ Landis**, J Cracraft, I Sanmartín. 2025. An evolving view of phylogenetic biogeography. (under review at Systematic Biology)
 
-**MJ Landis**, MJ Donoghue. 2025. 75 years of systematic biology: Looking back, moving forward. (under review at Systematic Biology)
+**MJ Landis**, MJ Donoghue. 2025. 75 years of systematic biology: Looking back, moving forward. (under revision at Systematic Biology)
 
-**SW McHugh**, MJ Donoghue, **MJ Landis**. 2025. A phylogenetic model of established and enabled biome shifts. bioRxiv 2024.08.30.610561.<br>
+**SW McHugh**, MJ Donoghue, **MJ Landis**. 2025. A phylogenetic model of established and enabled biome shifts. bioRxiv 2024.08.30.610561. (under revision at Systematic Biology)<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
 
 **MJ Landis**, **A Thompson**. 2025. phyddle: software for exploring phylogenetic models with deep learning. (accepted at Systematic Biology)<br>
