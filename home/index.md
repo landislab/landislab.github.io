@@ -33,6 +33,14 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 # News
 
+### *Jul 2025*
+- Michael (with Felipe Zapata, Isaac Lichter-Marck, Mike May, and Ixchel Gonzalez-Ramirez) ran a RevBayes workshop on phylogenetic biogoegraphy at the Botany conference in Palm Springs, CA.
+- We're running Year 3 of the [SSB Mentorship Program](https://www.systbio.org/mentorship-program.html), joined by Sean McHugh and Precious Igho-Osagie to help coordinate monthly operations.
+
+### *Jun 2025*
+- Sarah Swiston, along with lab-friends Ixchel Gonzalez-Ramirez and Mike May, hosted a RevBayes workshop on phylogenetic biogeography at the Evolution conference in Athens, GA. Sarah Swiston also won the ASN Outstanding Student Poster Award for their new model for range evolution in continuous space [[link](https://www.amnat.org/announcements/student-poster-award-2025b.html)].
+- Michael and Ammon's paper on phyddle, a deep learning method for phylogenetic modeling, was accepted at [Systematic Biology](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syaf036/8131506). 
+
 ### *Mar 2025*
 - Welcome to Gabriel Santos Garcia! Gabriel is visiting us as a PhD student from University of Sao Paolo in Brazil for one year to study bat phylogenetics, biogeography and ecology. Gabriel is supported through a FAPESP BEPE scholarship.
 

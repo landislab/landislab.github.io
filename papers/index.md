@@ -14,16 +14,24 @@ navigation: True
 
 This page summarizes papers and associated research projects coming out of our group. Every entry has a link to the **paper** as a pdf, while many entries also have links to **video** recordings of talks, **blog** posts, analysis **code**, **tutorials**, and/or **sites**.
 
-## 2024
+## 2025
 
-**SW McHugh**, MJ Donoghue, **MJ Landis**. 2024. A phylogenetic model of established and enabled biome shifts. bioRxiv 2024.08.30.610561.<br>
+**AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. (under review)
+
+**MJ Landis**, J Cracraft, I Sanmartín. 2025. An evolving view of phylogenetic biogeography. (under review at Systematic Biology)
+
+**MJ Landis**, MJ Donoghue. 2025. 75 years of systematic biology: Looking back, moving forward. (under review at Systematic Biology)
+
+**SW McHugh**, MJ Donoghue, **MJ Landis**. 2025. A phylogenetic model of established and enabled biome shifts. bioRxiv 2024.08.30.610561.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
 
-**MJ Landis**, **A Thompson**. 2024. phyddle: software for phylogenetic model exploration with deep learning. bioRxiv 2024.08.06.606717.<br>
+**MJ Landis**, **A Thompson**. 2025. phyddle: software for exploring phylogenetic models with deep learning. (accepted at Systematic Biology)<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.06.606717v2.full.pdf)] [[code](https://github.com/mlandis/phyddle)] [[site](https://phyddle.org)]
 
- **SK Swiston**, **MJ Landis**. 2024. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. Accepted at Systematic Biology.<br>
+ **SK Swiston**, **MJ Landis**. 2025. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. Systematic Biology 74:282-300.<br>
  [[paper](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syae062/7905512?login=true)] [[tutorial](https://revbayes.github.io/tutorials/multifig/multifig.html)]
+
+## 2024
 
 **FHK Mendes**, **MJ Landis**. 2024. PhyloJunction: a computational framework for simulating, developing, and teaching evolutionary models. Systematic Biology 73:1051-1060.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/p    df/Mendes_Landis_2024_SystBiol_phylojunction.pdf)] [[code](https://github.com/fkmendes/PhyloJunction)] [[site](https://phylojunction.org)]
@@ -36,7 +44,6 @@ This page summarizes papers and associated research projects coming out of our g
 
 
 ## 2023
-
 
 AY Kawahara, C Storer, APS Carvalho, DM Plotkin, F Condamine, **MP Braga**, et al. [**MJ Landis** among 89 co-authors] 2023. Evolution and diversification dynamics of butterflies. Nature Ecology and Evolution doi:10.1038/s41559-023-02041-9.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Kawahara_et_al_2023_NEE_butterfly_radiation.pdf)]
