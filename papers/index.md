@@ -16,16 +16,20 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2025
 
-**AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. (under internal review)
+I Lichter-Marck, **SK Swiston**, **FK Mendes**, MR May, S Neupane, BG Baldwin, K Wood, N Rønsted, WL Wagner, F Zapata (\+), **MJ Landis (\+)**. 2025. The Goldilocks effect drives plant diversification on middle-aged Hawaiian islands. bioRxiv 2025.12.16.694722. (under review)<br>
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/LichterMarck_et_al_2025_bioRxiv_Hawaiian_Kadua.pdf)] [[code](https://github.com/Hawaiian-plant-biogeography/kadua_timefig)] [[tutorial](https://revbayes.github.io/tutorials/fig_intro/)]
 
-**MJ Landis**, J Cracraft, I Sanmartín. 2025. An evolving view of phylogenetic biogeography. (under review at Systematic Biology)
+**AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. medRxiv 2025.12.16.25342415. (under review)<br>
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_et_al_2025_medRxiv_visitor_covid.pdf)]
 
-**MJ Landis**, MJ Donoghue. 2025. 75 years of systematic biology: Looking back, moving forward. (under revision at Systematic Biology)
+**MJ Landis**, J Cracraft, I Sanmartín. 2025. An evolving view of phylogenetic biogeography. (under revision)
+
+**MJ Landis**, MJ Donoghue. 2025. Seventy-five years of systematic biology: Looking back, moving forward. (in press at Systematic Biology)<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Donoghue_2025_SystBiol_75years.pdf)]
 
 **SW McHugh**, MJ Donoghue, **MJ Landis**. 2025. A phylogenetic model of established and enabled biome shifts. bioRxiv 2024.08.30.610561. (under revision at Systematic Biology)<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
 
-**MJ Landis**, **A Thompson**. 2025. phyddle: software for exploring phylogenetic models with deep learning. (accepted at Systematic Biology)<br>
+**MJ Landis**, **A Thompson**. 2025. phyddle: software for exploring phylogenetic models with deep learning. Systematic Biology 74:1007-1019.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.06.606717v2.full.pdf)] [[code](https://github.com/mlandis/phyddle)] [[site](https://phyddle.org)]
 
  **SK Swiston**, **MJ Landis**. 2025. Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal. Systematic Biology 74:282-300.<br>
@@ -34,7 +38,7 @@ This page summarizes papers and associated research projects coming out of our g
 ## 2024
 
 **FHK Mendes**, **MJ Landis**. 2024. PhyloJunction: a computational framework for simulating, developing, and teaching evolutionary models. Systematic Biology 73:1051-1060.<br>
-[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/p    df/Mendes_Landis_2024_SystBiol_phylojunction.pdf)] [[code](https://github.com/fkmendes/PhyloJunction)] [[site](https://phylojunction.org)]
+[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Mendes_Landis_2024_SystBiol_phylojunction.pdf)] [[code](https://github.com/fkmendes/PhyloJunction)] [[site](https://phylojunction.org)]
 
 **AC Soewongsono**, **MJ Landis**. 2024. A diffusion-based approach for simulating forward-in-time state-dependent speciation and extinction dynamics. Bulletin of Mathematical Biology 86:101.<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_Landis_2024_BullMathBiol_SSE_diffusion.pdf)]
