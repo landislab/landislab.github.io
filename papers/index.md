@@ -14,20 +14,24 @@ navigation: True
 
 This page summarizes papers and associated research projects coming out of our group. Every entry has a link to the **paper** as a pdf, while many entries also have links to **video** recordings of talks, **blog** posts, analysis **code**, **tutorials**, and/or **sites**.
 
+## 2026
+
+**AA Nagel**, **MJ Landis**. 2026. Ancestral state reconstruction with discrete characters using deep learning. bioRxiv 2026.03.19.712918. (under review)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.03.19.712918v1)]
+
+**SW McHugh**, MJ Donoghue, **MJ Landis**. 2026. A phylogenetic model of established and enabled biome shifts. (in press as Systematic Biology)<br>
+[[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
+
+**MJ Landis**, MJ Donoghue. 2025. Seventy-five years of systematic biology: Looking back, moving forward. (in press at Systematic Biology)<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Donoghue_2025_SystBiol_75years.pdf)]
+
 ## 2025
 
 I Lichter-Marck, **SK Swiston**, **FK Mendes**, MR May, S Neupane, BG Baldwin, K Wood, N Rønsted, WL Wagner, F Zapata (\+), **MJ Landis (\+)**. 2025. The Goldilocks effect drives plant diversification on middle-aged Hawaiian islands. bioRxiv 2025.12.16.694722. (under review)<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/LichterMarck_et_al_2025_bioRxiv_Hawaiian_Kadua.pdf)] [[code](https://github.com/Hawaiian-plant-biogeography/kadua_timefig)] [[tutorial](https://revbayes.github.io/tutorials/fig_intro/)]
 
-**AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. medRxiv 2025.12.16.25342415. (under review)<br>
+**AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. medRxiv 2025.12.16.25342415. (under revision)<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_et_al_2025_medRxiv_visitor_covid.pdf)]
 
 **MJ Landis**, J Cracraft, I Sanmartín. 2025. An evolving view of phylogenetic biogeography. (under revision)
-
-**MJ Landis**, MJ Donoghue. 2025. Seventy-five years of systematic biology: Looking back, moving forward. (in press at Systematic Biology)<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Donoghue_2025_SystBiol_75years.pdf)]
-
-**SW McHugh**, MJ Donoghue, **MJ Landis**. 2025. A phylogenetic model of established and enabled biome shifts. bioRxiv 2024.08.30.610561. (under revision at Systematic Biology)<br>
-[[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
 
 **MJ Landis**, **A Thompson**. 2025. phyddle: software for exploring phylogenetic models with deep learning. Systematic Biology 74:1007-1019.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.06.606717v2.full.pdf)] [[code](https://github.com/mlandis/phyddle)] [[site](https://phyddle.org)]

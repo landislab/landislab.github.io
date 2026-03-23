@@ -33,6 +33,13 @@ We're always looking for creative thinkers who study evolution! **We have funded
 
 # News
 
+### *Mar 2026* 
+- Sean McHugh has a new paper published on modeling biome shifts among established and enabled biome affinities in Systematic Biology [[link](https://doi.org/10.1093/sysbio/syag026)]. Congrats, Sean!!
+
+### *Jan 2026*
+- Sarah Swiston received the Systematic Biology Publisher's Prize for their paper entitled "Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal" [[link](https://doi.org/10.1093/sysbio/syae062)]. Fantastic work!
+- Michael published a perspective piece with Michael Donoghue to help celebrate the 75th volume of Systematic Biology [[link](https://doi.org/10.1093/sysbio/syaf079)].
+
 ### *Jul 2025*
 - Michael (with Felipe Zapata, Isaac Lichter-Marck, Mike May, and Ixchel Gonzalez-Ramirez) ran a RevBayes workshop on phylogenetic biogoegraphy at the Botany conference in Palm Springs, CA.
 - We're running Year 3 of the [SSB Mentorship Program](https://www.systbio.org/mentorship-program.html), joined by Sean McHugh and Precious Igho-Osagie to help coordinate monthly operations.
