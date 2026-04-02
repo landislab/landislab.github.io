@@ -16,12 +16,14 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2026
 
+**MJ Landis**, JL Cracraft, I Sanmartín. 2026. An evolving view of phylogenetic biogeography. EcoEvoRxiv doi:10.32942/X2DW9Q. (under revision)<br>[[paper](https://ecoevorxiv.org/repository/view/12458/)]
+
 **AA Nagel**, **MJ Landis**. 2026. Ancestral state reconstruction with discrete characters using deep learning. bioRxiv 2026.03.19.712918. (under review)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.03.19.712918v1)]
 
 **SW McHugh**, MJ Donoghue, **MJ Landis**. 2026. A phylogenetic model of established and enabled biome shifts. (in press as Systematic Biology)<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
 
-**MJ Landis**, MJ Donoghue. 2025. Seventy-five years of systematic biology: Looking back, moving forward. (in press at Systematic Biology)<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Donoghue_2025_SystBiol_75years.pdf)]
+**MJ Landis**, MJ Donoghue. 2026. Seventy-five years of systematic biology: Looking back, moving forward. (in press at Systematic Biology)<br>[[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Landis_Donoghue_2025_SystBiol_75years.pdf)]
 
 ## 2025
 
@@ -30,8 +32,6 @@ I Lichter-Marck, **SK Swiston**, **FK Mendes**, MR May, S Neupane, BG Baldwin, K
 
 **AC Soewongsono**, **A Thompson**, **MJ Landis**. 2025. Inferring epidemiological parameters under an infectious phylogeography model with visitor dynamics. medRxiv 2025.12.16.25342415. (under revision)<br>
 [[paper](https://raw.githubusercontent.com/landislab/landislab.github.io/master/assets/research/pdf/Soewongsono_et_al_2025_medRxiv_visitor_covid.pdf)]
-
-**MJ Landis**, J Cracraft, I Sanmartín. 2025. An evolving view of phylogenetic biogeography. (under revision)
 
 **MJ Landis**, **A Thompson**. 2025. phyddle: software for exploring phylogenetic models with deep learning. Systematic Biology 74:1007-1019.<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.06.606717v2.full.pdf)] [[code](https://github.com/mlandis/phyddle)] [[site](https://phyddle.org)]
