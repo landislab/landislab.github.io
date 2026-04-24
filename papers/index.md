@@ -20,6 +20,8 @@ This page summarizes papers and associated research projects coming out of our g
 
 **AA Nagel**, **MJ Landis**. 2026. Ancestral state reconstruction with discrete characters using deep learning. bioRxiv 2026.03.19.712918. (under review)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.03.19.712918v1)]
 
+**AC Soewongsono**, **MJ Landis**. 2026. Phylogenetic estimation of diversity-dependent biogeographic rates using deep learning. bioRxiv 2026.02.17.706216. (under review)<br>[[paper](://www.biorxiv.org/content/10.64898/2026.02.17.706216v1)]
+
 **SW McHugh**, MJ Donoghue, **MJ Landis**. 2026. A phylogenetic model of established and enabled biome shifts. (in press as Systematic Biology)<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
 
