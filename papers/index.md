@@ -16,6 +16,8 @@ This page summarizes papers and associated research projects coming out of our g
 
 ## 2026
 
+**SK Swiston**, **SW McHugh**, **MJ Landis**. 2026. EMPIRE: The ellipse model for phylogenetic inference of range evolution. bioRxiv 2026.04.23.720387. (under review)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.04.23.720387v1)] [[code](https://github.com/sswiston/empire)]
+
 **MJ Landis**, JL Cracraft, I Sanmartín. 2026. An evolving view of phylogenetic biogeography. EcoEvoRxiv doi:10.32942/X2DW9Q. (under revision)<br>[[paper](https://ecoevorxiv.org/repository/view/12458/)]
 
 **AA Nagel**, **MJ Landis**. 2026. Ancestral state reconstruction with discrete characters using deep learning. bioRxiv 2026.03.19.712918. (under review)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.03.19.712918v1)]
