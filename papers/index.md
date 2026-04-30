@@ -18,11 +18,11 @@ This page summarizes papers and associated research projects coming out of our g
 
 **SK Swiston**, **SW McHugh**, **MJ Landis**. 2026. EMPIRE: The ellipse model for phylogenetic inference of range evolution. bioRxiv 2026.04.23.720387. (under review)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.04.23.720387v1)] [[code](https://github.com/sswiston/empire)]
 
-**MJ Landis**, JL Cracraft, I Sanmartín. 2026. An evolving view of phylogenetic biogeography. EcoEvoRxiv doi:10.32942/X2DW9Q. (under revision)<br>[[paper](https://ecoevorxiv.org/repository/view/12458/)]
+**MJ Landis**, JL Cracraft, I Sanmartín. 2026. An evolving view of phylogenetic biogeography. (accepted at Systematic Biology)<br>[[paper](https://ecoevorxiv.org/repository/view/12458/)]
 
 **AA Nagel**, **MJ Landis**. 2026. Ancestral state reconstruction with discrete characters using deep learning. bioRxiv 2026.03.19.712918. (under review)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.03.19.712918v1)]
 
-**AC Soewongsono**, **MJ Landis**. 2026. Phylogenetic estimation of diversity-dependent biogeographic rates using deep learning. bioRxiv 2026.02.17.706216. (under review)<br>[[paper](://www.biorxiv.org/content/10.64898/2026.02.17.706216v1)]
+**AC Soewongsono**, **MJ Landis**. 2026. Phylogenetic estimation of diversity-dependent biogeographic rates using deep learning. bioRxiv 2026.02.17.706216. (under revision)<br>[[paper](https://www.biorxiv.org/content/10.64898/2026.02.17.706216v1)]
 
 **SW McHugh**, MJ Donoghue, **MJ Landis**. 2026. A phylogenetic model of established and enabled biome shifts. (in press as Systematic Biology)<br>
 [[paper](https://www.biorxiv.org/content/10.1101/2024.08.30.610561v1)]
